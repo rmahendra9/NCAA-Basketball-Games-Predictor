@@ -204,6 +204,6 @@ if __name__ == "__main__":
     try:
         url = sys.argv[1]
     except IndexError:
-        print("Please specify a URL.\nUsage: python html_table_extractor.py [URL]")
+        print("Please specify a URL.\nUsage: python datascraper.py [URL]")
         exit(1)
     main(url)
