@@ -37,7 +37,7 @@ jobs:
     - name: Archive scraped data
       uses: actions/upload-artifact@v3
       with:
-        name: NCAA-Game-Logs
-        path: NCAA-Game-Logs.csv
+        name: NCAA-Overall-Team-Stats
+        path: NCAA-Overall-Team-Stats.csv
         
 
