@@ -144,13 +144,9 @@ def main(url):
 
 if __name__ == "__main__":
     import sys
-    try:
-        url = "https://www.sports-reference.com/cbb/seasons/2022-school-stats.html"
-        if "sports-reference" not in url:
-            print("Invalid URL passed, scraper may not work on this website")
-            exit(0)
-    except IndexError:
-        print("Please specify a URL.\nUsage: python html_table_extractor.py [URL]")
+    url = "https://www.sports-reference.com/cbb/seasons/2022-school-stats.html"
+    if "sports-reference" not in url:
+        print("Invalid URL passed, scraper may not work on this website")
         exit(0)
     main(url)
 
