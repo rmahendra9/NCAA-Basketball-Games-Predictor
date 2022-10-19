@@ -34,5 +34,10 @@ jobs:
     - name: Dry-Run
       run: |
         python src/datascraper.py
+    - name: Archive scraped data
+      uses: actions/upload-artifact@v3
+      with:
+        name: NCAA-Game-Logs
+        path: NCAA-Game-Logs.csv
         
 
