@@ -34,10 +34,5 @@ jobs:
     - name: Dry-Run
       run: |
         python src/datascraper.py "https://www.sports-reference.com/cbb/seasons/2022-school-stats.html"
-    - name: Archive scraped data
-      uses: actions/upload-artifact@v3
-      with:
-        name: NCAA-Overall-Team-Stats
-        path: NCAA-Overall-Team-Stats.csv
         
 
