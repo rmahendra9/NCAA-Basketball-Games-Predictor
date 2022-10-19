@@ -54,7 +54,7 @@ def main(url):
         rows = rows[1:]
         # get all headers of the table
         # save table as csv file
-        table_name = "NCAA-Game-Log"
+        table_name = "NCAA-Overall-Team-Stats"
         print(f"[+] Saving {table_name}")
         save_as_csv(table_name, headers, rows)
 
