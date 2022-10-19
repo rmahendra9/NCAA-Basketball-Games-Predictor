@@ -64,9 +64,9 @@ if __name__ == "__main__":
         url = sys.argv[1]
         if "sports-reference" not in url:
             print("Invalid URL passed, scraper may not work on this website")
-            exit(1)
+            exit(0)
     except IndexError:
         print("Please specify a URL.\nUsage: python html_table_extractor.py [URL]")
-        exit(1)
+        exit(0)
     main(url)
 
