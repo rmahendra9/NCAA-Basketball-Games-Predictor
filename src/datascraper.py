@@ -38,49 +38,27 @@ def get_table_rows(table):
 def save_as_csv(table_name, headers, rows):
     pd.DataFrame(rows, columns=headers).to_csv(f"{table_name}.csv")
 
-def get_school_url(row):
+def get_school_url(url, row):
     school_url = []
     for a_tag in row.find_all("a"):
         school_url.append(a_tag.text.strip())
         href = a_tag.attrs.get("href")
         if href == "" or href is None:
             continue
-        href = urljoin("https://www.sports-reference.com/cbb/seasons/2022-school-stats.html", href)
+        href = urljoin(url, href)
         parsed_href = urlparse(href)
         href = parsed_href.scheme + "://" + parsed_href.netloc + parsed_href.path
         gamelog = href.replace(".html", "-gamelogs.html")
         school_url.append(gamelog)
-        print ("href --> ",school_url," ",gamelog)
+        print ("Added: ",school_url[0]," --> Gamelog URL: ",gamelog)
     return school_url
 
-def get_table_rows_url(table):
+def get_table_rows_url(url, table):
     """Given a table, returns all its rows along with URL in table"""
-    rows = []
     game_logs = []
     for tr in table.find_all("tr")[1:]:
-        cells = []
-        # grab all td tags in this table row
-        tds = tr.find_all("td")
-        if len(tds) == 0:
-            # if no td tags, search for th tags
-            # can be found especially in wikipedia tables below the table
-            ths = tr.find_all("th")
-            for th in ths:
-                cells.append(th.text.strip())
-        else:
-            # use regular th and td tags
-            tds = tr.find_all(["td","th"])
-            for td in tds:
-                cells.append(td.text.strip())
-            rows.append(cells)
-            #
-            # Get School Game Logs url
-            #
-            game_logs.append(get_school_url (tr))
-    #
-    # Return Rows of the School Stats Table alomg with Rows of the School an URL
-    #
-    return rows, game_logs
+        game_logs.append(get_school_url(url, tr))
+    return game_logs
 
 def get_game_table_rows(school, table):
     """Given a school and a Game Logs table, returns all its rows in table"""
@@ -112,7 +90,6 @@ def get_game_logs (game_log):
     gamesoup = get_soup(game_log_url)
     # extract all the tables from the web page
     tables = get_all_tables(gamesoup)
-    print(f"[+] Found a total of {len(tables)} tables.")
     # iterate over all tables
     for i, table in enumerate(tables, start=1):
         # get the table headers
@@ -146,24 +123,23 @@ def main(url):
         headers = get_table_headers(table)
 
         # get all the rows of the table
-        rows, game_logs = get_table_rows_url(table)
-
-        # save table as csv file
-        table_name = 'NCAA_school_stats'
-        print(f"[+] Saving {table_name}")
-        save_as_csv(table_name, headers, rows)
+        game_logs = get_table_rows_url(url, table)
+    
+    # remove empty rows from game logs
+    game_logs = [game_log for game_log in game_logs if game_log != []]
 
     gl_rows = []
     for game_log in game_logs:
          # get game log data for each school
-         print ('Getting Data for --> ', game_log)
-         gl_header, gl_school_rows = get_game_logs (game_log)
+        gl_header, gl_school_rows = get_game_logs (game_log)
 
-         for gl_row in gl_school_rows:
-             gl_rows.append (gl_row)
+        for gl_row in gl_school_rows:
+            gl_rows.append (gl_row)
+        
+        print("Added game logs for --> ", game_log[0])
 
     gl_table_name = 'NCAA_Game_Log'
-    print(f"[+] Saving {table_name}")
+    print(f"[+] Saving {gl_table_name}")
     save_as_csv(gl_table_name, gl_header, gl_rows)
 
 if __name__ == "__main__":
