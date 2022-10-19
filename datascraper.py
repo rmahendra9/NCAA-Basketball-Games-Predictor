@@ -10,8 +10,6 @@ from bs4 import BeautifulSoup as bs
 def get_soup(url):
     """Constructs and returns a soup using the HTML content of `url` passed"""
     session = requests.Session()
-    #session.headers['Accept-Language'] = LANGUAGE
-    #session.headers['Content-Language'] = LANGUAGE
     html = session.get(url)
     return bs(html.content, "html.parser")
 
