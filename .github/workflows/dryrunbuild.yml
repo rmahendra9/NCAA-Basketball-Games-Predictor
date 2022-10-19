@@ -33,7 +33,7 @@ jobs:
         bandit -r src
     - name: Dry-Run
       run: |
-        python src/datascraper.py
+        python src/datascraper.py "https://www.sports-reference.com/cbb/seasons/2022-school-stats.html"
     - name: Archive scraped data
       uses: actions/upload-artifact@v3
       with:
