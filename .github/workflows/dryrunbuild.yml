@@ -1,4 +1,4 @@
-name: NCAA-March-Madness-Bracket-Predictor
+name: Dry-Run Build
 on:
   push:
     branches: [ "master" ]
@@ -10,9 +10,7 @@ permissions:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v3
     - name: Set up Python 3.10
@@ -33,3 +31,5 @@ jobs:
     - name: Dry-Run
       run: |
         python datascraper.py
+        
+
