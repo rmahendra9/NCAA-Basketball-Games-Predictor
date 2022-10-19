@@ -3,6 +3,8 @@
 #
 # Adapted to scrape NCAA D1 Basketball Data from https://www.sports-reference.com/cbb/seasons/2022-school-stats.html
 
+#TODO: Edit datascraper to output individual school game logs
+
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup as bs
