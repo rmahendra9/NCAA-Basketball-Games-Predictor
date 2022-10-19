@@ -143,10 +143,5 @@ def main(url):
     save_as_csv(gl_table_name, gl_header, gl_rows)
 
 if __name__ == "__main__":
-    import sys
-    url = "https://www.sports-reference.com/cbb/seasons/2022-school-stats.html"
-    if "sports-reference" not in url:
-        print("Invalid URL passed, scraper may not work on this website")
-        exit(0)
-    main(url)
+    main("https://www.sports-reference.com/cbb/seasons/2022-school-stats.html")
 
