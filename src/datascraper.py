@@ -36,7 +36,7 @@ def get_table_rows(table):
     return rows
 
 def save_as_csv(table_name, headers, rows):
-    pd.DataFrame(rows, columns=headers).to_csv(f"{table_name}.csv")
+    df = pd.DataFrame(rows, columns=headers).to_csv(f"{table_name}.csv")
 
 def get_school_url(url, row):
     school_url = []
@@ -50,7 +50,7 @@ def get_school_url(url, row):
         href = parsed_href.scheme + "://" + parsed_href.netloc + parsed_href.path
         gamelog = href.replace(".html", "-gamelogs.html")
         school_url.append(gamelog)
-        print ("Added: ",school_url[0]," --> Gamelog URL: ",gamelog)
+        print("Added: ",school_url[0]," --> Gamelog URL: ",gamelog)
     return school_url
 
 def get_table_rows_url(url, table):
@@ -94,7 +94,7 @@ def get_game_logs (game_log):
     for i, table in enumerate(tables, start=1):
         # get the table headers
         headers = get_table_headers(table)
-        school_headers = headers.insert (0, 'School')
+        school_headers = headers.insert(0, 'School')
 
         # get all the rows of the table
         rows = get_game_table_rows(school, table)
@@ -131,10 +131,10 @@ def main(url):
     gl_rows = []
     for game_log in game_logs:
          # get game log data for each school
-        gl_header, gl_school_rows = get_game_logs (game_log)
+        gl_header, gl_school_rows = get_game_logs(game_log)
 
         for gl_row in gl_school_rows:
-            gl_rows.append (gl_row)
+            gl_rows.append(gl_row)
         
         print("Added game logs for --> ", game_log[0])
 
