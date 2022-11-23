@@ -1,16 +1,18 @@
 #
 # https://www.thepythoncode.com/article/convert-html-tables-into-csv-files-in-python
 #
-# Adapted to scrape NCAA D1 Basketball Data from https://www.sports-reference.com/cbb/seasons/2022-school-stats.html
+# Adapted to scrape NCAA D1 Basketball Data from https://www.sports-reference.com/cbb/seasons/2023-school-stats.html
 
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup as bs
 from urllib.parse import urlparse, urljoin
+import time
 
 def get_soup(url):
     session = requests.Session()
     html = session.get(url)
+    time.sleep(2)
     return bs(html.content, "html.parser")
 
 def get_all_tables(soup):
@@ -143,5 +145,4 @@ def main(url):
     save_as_csv(gl_table_name, gl_header, gl_rows)
 
 if __name__ == "__main__":
-    main("https://www.sports-reference.com/cbb/seasons/2022-school-stats.html")
-
+    main("https://www.sports-reference.com/cbb/seasons/2023-school-stats.html")
