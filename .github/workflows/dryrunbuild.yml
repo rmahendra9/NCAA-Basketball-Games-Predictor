@@ -33,6 +33,8 @@ jobs:
         bandit -r src
     - name: Dry-Run
       run: |
-        python src/datascraper.py
+        python src/game_log_datascraper.py
+        python src/school_stats_datascraper.py
+        
         
 
