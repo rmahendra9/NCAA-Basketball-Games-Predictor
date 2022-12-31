@@ -48,6 +48,19 @@ def get_table_rows(table):
 def save_as_csv(table_name, headers, rows):
     df = pd.DataFrame(rows, columns=headers).to_csv(f"{table_name}.csv")
 
+def clean_data(table_name):
+    df = pd.read_csv(f"{table_name}.csv")
+    df = df.loc[:, ~df.columns.str.contains('^Unnamed')]
+    df = df.drop('SRS',axis=1)
+    df = df.drop('SOS',axis=1)
+    df = df.drop('W.1',axis=1)
+    df = df.drop('L.1',axis=1)
+    df = df.drop('W.2',axis=1)
+    df = df.drop('L.2',axis=1)
+    df = df.drop('W.3',axis=1)
+    df = df.drop('L.3',axis=1)
+    df = df.drop('MP',axis=1)
+    df.to_csv(f"{table_name}.csv")
 
 def main(url):
     # get the soup
@@ -60,7 +73,6 @@ def main(url):
         # get the table headers
         headers = get_table_headers(table)
         headers = headers[1:]
-
         # get all the rows of the table
         rows = get_table_rows(table)
         rows = rows[1:]
@@ -69,6 +81,7 @@ def main(url):
         ss_table_name = 'NCAA_School_Stats'
         print(f"[+] Saving {ss_table_name}")
         save_as_csv(ss_table_name, headers, rows)
+        clean_data(ss_table_name)
 
 if __name__ == "__main__":
     main("https://www.sports-reference.com/cbb/seasons/2023-school-stats.html")
