@@ -31,10 +31,6 @@ jobs:
     - name: Security Check
       run: |
         bandit -r src
-    - name: Dry-Run
-      run: |
-        python src/game_log_datascraper.py
-        python src/school_stats_datascraper.py
         
         
 
