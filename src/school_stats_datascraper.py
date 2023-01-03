@@ -48,20 +48,6 @@ def get_table_rows(table):
 def save_as_csv(table_name, headers, rows):
     df = pd.DataFrame(rows, columns=headers).to_csv(f"{table_name}.csv")
 
-def clean_data(table_name):
-    df = pd.read_csv(f"{table_name}.csv")
-    df = df.loc[:, ~df.columns.str.contains('^Unnamed')]
-    df = df.drop('SRS',axis=1)
-    df = df.drop('SOS',axis=1)
-    df = df.drop('W.1',axis=1)
-    df = df.drop('L.1',axis=1)
-    df = df.drop('W.2',axis=1)
-    df = df.drop('L.2',axis=1)
-    df = df.drop('W.3',axis=1)
-    df = df.drop('L.3',axis=1)
-    df = df.drop('MP',axis=1)
-    df.to_csv(f"{table_name}.csv")
-
 def main(url):
     # get the soup
     soup = get_soup(url)
@@ -77,11 +63,21 @@ def main(url):
         rows = get_table_rows(table)
         rows = rows[1:]
         rows = [row for row in rows if row[0] != "" and row[0] != "Rk"]
-
-        ss_table_name = 'NCAA_School_Stats'
+        if(url == "https://www.sports-reference.com/cbb/seasons/2023-school-stats.html"):
+            ss_table_name = 'NCAA_School_Stats'
+        else:
+            ss_table_name = 'NCAA_School_Stats_Advanced'
         print(f"[+] Saving {ss_table_name}")
         save_as_csv(ss_table_name, headers, rows)
-        clean_data(ss_table_name)
 
 if __name__ == "__main__":
     main("https://www.sports-reference.com/cbb/seasons/2023-school-stats.html")
+    main("https://www.sports-reference.com/cbb/seasons/2023-advanced-school-stats.html")
+    df1 = pd.read_csv("NCAA_School_Stats.csv")
+    df2 = pd.read_csv("NCAA_School_Stats_Advanced.csv")
+    df1 = df1.loc[:, ~df1.columns.str.contains('^Unnamed')]
+    df2 = df2.loc[:, ~df2.columns.str.contains('^Unnamed')]
+    df1.set_index("School",inplace=True)
+    df2.set_index("School",inplace=True)
+    df3 = pd.concat([df1,df2],axis=1)
+    df3.to_csv("NCAA_School_Stats_All.csv")
