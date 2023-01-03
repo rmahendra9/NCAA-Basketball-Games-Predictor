@@ -79,5 +79,6 @@ if __name__ == "__main__":
     df2 = df2.loc[:, ~df2.columns.str.contains('^Unnamed')]
     df1.set_index("School",inplace=True)
     df2.set_index("School",inplace=True)
-    df3 = pd.concat([df1,df2],axis=1)
+    cols_to_use = df2.columns.difference(df1.columns)
+    df3 = pd.merge(df1, df2[cols_to_use], left_index=True, right_index=True)
     df3.to_csv("NCAA_School_Stats_All.csv")
