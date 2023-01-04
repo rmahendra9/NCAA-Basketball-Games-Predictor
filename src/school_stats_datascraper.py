@@ -58,27 +58,34 @@ def main(url):
     for i, table in enumerate(tables, start=1):
         # get the table headers
         headers = get_table_headers(table)
-        headers = headers[1:]
+        if url != "https://barttorvik.com/trank.php#":
+            headers = headers[1:]
         # get all the rows of the table
         rows = get_table_rows(table)
         rows = rows[1:]
         rows = [row for row in rows if row[0] != "" and row[0] != "Rk"]
-        if(url == "https://www.sports-reference.com/cbb/seasons/2023-school-stats.html"):
+        if url == "https://www.sports-reference.com/cbb/seasons/2023-school-stats.html":
             ss_table_name = 'NCAA_School_Stats'
-        else:
+        elif url == "https://www.sports-reference.com/cbb/seasons/2023-advanced-school-stats.html":
             ss_table_name = 'NCAA_School_Stats_Advanced'
+        else:
+            ss_table_name = 'NCAA_School_Stats_Tempo-Free'
         print(f"[+] Saving {ss_table_name}")
         save_as_csv(ss_table_name, headers, rows)
 
 if __name__ == "__main__":
     main("https://www.sports-reference.com/cbb/seasons/2023-school-stats.html")
     main("https://www.sports-reference.com/cbb/seasons/2023-advanced-school-stats.html")
+    main("https://barttorvik.com/trank.php#")
     df1 = pd.read_csv("NCAA_School_Stats.csv")
     df2 = pd.read_csv("NCAA_School_Stats_Advanced.csv")
+    df3 = pd.read_csv("NCAA_School_Stats_Tempo-Free.csv")
     df1 = df1.loc[:, ~df1.columns.str.contains('^Unnamed')]
     df2 = df2.loc[:, ~df2.columns.str.contains('^Unnamed')]
+    df3 = df3.loc[:, ~df3.columns.str.contains('^Unnamed')]
     df1.set_index("School",inplace=True)
     df2.set_index("School",inplace=True)
+    df3.set_index("Team",inplace=True)
     cols_to_use = df2.columns.difference(df1.columns)
-    df3 = pd.merge(df1, df2[cols_to_use], left_index=True, right_index=True)
-    df3.to_csv("NCAA_School_Stats_All.csv")
+    df4 = pd.merge(df1, df2[cols_to_use], left_index=True, right_index=True)
+    df4.to_csv("NCAA_School_Stats_All.csv")
