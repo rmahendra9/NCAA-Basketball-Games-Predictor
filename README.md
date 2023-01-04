@@ -4,7 +4,7 @@ This repo contains models aimed at predicting the outcomes of the NCAA Division 
 
 ## Acknowledgements
 
-I want to acknowledge Sports-Reference as the data for NCAA Basketball teams was pulled from there.
+I want to acknowledge Sports-Reference and Bart Torvik (https://barttorvik.com/#) as the data for NCAA Basketball teams was pulled from there.
 
 ## The Datascraper
 
