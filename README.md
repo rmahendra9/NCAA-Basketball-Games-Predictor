@@ -1,4 +1,4 @@
-# NCAA-March-Madness-Bracket-Predictor
+# NCAA-Basketball-Games-Predictor
 
 This repo contains models aimed at predicting regular season outcomes of NCAA Men's Division I Basketball.
 
