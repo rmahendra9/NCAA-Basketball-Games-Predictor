@@ -44,7 +44,10 @@ def get_table_rows(table):
     return rows
 
 def save_as_csv(table_name, headers, rows):
-    df = pd.DataFrame(rows, columns=headers).to_csv(f"{table_name}.csv")
+    df = pd.DataFrame(rows, columns=headers)
+    df = df.drop("Rk", axis=1)
+    df.set_index("Team")
+    df.to_csv(f"{table_name}.csv")
 
 def main(url):
     # get the soup
