@@ -1,7 +1,7 @@
 #
 # https://www.thepythoncode.com/article/convert-html-tables-into-csv-files-in-python
 #
-# Adapted to scrape NCAA D1 Basketball Data from https://www.sports-reference.com/cbb/seasons/2023-school-stats.html
+# Adapted to scrape NCAA D1 Basketball Data from https://barttorvik.com/trank.php#
 
 import requests
 import pandas as pd

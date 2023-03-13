@@ -1,21 +1,6 @@
 import math
 import pandas as pd
 
-"""
-Step 1: Create a similarity metric based on distance between teams AdjOE/AdjDE (scaled from 0 to 1)
-Step 2: d_norm / max(distance) and sim = 1 - d_norm
-
-Sim score between games: A/B and C/D
-Take Sim(A,C), Sim(A,D), Sim(B,C), Sim(B,D)
-Weight(A/C) = Similarity Score(A,C) / (Similarity Score(A,C) + Similarity Score(A,D))
-Weight(A/D) = Similarity Score(A,D) / (Similarity Score(A,C) + Similarity Score(A,D)) 
-Weight(B/C) = Similarity Score(B,C) / (Similarity Score(B,C) + Similarity Score(B,D))
-Weight(B/D) = Similarity Score(B,D) / (Similarity Score(B,C) + Similarity Score(B,D))
-Unified Similarity Score = (Weight(A/C) * Similarity Score(A,C)) + (Weight(A/D) * Similarity Score(A,D)) + (Weight(B/C) * Similarity Score(B,C)) + (Weight(B/D) * Similarity Score(B,D))
-
-Option 2: (A,B) in a vector, just find distance to (C,D) (higher seed first) and do distance on pairs
-
-"""
 def get_max_dist(df):
     max_dist = float("-inf")
     for i in range(len(df.index)):
@@ -50,8 +35,8 @@ def get_outcome(team_a, team_b, gamelog_df, stats_df, MAX_DIST):
         top_sim_opp.append([opponents_df.index[i], sim_score, opponents_df.iloc[i]['Result/Line']])
     #Sort the result
     top_sim_opp.sort(key=lambda x:x[1], reverse=True)
-    #Get top 20 opponents
-    top_sim_opp = top_sim_opp[:20]
+    #Get top 25 opponents
+    top_sim_opp = top_sim_opp[:25]
     #Calculate Wa,b and La,b
     wab = 0
     lab = 0
@@ -71,7 +56,7 @@ def get_outcome(team_a, team_b, gamelog_df, stats_df, MAX_DIST):
     #Sort the result
     top_sim_opp.sort(key=lambda x:x[1], reverse=True)
     #Get top 20 opponents
-    top_sim_opp = top_sim_opp[:20]
+    top_sim_opp = top_sim_opp[:25]
     #Calculate Wb,a and Lb,a
     wba = 0
     lba = 0
@@ -94,7 +79,10 @@ def main(team_a, team_b):
     #Get max_dist
     MAX_DIST = 42.240598070221495
     outcome = get_outcome(team_a, team_b, gamelog_df, stats_df, MAX_DIST)
-    print("Team A: " + team_a + "\tTeam B: " + team_b + "\t" + str(outcome))
+    print("Team A: " + team_a)
+    print("Team B: " + team_b)
+    winning_team = team_a if outcome > 0.5 else team_b
+    print("Team A chance of winning: " + str(outcome) + " -> " + winning_team)
 
 if __name__ == "__main__":
     import sys
