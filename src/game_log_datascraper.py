@@ -1,7 +1,7 @@
 #
 # https://www.thepythoncode.com/article/convert-html-tables-into-csv-files-in-python
 #
-# Adapted to scrape NCAA D1 Basketball Data from https://www.sports-reference.com/cbb/seasons/2023-school-stats.html
+# Adapted to scrape NCAA D1 Basketball Data from https://barttorvik.com/teamstats.php?year=2023&sort=2
 
 import requests
 import pandas as pd
@@ -42,23 +42,22 @@ def save_as_csv(table_name, headers, rows):
 
 def get_school_url(url, row):
     school_url = []
-    for a_tag in row.find_all("a"):
-        school_url.append(a_tag.text.strip())
-        href = a_tag.attrs.get("href")
-        if href == "" or href is None:
-            continue
-        href = urljoin(url, href)
-        parsed_href = urlparse(href)
-        href = parsed_href.scheme + "://" + parsed_href.netloc + parsed_href.path
-        gamelog = href.replace(".html", "-gamelogs.html")
-        school_url.append(gamelog)
-        print("Added: ",school_url[0]," --> Gamelog URL: ",gamelog)
+    if len(row.find_all("a")) == 0:
+        return
+    a_tag = row.find_all("a")[0]
+    school_url.append(a_tag.text.strip())
+    href = a_tag.attrs.get("href")
+    if href == "" or href is None:
+        return
+    href = urljoin(url, href)
+    school_url.append(href)
+    print("Added: ",school_url[0]," --> Gamelog URL: ",href)
     return school_url
 
 def get_table_rows_url(url, table):
     """Given a table, returns all its rows along with URL in table"""
     game_logs = []
-    for tr in table.find_all("tr")[1:]:
+    for tr in table.find_all("tr")[2:]:
         game_logs.append(get_school_url(url, tr))
     return game_logs
 
@@ -82,6 +81,17 @@ def get_game_table_rows(school, table):
             for td in tds:
                 cells.append(td.text.strip())
             rows.append(cells)
+    rows = [row[:9] for row in rows if len(row) == 31]
+    rows.pop()
+    # Clean up rows
+    for row in rows:
+        temp = row[1].split("\n")
+        row[1] = temp[1]
+        temp = row[8].split(",")
+        row[8] = temp[0]
+        indexes = [3, 4, 5, 7]
+        for index in sorted(indexes, reverse=True):
+            del row[index]
     return rows
 
 def get_game_logs (game_log):
@@ -92,15 +102,14 @@ def get_game_logs (game_log):
     gamesoup = get_soup(game_log_url)
     # extract all the tables from the web page
     tables = get_all_tables(gamesoup)
-    # iterate over all tables
-    for i, table in enumerate(tables, start=1):
-        # get the table headers
-        headers = get_table_headers(table)
-        school_headers = headers.insert(0, 'School')
-
-        # get all the rows of the table
-        rows = get_game_table_rows(school, table)
-
+    table = tables[2]
+    # get the table headers
+    headers = get_table_headers(table)
+    headers.insert(0, 'School')
+    headers[2] = "Venue"
+    headers = headers[:5]
+    # get all the rows of the table
+    rows = get_game_table_rows(school, table)
 
     return headers, rows
 
@@ -128,13 +137,13 @@ def main(url):
         game_logs = get_table_rows_url(url, table)
     
     # remove empty rows from game logs
-    game_logs = [game_log for game_log in game_logs if game_log != []]
+    game_logs = [game_log for game_log in game_logs if game_log != None and game_log[0] != "Rk"]
 
     gl_rows = []
     for game_log in game_logs:
          # get game log data for each school
         gl_header, gl_school_rows = get_game_logs(game_log)
-
+        
         for gl_row in gl_school_rows:
             gl_rows.append(gl_row)
         
@@ -145,4 +154,4 @@ def main(url):
     save_as_csv(gl_table_name, gl_header, gl_rows)
 
 if __name__ == "__main__":
-    main("https://www.sports-reference.com/cbb/seasons/2023-school-stats.html")
+    main("https://barttorvik.com/teamstats.php?year=2023")
