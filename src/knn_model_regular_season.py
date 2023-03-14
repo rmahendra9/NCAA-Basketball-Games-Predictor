@@ -86,7 +86,8 @@ def main():
         print("Team A: " + team_a)
         print("Team B: " + team_b)
         winning_team = team_a if outcome > 0.5 else team_b
-        print("Team A chance of winning: " + str(outcome) + " -> " + winning_team) if outcome > 0.5 else print("Team B chance of winning: " + str(1 - outcome) + " -> " + winning_team)
+        outcome = outcome if outcome > 0.5 else 1 - outcome
+        print("The winning team of this matchup is " + winning_team + " with a " + str(round(outcome*100, 3)) + "%" + " chance of winning")
         cont = input("Continue (Y/N): ")
         if cont != "Y":
             break
