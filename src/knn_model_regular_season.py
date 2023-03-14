@@ -55,7 +55,7 @@ def get_outcome(team_a, team_b, gamelog_df, stats_df, MAX_DIST):
         top_sim_opp.append([opponents_df.index[i], sim_score, opponents_df.iloc[i]['Result/Line']])
     #Sort the result
     top_sim_opp.sort(key=lambda x:x[1], reverse=True)
-    #Get top 20 opponents
+    #Get top 25 opponents
     top_sim_opp = top_sim_opp[:25]
     #Calculate Wb,a and Lb,a
     wba = 0
@@ -69,7 +69,8 @@ def get_outcome(team_a, team_b, gamelog_df, stats_df, MAX_DIST):
     pab = (wab + lba) / (wab + lba + wba + lab)
     return pab
 
-def main(team_a, team_b):
+def main():
+    print("Setting up preliminaries...")
     #Read CSV
     stats_df = pd.read_csv("NCAA_School_Stats_Tempo_Free.csv")
     gamelog_df = pd.read_csv("NCAA_Game_Log.csv")
@@ -77,21 +78,21 @@ def main(team_a, team_b):
     stats_df = stats_df.set_index("Team")
     gamelog_df = gamelog_df.set_index("School")
     #Get max_dist
-    MAX_DIST = 42.240598070221495
-    outcome = get_outcome(team_a, team_b, gamelog_df, stats_df, MAX_DIST)
-    print("Team A: " + team_a)
-    print("Team B: " + team_b)
-    winning_team = team_a if outcome > 0.5 else team_b
-    print("Team A chance of winning: " + str(outcome) + " -> " + winning_team)
-
+    MAX_DIST = get_max_dist(stats_df)
+    while True:
+        team_a = input("Enter team A: ")
+        team_b = input("Enter team B: ")
+        outcome = get_outcome(team_a, team_b, gamelog_df, stats_df, MAX_DIST)
+        print("Team A: " + team_a)
+        print("Team B: " + team_b)
+        winning_team = team_a if outcome > 0.5 else team_b
+        print("Team A chance of winning: " + str(outcome) + " -> " + winning_team) if outcome > 0.5 else print("Team B chance of winning: " + str(1 - outcome) + " -> " + winning_team)
+        cont = input("Continue (Y/N): ")
+        if cont != "Y":
+            break
+    
 if __name__ == "__main__":
-    import sys
-    if(len(sys.argv) < 3):
-        print("Usage: knn_model_regular_season.py <Team A> <Team B>")
-        exit(-1)
-    team_a = sys.argv[1]
-    team_b = sys.argv[2]
-    main(team_a, team_b)
+    main()
 
 
 
