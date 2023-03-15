@@ -5,7 +5,7 @@
 
 import requests
 import pandas as pd
-from bs4 import BeautifulSoup as bs
+from bs4 import BeautifulSoup as bs, NavigableString
 
 def get_soup(url):
     session = requests.Session()
@@ -39,7 +39,11 @@ def get_table_rows(table):
         else:
             # use regular td tags
             for td in tds:
-                cells.append(td.text.strip())
+                if isinstance(td.contents[0], NavigableString):
+                    text = td.contents[0]
+                else:
+                    text = td.contents[0].contents[0]
+                cells.append(text)
         rows.append(cells)
     return rows
 
@@ -63,14 +67,6 @@ def main(url):
         rows = get_table_rows(table)
         rows = rows[1:]
         rows = [row for row in rows if row[0] != "" and row[0] != "Rk"]
-        # clean up school name
-        for row in rows:
-            name = ""
-            i = 0
-            while i < len(row[1]) and row[1][i] != "\xa0":
-                name += row[1][i]
-                i += 1
-            row[1] = name
         ss_table_name = 'NCAA_School_Stats_Tempo_Free'
         print(f"[+] Saving {ss_table_name}")
         save_as_csv(ss_table_name, headers, rows)

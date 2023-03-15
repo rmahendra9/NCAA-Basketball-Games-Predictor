@@ -83,8 +83,6 @@ def main():
         team_a = input("Enter team A: ")
         team_b = input("Enter team B: ")
         outcome = get_outcome(team_a, team_b, gamelog_df, stats_df, MAX_DIST)
-        print("Team A: " + team_a)
-        print("Team B: " + team_b)
         winning_team = team_a if outcome > 0.5 else team_b
         outcome = outcome if outcome > 0.5 else 1 - outcome
         print("The winning team of this matchup is " + winning_team + " with a " + str(round(outcome*100, 3)) + "%" + " chance of winning")

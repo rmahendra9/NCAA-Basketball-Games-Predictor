@@ -2,15 +2,15 @@ import math
 import pandas as pd
 
 def get_max_dist(df):
-    return max(df['Pyth']) - min(df['Pyth'])
+    return max(df['Barthag']) - min(df['Barthag'])
 
 def get_sim_score(team_a, team_b, stats_df, MAX_DIST):
     #If a team is not in the stats_df, return
     if team_a not in stats_df.index or team_b not in stats_df.index:
         return 0
-    team_a_pyth = stats_df.loc[team_a]['Pyth']
-    team_b_pyth = stats_df.loc[team_b]['Pyth']
-    dist = math.fabs(team_a_pyth - team_b_pyth)
+    team_a_barthag = stats_df.loc[team_a]['Barthag']
+    team_b_barthag = stats_df.loc[team_b]['Barthag']
+    dist = math.fabs(team_a_barthag - team_b_barthag)
     return 1 - (dist/MAX_DIST)
 
 def get_outcome(team_a, team_b, gamelog_df, stats_df, MAX_DIST):
@@ -58,11 +58,6 @@ def get_outcome(team_a, team_b, gamelog_df, stats_df, MAX_DIST):
     pab = (wab + lba) / (wab + lba + wba + lab)
     return pab
 
-def get_pyth(team_a, stats_df):
-    team_a_adjoe = stats_df.loc[team_a]['AdjOE']
-    team_a_adjde = stats_df.loc[team_a]['AdjDE']
-    return (team_a_adjoe**11.5) / (team_a_adjoe**11.5 + team_a_adjde**11.5)
-
 def main():
     print("Setting up preliminaries...")
     #Read CSV
@@ -71,11 +66,6 @@ def main():
     #Set_indexes
     stats_df = stats_df.set_index("Team")
     gamelog_df = gamelog_df.set_index("School")
-    pyth = [None]*len(stats_df.index)
-    #Calcuate pythagorean expectation
-    for i in range(len(stats_df.index)):
-        pyth[i] = get_pyth(stats_df.index[i], stats_df)
-    stats_df['Pyth'] = pyth
     #Get max_dist
     MAX_DIST = get_max_dist(stats_df)
     while True:

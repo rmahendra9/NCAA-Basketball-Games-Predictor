@@ -81,12 +81,19 @@ def get_game_table_rows(school, table):
             for td in tds:
                 cells.append(td.text.strip())
             rows.append(cells)
-    rows = [row[:9] for row in rows if len(row) == 31]
-    rows.pop()
+    rows = [row[:9] for row in rows if len(row) == 31 and row[30] != '']
     # Clean up rows
     for row in rows:
         temp = row[1].split("\n")
         row[1] = temp[1]
+        if row[6][-1] == ")" and row[6][-2] in ["0","1","2","3","4","5","6","7","8","9"]:
+            i = len(row[6]) - 1
+            while i > 0:
+                if row[6][i] != " ":
+                    i -= 1
+                else:
+                    break
+            row[6] =  row[6][:i]
         temp = row[8].split(",")
         row[8] = temp[0]
         indexes = [3, 4, 5, 7]
@@ -97,7 +104,8 @@ def get_game_table_rows(school, table):
 def get_game_logs (game_log):
     school       = game_log[0]
     game_log_url = game_log[1]
-
+    if school != "Pittsburgh":
+        return [], []
     # get the gamesoup
     gamesoup = get_soup(game_log_url)
     # extract all the tables from the web page
@@ -130,9 +138,6 @@ def main(url):
     print(f"[+] Found a total of {len(tables)} tables.")
     # iterate over all tables
     for i, table in enumerate(tables, start=1):
-        # get the table headers
-        headers = get_table_headers(table)
-
         # get all the rows of the table
         game_logs = get_table_rows_url(url, table)
     
