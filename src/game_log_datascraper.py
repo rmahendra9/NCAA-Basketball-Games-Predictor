@@ -12,7 +12,7 @@ import time
 def get_soup(url):
     session = requests.Session()
     html = session.get(url)
-    time.sleep(2)
+    time.sleep(3)
     return bs(html.content, "html.parser")
 
 def get_all_tables(soup):
@@ -104,8 +104,6 @@ def get_game_table_rows(school, table):
 def get_game_logs (game_log):
     school       = game_log[0]
     game_log_url = game_log[1]
-    if school != "Pittsburgh":
-        return [], []
     # get the gamesoup
     gamesoup = get_soup(game_log_url)
     # extract all the tables from the web page

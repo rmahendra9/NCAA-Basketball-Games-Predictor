@@ -61,7 +61,7 @@ def get_outcome(team_a, team_b, gamelog_df, stats_df, MAX_DIST):
 def main():
     print("Setting up preliminaries...")
     #Read CSV
-    stats_df = pd.read_csv("NCAA_School_Stats_Tempo_Free.csv")
+    stats_df = pd.read_csv("NCAA_School_Stats_Tempo_Free_2023.csv")
     gamelog_df = pd.read_csv("NCAA_Game_Log.csv")
     #Set_indexes
     stats_df = stats_df.set_index("Team")

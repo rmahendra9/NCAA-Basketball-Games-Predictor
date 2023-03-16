@@ -4,12 +4,18 @@ import pandas as pd
 def get_max_dist(df):
     max_dist = float("-inf")
     for i in range(len(df.index)):
-        for j in range(i+1, len(df.index)):
-            team_a_adjoe = df.loc[df.index[i]]['AdjOE']
-            team_a_adjde = df.loc[df.index[i]]['AdjDE']
-            team_b_adjoe = df.loc[df.index[j]]['AdjOE']
-            team_b_adjde = df.loc[df.index[j]]['AdjDE']
-            dist = math.sqrt((team_a_adjoe - team_b_adjoe)**2 + (team_a_adjde - team_b_adjde)**2)
+        for j in range(i+1,len(df.index)):
+            team_a_efg = df.iloc[i]['EFG%'] / 100
+            team_b_efg = df.iloc[j]['EFG%'] / 100
+            team_a_tov = (df.iloc[i]['TORD'] - df.iloc[i]['TOR']) / 100
+            team_b_tov = (df.iloc[j]['TORD'] - df.iloc[j]['TOR']) / 100
+            team_a_ftr = df.iloc[i]['FTR'] / 100
+            team_b_ftr = df.iloc[j]['FTR'] / 100
+            team_a_orb = df.iloc[i]['ORB'] / 100
+            team_b_orb = df.iloc[j]['ORB'] / 100
+            team_a_drb = df.iloc[i]['DRB'] / 100
+            team_b_drb = df.iloc[j]['DRB'] / 100
+            dist = math.sqrt((team_a_efg - team_b_efg)**2 + (team_a_tov - team_b_tov)**2 + (team_a_ftr - team_b_ftr)**2 + (team_a_orb - team_b_orb)**2 + (team_a_drb + team_b_drb)**2)
             max_dist = max(max_dist, dist)
     return max_dist
 
@@ -17,11 +23,17 @@ def get_sim_score(team_a, team_b, stats_df, MAX_DIST):
     #If a team is not in the stats_df, return
     if team_a not in stats_df.index or team_b not in stats_df.index:
         return 0
-    team_a_adjoe = stats_df.loc[team_a]['AdjOE']
-    team_a_adjde = stats_df.loc[team_a]['AdjDE']
-    team_b_adjoe = stats_df.loc[team_b]['AdjOE']
-    team_b_adjde = stats_df.loc[team_b]['AdjDE']
-    dist = math.sqrt((team_a_adjoe - team_b_adjoe)**2 + (team_a_adjde - team_b_adjde)**2)
+    team_a_efg = stats_df.loc[team_a]['EFG%'] / 100
+    team_b_efg = stats_df.loc[team_b]['EFG%'] / 100
+    team_a_tov = (stats_df.loc[team_a]['TORD'] - stats_df.loc[team_a]['TOR']) / 100
+    team_b_tov = (stats_df.loc[team_b]['TORD'] - stats_df.loc[team_b]['TOR']) / 100
+    team_a_ftr = stats_df.loc[team_a]['FTR'] / 100
+    team_b_ftr = stats_df.loc[team_b]['FTR'] / 100
+    team_a_orb = stats_df.loc[team_a]['ORB'] / 100
+    team_b_orb = stats_df.loc[team_b]['ORB'] / 100
+    team_a_drb = stats_df.loc[team_a]['DRB'] / 100
+    team_b_drb = stats_df.loc[team_b]['DRB'] / 100
+    dist = math.sqrt((team_a_efg - team_b_efg)**2 + (team_a_tov - team_b_tov)**2 + (team_a_ftr - team_b_ftr)**2 + (team_a_orb - team_b_orb)**2 + (team_a_drb + team_b_drb)**2)
     return 1 - (dist/MAX_DIST)
 
 def get_outcome(team_a, team_b, gamelog_df, stats_df, MAX_DIST):
@@ -92,7 +104,3 @@ def main():
     
 if __name__ == "__main__":
     main()
-
-
-
-

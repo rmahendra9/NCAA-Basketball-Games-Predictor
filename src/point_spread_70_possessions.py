@@ -3,10 +3,10 @@ import pandas as pd
 
 def main():
     #Preliminaries
-    df = pd.read_csv("NCAA_School_Stats_Tempo_Free.csv")
+    df = pd.read_csv("NCAA_School_Stats_Tempo_Free_2023.csv")
     df = df.set_index("Team")
-    POSSESSIONS = 70
     #Get team names
+    POSSESSIONS = 70
     while True:
         team_a = input("Enter team A: ")
         team_b = input("Enter team B: ")
@@ -21,6 +21,7 @@ def main():
         team_b_predicted_adjoe = (team_b_adjoe - 100) - (100 - team_a_adjde) + 100
         team_b_predicted_points = (team_b_predicted_adjoe * POSSESSIONS) / 100
         print(f'Predicted Result: {team_a} - {team_a_predicted_points} \t {team_b_predicted_points} - {team_b}')
+        print(team_a + " wins") if team_a_predicted_points > team_b_predicted_points else print(team_b + " wins")
         cont = input("Continue (Y/N): ")
         if cont != "Y":
             break
