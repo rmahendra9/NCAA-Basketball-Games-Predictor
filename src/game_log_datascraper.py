@@ -12,7 +12,7 @@ import time
 def get_soup(url):
     session = requests.Session()
     html = session.get(url)
-    time.sleep(3)
+    time.sleep(1)
     return bs(html.content, "html.parser")
 
 def get_all_tables(soup):
@@ -157,4 +157,4 @@ def main(url):
     save_as_csv(gl_table_name, gl_header, gl_rows)
 
 if __name__ == "__main__":
-    main("https://barttorvik.com/teamstats.php?year=2023")
+    main("https://barttorvik.com/teamstats.php?year=2024")
