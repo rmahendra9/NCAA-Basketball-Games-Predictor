@@ -1,0 +1,4557 @@
+,Team_A,Team_B,prediction
+0,Akron,Alabama,0
+1,Akron,Arizona,0
+2,Akron,Auburn,0
+3,Akron,Baylor,0
+4,Akron,Boise St.,0
+5,Akron,BYU,0
+6,Akron,Charleston,0
+7,Akron,Clemson,0
+8,Akron,Colgate,0
+9,Akron,Colorado,0
+10,Akron,Colorado St.,0
+11,Akron,Connecticut,0
+12,Akron,Creighton,0
+13,Akron,Dayton,0
+14,Akron,Drake,0
+15,Akron,Duke,0
+16,Akron,Duquesne,0
+17,Akron,Florida,0
+18,Akron,Florida Atlantic,0
+19,Akron,Gonzaga,0
+20,Akron,Grambling St.,1
+21,Akron,Grand Canyon,0
+22,Akron,Houston,0
+23,Akron,Howard,1
+24,Akron,Illinois,0
+25,Akron,Iowa St.,0
+26,Akron,James Madison,0
+27,Akron,Kansas,0
+28,Akron,Kentucky,0
+29,Akron,Long Beach St.,1
+30,Akron,Longwood,1
+31,Akron,Marquette,0
+32,Akron,McNeese St.,0
+33,Akron,Michigan St.,0
+34,Akron,Mississippi St.,0
+35,Akron,Montana St.,1
+36,Akron,Morehead St.,1
+37,Akron,Nebraska,0
+38,Akron,Nevada,0
+39,Akron,New Mexico,0
+40,Akron,North Carolina,0
+41,Akron,N.C. State,0
+42,Akron,Northwestern,0
+43,Akron,Oakland,0
+44,Akron,Oregon,0
+45,Akron,Purdue,0
+46,Akron,Saint Mary's,0
+47,Akron,Samford,0
+48,Akron,San Diego St.,0
+49,Akron,South Carolina,0
+50,Akron,South Dakota St.,1
+51,Akron,Saint Peter's,1
+52,Akron,Stetson,1
+53,Akron,TCU,0
+54,Akron,Tennessee,0
+55,Akron,Texas,0
+56,Akron,Texas A&M,0
+57,Akron,Texas Tech,0
+58,Akron,UAB,1
+59,Akron,Utah St.,0
+60,Akron,Vermont,0
+61,Akron,Virginia,0
+62,Akron,Wagner,1
+63,Akron,Washington St.,0
+64,Akron,Western Kentucky,0
+65,Akron,Wisconsin,0
+66,Akron,Yale,0
+67,Alabama,Akron,1
+68,Alabama,Arizona,1
+69,Alabama,Auburn,1
+70,Alabama,Baylor,1
+71,Alabama,Boise St.,1
+72,Alabama,BYU,1
+73,Alabama,Charleston,1
+74,Alabama,Clemson,1
+75,Alabama,Colgate,1
+76,Alabama,Colorado,1
+77,Alabama,Colorado St.,1
+78,Alabama,Connecticut,1
+79,Alabama,Creighton,1
+80,Alabama,Dayton,0
+81,Alabama,Drake,1
+82,Alabama,Duke,1
+83,Alabama,Duquesne,1
+84,Alabama,Florida,1
+85,Alabama,Florida Atlantic,1
+86,Alabama,Gonzaga,1
+87,Alabama,Grambling St.,1
+88,Alabama,Grand Canyon,1
+89,Alabama,Houston,1
+90,Alabama,Howard,1
+91,Alabama,Illinois,1
+92,Alabama,Iowa St.,1
+93,Alabama,James Madison,1
+94,Alabama,Kansas,1
+95,Alabama,Kentucky,1
+96,Alabama,Long Beach St.,1
+97,Alabama,Longwood,1
+98,Alabama,Marquette,1
+99,Alabama,McNeese St.,1
+100,Alabama,Michigan St.,1
+101,Alabama,Mississippi St.,1
+102,Alabama,Montana St.,1
+103,Alabama,Morehead St.,1
+104,Alabama,Nebraska,1
+105,Alabama,Nevada,0
+106,Alabama,New Mexico,1
+107,Alabama,North Carolina,1
+108,Alabama,N.C. State,1
+109,Alabama,Northwestern,0
+110,Alabama,Oakland,1
+111,Alabama,Oregon,1
+112,Alabama,Purdue,0
+113,Alabama,Saint Mary's,1
+114,Alabama,Samford,1
+115,Alabama,San Diego St.,1
+116,Alabama,South Carolina,1
+117,Alabama,South Dakota St.,1
+118,Alabama,Saint Peter's,1
+119,Alabama,Stetson,1
+120,Alabama,TCU,1
+121,Alabama,Tennessee,1
+122,Alabama,Texas,1
+123,Alabama,Texas A&M,1
+124,Alabama,Texas Tech,1
+125,Alabama,UAB,1
+126,Alabama,Utah St.,0
+127,Alabama,Vermont,0
+128,Alabama,Virginia,0
+129,Alabama,Wagner,1
+130,Alabama,Washington St.,1
+131,Alabama,Western Kentucky,1
+132,Alabama,Wisconsin,1
+133,Alabama,Yale,1
+134,Arizona,Akron,1
+135,Arizona,Alabama,0
+136,Arizona,Auburn,0
+137,Arizona,Baylor,0
+138,Arizona,Boise St.,1
+139,Arizona,BYU,1
+140,Arizona,Charleston,1
+141,Arizona,Clemson,1
+142,Arizona,Colgate,1
+143,Arizona,Colorado,1
+144,Arizona,Colorado St.,1
+145,Arizona,Connecticut,1
+146,Arizona,Creighton,1
+147,Arizona,Dayton,1
+148,Arizona,Drake,1
+149,Arizona,Duke,1
+150,Arizona,Duquesne,1
+151,Arizona,Florida,1
+152,Arizona,Florida Atlantic,1
+153,Arizona,Gonzaga,1
+154,Arizona,Grambling St.,1
+155,Arizona,Grand Canyon,1
+156,Arizona,Houston,0
+157,Arizona,Howard,1
+158,Arizona,Illinois,0
+159,Arizona,Iowa St.,1
+160,Arizona,James Madison,1
+161,Arizona,Kansas,1
+162,Arizona,Kentucky,1
+163,Arizona,Long Beach St.,1
+164,Arizona,Longwood,1
+165,Arizona,Marquette,1
+166,Arizona,McNeese St.,1
+167,Arizona,Michigan St.,1
+168,Arizona,Mississippi St.,1
+169,Arizona,Montana St.,1
+170,Arizona,Morehead St.,1
+171,Arizona,Nebraska,1
+172,Arizona,Nevada,1
+173,Arizona,New Mexico,1
+174,Arizona,North Carolina,1
+175,Arizona,N.C. State,1
+176,Arizona,Northwestern,1
+177,Arizona,Oakland,1
+178,Arizona,Oregon,1
+179,Arizona,Purdue,0
+180,Arizona,Saint Mary's,1
+181,Arizona,Samford,1
+182,Arizona,San Diego St.,1
+183,Arizona,South Carolina,1
+184,Arizona,South Dakota St.,1
+185,Arizona,Saint Peter's,1
+186,Arizona,Stetson,1
+187,Arizona,TCU,1
+188,Arizona,Tennessee,1
+189,Arizona,Texas,1
+190,Arizona,Texas A&M,1
+191,Arizona,Texas Tech,1
+192,Arizona,UAB,1
+193,Arizona,Utah St.,1
+194,Arizona,Vermont,1
+195,Arizona,Virginia,1
+196,Arizona,Wagner,1
+197,Arizona,Washington St.,1
+198,Arizona,Western Kentucky,1
+199,Arizona,Wisconsin,1
+200,Arizona,Yale,1
+201,Auburn,Akron,1
+202,Auburn,Alabama,0
+203,Auburn,Arizona,0
+204,Auburn,Baylor,0
+205,Auburn,Boise St.,1
+206,Auburn,BYU,1
+207,Auburn,Charleston,1
+208,Auburn,Clemson,1
+209,Auburn,Colgate,1
+210,Auburn,Colorado,1
+211,Auburn,Colorado St.,1
+212,Auburn,Connecticut,0
+213,Auburn,Creighton,1
+214,Auburn,Dayton,1
+215,Auburn,Drake,1
+216,Auburn,Duke,0
+217,Auburn,Duquesne,1
+218,Auburn,Florida,1
+219,Auburn,Florida Atlantic,1
+220,Auburn,Gonzaga,1
+221,Auburn,Grambling St.,1
+222,Auburn,Grand Canyon,1
+223,Auburn,Houston,0
+224,Auburn,Howard,1
+225,Auburn,Illinois,0
+226,Auburn,Iowa St.,1
+227,Auburn,James Madison,1
+228,Auburn,Kansas,1
+229,Auburn,Kentucky,1
+230,Auburn,Long Beach St.,1
+231,Auburn,Longwood,1
+232,Auburn,Marquette,1
+233,Auburn,McNeese St.,1
+234,Auburn,Michigan St.,0
+235,Auburn,Mississippi St.,1
+236,Auburn,Montana St.,1
+237,Auburn,Morehead St.,1
+238,Auburn,Nebraska,1
+239,Auburn,Nevada,1
+240,Auburn,New Mexico,1
+241,Auburn,North Carolina,1
+242,Auburn,N.C. State,1
+243,Auburn,Northwestern,1
+244,Auburn,Oakland,1
+245,Auburn,Oregon,1
+246,Auburn,Purdue,0
+247,Auburn,Saint Mary's,1
+248,Auburn,Samford,1
+249,Auburn,San Diego St.,1
+250,Auburn,South Carolina,1
+251,Auburn,South Dakota St.,1
+252,Auburn,Saint Peter's,1
+253,Auburn,Stetson,1
+254,Auburn,TCU,1
+255,Auburn,Tennessee,1
+256,Auburn,Texas,0
+257,Auburn,Texas A&M,1
+258,Auburn,Texas Tech,1
+259,Auburn,UAB,1
+260,Auburn,Utah St.,1
+261,Auburn,Vermont,1
+262,Auburn,Virginia,1
+263,Auburn,Wagner,1
+264,Auburn,Washington St.,1
+265,Auburn,Western Kentucky,1
+266,Auburn,Wisconsin,0
+267,Auburn,Yale,1
+268,Baylor,Akron,1
+269,Baylor,Alabama,1
+270,Baylor,Arizona,1
+271,Baylor,Auburn,1
+272,Baylor,Boise St.,1
+273,Baylor,BYU,1
+274,Baylor,Charleston,1
+275,Baylor,Clemson,1
+276,Baylor,Colgate,1
+277,Baylor,Colorado,1
+278,Baylor,Colorado St.,0
+279,Baylor,Connecticut,1
+280,Baylor,Creighton,1
+281,Baylor,Dayton,0
+282,Baylor,Drake,1
+283,Baylor,Duke,1
+284,Baylor,Duquesne,0
+285,Baylor,Florida,1
+286,Baylor,Florida Atlantic,1
+287,Baylor,Gonzaga,1
+288,Baylor,Grambling St.,1
+289,Baylor,Grand Canyon,1
+290,Baylor,Houston,1
+291,Baylor,Howard,1
+292,Baylor,Illinois,1
+293,Baylor,Iowa St.,1
+294,Baylor,James Madison,1
+295,Baylor,Kansas,1
+296,Baylor,Kentucky,0
+297,Baylor,Long Beach St.,1
+298,Baylor,Longwood,1
+299,Baylor,Marquette,1
+300,Baylor,McNeese St.,1
+301,Baylor,Michigan St.,1
+302,Baylor,Mississippi St.,1
+303,Baylor,Montana St.,1
+304,Baylor,Morehead St.,1
+305,Baylor,Nebraska,0
+306,Baylor,Nevada,0
+307,Baylor,New Mexico,1
+308,Baylor,North Carolina,1
+309,Baylor,N.C. State,1
+310,Baylor,Northwestern,1
+311,Baylor,Oakland,1
+312,Baylor,Oregon,1
+313,Baylor,Purdue,0
+314,Baylor,Saint Mary's,1
+315,Baylor,Samford,1
+316,Baylor,San Diego St.,1
+317,Baylor,South Carolina,1
+318,Baylor,South Dakota St.,1
+319,Baylor,Saint Peter's,1
+320,Baylor,Stetson,1
+321,Baylor,TCU,1
+322,Baylor,Tennessee,0
+323,Baylor,Texas,1
+324,Baylor,Texas A&M,1
+325,Baylor,Texas Tech,1
+326,Baylor,UAB,1
+327,Baylor,Utah St.,1
+328,Baylor,Vermont,1
+329,Baylor,Virginia,0
+330,Baylor,Wagner,1
+331,Baylor,Washington St.,1
+332,Baylor,Western Kentucky,1
+333,Baylor,Wisconsin,0
+334,Baylor,Yale,1
+335,Boise St.,Akron,1
+336,Boise St.,Alabama,0
+337,Boise St.,Arizona,0
+338,Boise St.,Auburn,0
+339,Boise St.,Baylor,0
+340,Boise St.,BYU,0
+341,Boise St.,Charleston,1
+342,Boise St.,Clemson,0
+343,Boise St.,Colgate,1
+344,Boise St.,Colorado,0
+345,Boise St.,Colorado St.,0
+346,Boise St.,Connecticut,0
+347,Boise St.,Creighton,0
+348,Boise St.,Dayton,1
+349,Boise St.,Drake,1
+350,Boise St.,Duke,0
+351,Boise St.,Duquesne,1
+352,Boise St.,Florida,0
+353,Boise St.,Florida Atlantic,1
+354,Boise St.,Gonzaga,0
+355,Boise St.,Grambling St.,1
+356,Boise St.,Grand Canyon,1
+357,Boise St.,Houston,0
+358,Boise St.,Howard,1
+359,Boise St.,Illinois,0
+360,Boise St.,Iowa St.,0
+361,Boise St.,James Madison,1
+362,Boise St.,Kansas,0
+363,Boise St.,Kentucky,0
+364,Boise St.,Long Beach St.,1
+365,Boise St.,Longwood,1
+366,Boise St.,Marquette,0
+367,Boise St.,McNeese St.,1
+368,Boise St.,Michigan St.,0
+369,Boise St.,Mississippi St.,0
+370,Boise St.,Montana St.,1
+371,Boise St.,Morehead St.,1
+372,Boise St.,Nebraska,0
+373,Boise St.,Nevada,0
+374,Boise St.,New Mexico,1
+375,Boise St.,North Carolina,0
+376,Boise St.,N.C. State,1
+377,Boise St.,Northwestern,0
+378,Boise St.,Oakland,1
+379,Boise St.,Oregon,1
+380,Boise St.,Purdue,0
+381,Boise St.,Saint Mary's,1
+382,Boise St.,Samford,1
+383,Boise St.,San Diego St.,0
+384,Boise St.,South Carolina,1
+385,Boise St.,South Dakota St.,1
+386,Boise St.,Saint Peter's,1
+387,Boise St.,Stetson,1
+388,Boise St.,TCU,0
+389,Boise St.,Tennessee,0
+390,Boise St.,Texas,0
+391,Boise St.,Texas A&M,0
+392,Boise St.,Texas Tech,0
+393,Boise St.,UAB,1
+394,Boise St.,Utah St.,1
+395,Boise St.,Vermont,1
+396,Boise St.,Virginia,0
+397,Boise St.,Wagner,1
+398,Boise St.,Washington St.,1
+399,Boise St.,Western Kentucky,1
+400,Boise St.,Wisconsin,0
+401,Boise St.,Yale,1
+402,BYU,Akron,1
+403,BYU,Alabama,0
+404,BYU,Arizona,0
+405,BYU,Auburn,0
+406,BYU,Baylor,0
+407,BYU,Boise St.,1
+408,BYU,Charleston,1
+409,BYU,Clemson,1
+410,BYU,Colgate,1
+411,BYU,Colorado,1
+412,BYU,Colorado St.,1
+413,BYU,Connecticut,0
+414,BYU,Creighton,0
+415,BYU,Dayton,1
+416,BYU,Drake,1
+417,BYU,Duke,0
+418,BYU,Duquesne,1
+419,BYU,Florida,0
+420,BYU,Florida Atlantic,1
+421,BYU,Gonzaga,1
+422,BYU,Grambling St.,1
+423,BYU,Grand Canyon,1
+424,BYU,Houston,0
+425,BYU,Howard,1
+426,BYU,Illinois,0
+427,BYU,Iowa St.,1
+428,BYU,James Madison,1
+429,BYU,Kansas,0
+430,BYU,Kentucky,0
+431,BYU,Long Beach St.,1
+432,BYU,Longwood,1
+433,BYU,Marquette,0
+434,BYU,McNeese St.,1
+435,BYU,Michigan St.,0
+436,BYU,Mississippi St.,0
+437,BYU,Montana St.,1
+438,BYU,Morehead St.,1
+439,BYU,Nebraska,0
+440,BYU,Nevada,0
+441,BYU,New Mexico,1
+442,BYU,North Carolina,0
+443,BYU,N.C. State,1
+444,BYU,Northwestern,0
+445,BYU,Oakland,1
+446,BYU,Oregon,1
+447,BYU,Purdue,0
+448,BYU,Saint Mary's,1
+449,BYU,Samford,1
+450,BYU,San Diego St.,1
+451,BYU,South Carolina,1
+452,BYU,South Dakota St.,1
+453,BYU,Saint Peter's,1
+454,BYU,Stetson,1
+455,BYU,TCU,1
+456,BYU,Tennessee,0
+457,BYU,Texas,0
+458,BYU,Texas A&M,1
+459,BYU,Texas Tech,0
+460,BYU,UAB,1
+461,BYU,Utah St.,1
+462,BYU,Vermont,1
+463,BYU,Virginia,1
+464,BYU,Wagner,1
+465,BYU,Washington St.,1
+466,BYU,Western Kentucky,1
+467,BYU,Wisconsin,0
+468,BYU,Yale,1
+469,Charleston,Akron,1
+470,Charleston,Alabama,0
+471,Charleston,Arizona,0
+472,Charleston,Auburn,0
+473,Charleston,Baylor,0
+474,Charleston,Boise St.,0
+475,Charleston,BYU,0
+476,Charleston,Clemson,0
+477,Charleston,Colgate,1
+478,Charleston,Colorado,0
+479,Charleston,Colorado St.,0
+480,Charleston,Connecticut,0
+481,Charleston,Creighton,0
+482,Charleston,Dayton,0
+483,Charleston,Drake,0
+484,Charleston,Duke,0
+485,Charleston,Duquesne,0
+486,Charleston,Florida,0
+487,Charleston,Florida Atlantic,0
+488,Charleston,Gonzaga,0
+489,Charleston,Grambling St.,1
+490,Charleston,Grand Canyon,0
+491,Charleston,Houston,0
+492,Charleston,Howard,1
+493,Charleston,Illinois,0
+494,Charleston,Iowa St.,0
+495,Charleston,James Madison,0
+496,Charleston,Kansas,0
+497,Charleston,Kentucky,0
+498,Charleston,Long Beach St.,1
+499,Charleston,Longwood,1
+500,Charleston,Marquette,0
+501,Charleston,McNeese St.,0
+502,Charleston,Michigan St.,0
+503,Charleston,Mississippi St.,0
+504,Charleston,Montana St.,0
+505,Charleston,Morehead St.,1
+506,Charleston,Nebraska,0
+507,Charleston,Nevada,0
+508,Charleston,New Mexico,0
+509,Charleston,North Carolina,0
+510,Charleston,N.C. State,0
+511,Charleston,Northwestern,0
+512,Charleston,Oakland,1
+513,Charleston,Oregon,0
+514,Charleston,Purdue,0
+515,Charleston,Saint Mary's,0
+516,Charleston,Samford,0
+517,Charleston,San Diego St.,0
+518,Charleston,South Carolina,0
+519,Charleston,South Dakota St.,0
+520,Charleston,Saint Peter's,1
+521,Charleston,Stetson,1
+522,Charleston,TCU,0
+523,Charleston,Tennessee,0
+524,Charleston,Texas,0
+525,Charleston,Texas A&M,0
+526,Charleston,Texas Tech,0
+527,Charleston,UAB,1
+528,Charleston,Utah St.,0
+529,Charleston,Vermont,0
+530,Charleston,Virginia,0
+531,Charleston,Wagner,1
+532,Charleston,Washington St.,0
+533,Charleston,Western Kentucky,1
+534,Charleston,Wisconsin,0
+535,Charleston,Yale,0
+536,Clemson,Akron,1
+537,Clemson,Alabama,0
+538,Clemson,Arizona,0
+539,Clemson,Auburn,1
+540,Clemson,Baylor,0
+541,Clemson,Boise St.,1
+542,Clemson,BYU,1
+543,Clemson,Charleston,1
+544,Clemson,Colgate,1
+545,Clemson,Colorado,0
+546,Clemson,Colorado St.,0
+547,Clemson,Connecticut,0
+548,Clemson,Creighton,0
+549,Clemson,Dayton,0
+550,Clemson,Drake,0
+551,Clemson,Duke,0
+552,Clemson,Duquesne,1
+553,Clemson,Florida,1
+554,Clemson,Florida Atlantic,1
+555,Clemson,Gonzaga,0
+556,Clemson,Grambling St.,1
+557,Clemson,Grand Canyon,1
+558,Clemson,Houston,0
+559,Clemson,Howard,1
+560,Clemson,Illinois,1
+561,Clemson,Iowa St.,1
+562,Clemson,James Madison,1
+563,Clemson,Kansas,0
+564,Clemson,Kentucky,0
+565,Clemson,Long Beach St.,1
+566,Clemson,Longwood,1
+567,Clemson,Marquette,0
+568,Clemson,McNeese St.,1
+569,Clemson,Michigan St.,1
+570,Clemson,Mississippi St.,1
+571,Clemson,Montana St.,1
+572,Clemson,Morehead St.,1
+573,Clemson,Nebraska,0
+574,Clemson,Nevada,0
+575,Clemson,New Mexico,1
+576,Clemson,North Carolina,0
+577,Clemson,N.C. State,1
+578,Clemson,Northwestern,0
+579,Clemson,Oakland,1
+580,Clemson,Oregon,1
+581,Clemson,Purdue,0
+582,Clemson,Saint Mary's,1
+583,Clemson,Samford,1
+584,Clemson,San Diego St.,1
+585,Clemson,South Carolina,1
+586,Clemson,South Dakota St.,1
+587,Clemson,Saint Peter's,1
+588,Clemson,Stetson,1
+589,Clemson,TCU,1
+590,Clemson,Tennessee,0
+591,Clemson,Texas,1
+592,Clemson,Texas A&M,1
+593,Clemson,Texas Tech,0
+594,Clemson,UAB,1
+595,Clemson,Utah St.,1
+596,Clemson,Vermont,1
+597,Clemson,Virginia,1
+598,Clemson,Wagner,1
+599,Clemson,Washington St.,1
+600,Clemson,Western Kentucky,1
+601,Clemson,Wisconsin,0
+602,Clemson,Yale,1
+603,Colgate,Akron,1
+604,Colgate,Alabama,0
+605,Colgate,Arizona,0
+606,Colgate,Auburn,0
+607,Colgate,Baylor,0
+608,Colgate,Boise St.,0
+609,Colgate,BYU,0
+610,Colgate,Charleston,0
+611,Colgate,Clemson,0
+612,Colgate,Colorado,0
+613,Colgate,Colorado St.,0
+614,Colgate,Connecticut,0
+615,Colgate,Creighton,0
+616,Colgate,Dayton,0
+617,Colgate,Drake,0
+618,Colgate,Duke,0
+619,Colgate,Duquesne,0
+620,Colgate,Florida,0
+621,Colgate,Florida Atlantic,1
+622,Colgate,Gonzaga,0
+623,Colgate,Grambling St.,1
+624,Colgate,Grand Canyon,0
+625,Colgate,Houston,0
+626,Colgate,Howard,0
+627,Colgate,Illinois,0
+628,Colgate,Iowa St.,0
+629,Colgate,James Madison,0
+630,Colgate,Kansas,0
+631,Colgate,Kentucky,0
+632,Colgate,Long Beach St.,0
+633,Colgate,Longwood,0
+634,Colgate,Marquette,0
+635,Colgate,McNeese St.,0
+636,Colgate,Michigan St.,0
+637,Colgate,Mississippi St.,0
+638,Colgate,Montana St.,0
+639,Colgate,Morehead St.,0
+640,Colgate,Nebraska,0
+641,Colgate,Nevada,0
+642,Colgate,New Mexico,0
+643,Colgate,North Carolina,0
+644,Colgate,N.C. State,0
+645,Colgate,Northwestern,0
+646,Colgate,Oakland,0
+647,Colgate,Oregon,0
+648,Colgate,Purdue,0
+649,Colgate,Saint Mary's,0
+650,Colgate,Samford,0
+651,Colgate,San Diego St.,0
+652,Colgate,South Carolina,0
+653,Colgate,South Dakota St.,0
+654,Colgate,Saint Peter's,1
+655,Colgate,Stetson,0
+656,Colgate,TCU,0
+657,Colgate,Tennessee,0
+658,Colgate,Texas,0
+659,Colgate,Texas A&M,0
+660,Colgate,Texas Tech,0
+661,Colgate,UAB,1
+662,Colgate,Utah St.,0
+663,Colgate,Vermont,0
+664,Colgate,Virginia,0
+665,Colgate,Wagner,1
+666,Colgate,Washington St.,0
+667,Colgate,Western Kentucky,1
+668,Colgate,Wisconsin,0
+669,Colgate,Yale,1
+670,Colorado,Akron,1
+671,Colorado,Alabama,0
+672,Colorado,Arizona,0
+673,Colorado,Auburn,0
+674,Colorado,Baylor,1
+675,Colorado,Boise St.,1
+676,Colorado,BYU,0
+677,Colorado,Charleston,1
+678,Colorado,Clemson,0
+679,Colorado,Colgate,1
+680,Colorado,Colorado St.,0
+681,Colorado,Connecticut,0
+682,Colorado,Creighton,0
+683,Colorado,Dayton,1
+684,Colorado,Drake,1
+685,Colorado,Duke,1
+686,Colorado,Duquesne,1
+687,Colorado,Florida,0
+688,Colorado,Florida Atlantic,1
+689,Colorado,Gonzaga,1
+690,Colorado,Grambling St.,1
+691,Colorado,Grand Canyon,1
+692,Colorado,Houston,0
+693,Colorado,Howard,1
+694,Colorado,Illinois,0
+695,Colorado,Iowa St.,1
+696,Colorado,James Madison,1
+697,Colorado,Kansas,0
+698,Colorado,Kentucky,0
+699,Colorado,Long Beach St.,1
+700,Colorado,Longwood,1
+701,Colorado,Marquette,0
+702,Colorado,McNeese St.,1
+703,Colorado,Michigan St.,0
+704,Colorado,Mississippi St.,1
+705,Colorado,Montana St.,1
+706,Colorado,Morehead St.,1
+707,Colorado,Nebraska,0
+708,Colorado,Nevada,1
+709,Colorado,New Mexico,1
+710,Colorado,North Carolina,0
+711,Colorado,N.C. State,1
+712,Colorado,Northwestern,0
+713,Colorado,Oakland,1
+714,Colorado,Oregon,1
+715,Colorado,Purdue,0
+716,Colorado,Saint Mary's,1
+717,Colorado,Samford,1
+718,Colorado,San Diego St.,1
+719,Colorado,South Carolina,1
+720,Colorado,South Dakota St.,1
+721,Colorado,Saint Peter's,1
+722,Colorado,Stetson,1
+723,Colorado,TCU,1
+724,Colorado,Tennessee,0
+725,Colorado,Texas,0
+726,Colorado,Texas A&M,0
+727,Colorado,Texas Tech,0
+728,Colorado,UAB,1
+729,Colorado,Utah St.,1
+730,Colorado,Vermont,1
+731,Colorado,Virginia,1
+732,Colorado,Wagner,1
+733,Colorado,Washington St.,1
+734,Colorado,Western Kentucky,1
+735,Colorado,Wisconsin,0
+736,Colorado,Yale,1
+737,Colorado St.,Akron,1
+738,Colorado St.,Alabama,0
+739,Colorado St.,Arizona,0
+740,Colorado St.,Auburn,0
+741,Colorado St.,Baylor,0
+742,Colorado St.,Boise St.,1
+743,Colorado St.,BYU,0
+744,Colorado St.,Charleston,1
+745,Colorado St.,Clemson,0
+746,Colorado St.,Colgate,1
+747,Colorado St.,Colorado,0
+748,Colorado St.,Connecticut,0
+749,Colorado St.,Creighton,0
+750,Colorado St.,Dayton,1
+751,Colorado St.,Drake,0
+752,Colorado St.,Duke,0
+753,Colorado St.,Duquesne,1
+754,Colorado St.,Florida,1
+755,Colorado St.,Florida Atlantic,1
+756,Colorado St.,Gonzaga,0
+757,Colorado St.,Grambling St.,1
+758,Colorado St.,Grand Canyon,1
+759,Colorado St.,Houston,0
+760,Colorado St.,Howard,1
+761,Colorado St.,Illinois,1
+762,Colorado St.,Iowa St.,0
+763,Colorado St.,James Madison,0
+764,Colorado St.,Kansas,0
+765,Colorado St.,Kentucky,0
+766,Colorado St.,Long Beach St.,1
+767,Colorado St.,Longwood,1
+768,Colorado St.,Marquette,0
+769,Colorado St.,McNeese St.,1
+770,Colorado St.,Michigan St.,0
+771,Colorado St.,Mississippi St.,1
+772,Colorado St.,Montana St.,1
+773,Colorado St.,Morehead St.,1
+774,Colorado St.,Nebraska,0
+775,Colorado St.,Nevada,0
+776,Colorado St.,New Mexico,0
+777,Colorado St.,North Carolina,0
+778,Colorado St.,N.C. State,1
+779,Colorado St.,Northwestern,0
+780,Colorado St.,Oakland,1
+781,Colorado St.,Oregon,1
+782,Colorado St.,Purdue,0
+783,Colorado St.,Saint Mary's,1
+784,Colorado St.,Samford,1
+785,Colorado St.,San Diego St.,1
+786,Colorado St.,South Carolina,1
+787,Colorado St.,South Dakota St.,1
+788,Colorado St.,Saint Peter's,1
+789,Colorado St.,Stetson,1
+790,Colorado St.,TCU,0
+791,Colorado St.,Tennessee,0
+792,Colorado St.,Texas,0
+793,Colorado St.,Texas A&M,1
+794,Colorado St.,Texas Tech,0
+795,Colorado St.,UAB,1
+796,Colorado St.,Utah St.,1
+797,Colorado St.,Vermont,1
+798,Colorado St.,Virginia,1
+799,Colorado St.,Wagner,1
+800,Colorado St.,Washington St.,1
+801,Colorado St.,Western Kentucky,1
+802,Colorado St.,Wisconsin,0
+803,Colorado St.,Yale,1
+804,Connecticut,Akron,1
+805,Connecticut,Alabama,0
+806,Connecticut,Arizona,1
+807,Connecticut,Auburn,1
+808,Connecticut,Baylor,1
+809,Connecticut,Boise St.,1
+810,Connecticut,BYU,1
+811,Connecticut,Charleston,1
+812,Connecticut,Clemson,1
+813,Connecticut,Colgate,1
+814,Connecticut,Colorado,1
+815,Connecticut,Colorado St.,1
+816,Connecticut,Creighton,1
+817,Connecticut,Dayton,1
+818,Connecticut,Drake,1
+819,Connecticut,Duke,0
+820,Connecticut,Duquesne,1
+821,Connecticut,Florida,1
+822,Connecticut,Florida Atlantic,1
+823,Connecticut,Gonzaga,1
+824,Connecticut,Grambling St.,1
+825,Connecticut,Grand Canyon,1
+826,Connecticut,Houston,1
+827,Connecticut,Howard,1
+828,Connecticut,Illinois,1
+829,Connecticut,Iowa St.,1
+830,Connecticut,James Madison,1
+831,Connecticut,Kansas,1
+832,Connecticut,Kentucky,1
+833,Connecticut,Long Beach St.,1
+834,Connecticut,Longwood,1
+835,Connecticut,Marquette,1
+836,Connecticut,McNeese St.,1
+837,Connecticut,Michigan St.,1
+838,Connecticut,Mississippi St.,1
+839,Connecticut,Montana St.,1
+840,Connecticut,Morehead St.,1
+841,Connecticut,Nebraska,1
+842,Connecticut,Nevada,1
+843,Connecticut,New Mexico,1
+844,Connecticut,North Carolina,1
+845,Connecticut,N.C. State,1
+846,Connecticut,Northwestern,1
+847,Connecticut,Oakland,1
+848,Connecticut,Oregon,1
+849,Connecticut,Purdue,0
+850,Connecticut,Saint Mary's,1
+851,Connecticut,Samford,1
+852,Connecticut,San Diego St.,1
+853,Connecticut,South Carolina,1
+854,Connecticut,South Dakota St.,1
+855,Connecticut,Saint Peter's,1
+856,Connecticut,Stetson,1
+857,Connecticut,TCU,1
+858,Connecticut,Tennessee,1
+859,Connecticut,Texas,1
+860,Connecticut,Texas A&M,1
+861,Connecticut,Texas Tech,1
+862,Connecticut,UAB,1
+863,Connecticut,Utah St.,1
+864,Connecticut,Vermont,1
+865,Connecticut,Virginia,1
+866,Connecticut,Wagner,1
+867,Connecticut,Washington St.,1
+868,Connecticut,Western Kentucky,1
+869,Connecticut,Wisconsin,1
+870,Connecticut,Yale,1
+871,Creighton,Akron,1
+872,Creighton,Alabama,0
+873,Creighton,Arizona,0
+874,Creighton,Auburn,0
+875,Creighton,Baylor,0
+876,Creighton,Boise St.,1
+877,Creighton,BYU,1
+878,Creighton,Charleston,1
+879,Creighton,Clemson,1
+880,Creighton,Colgate,1
+881,Creighton,Colorado,1
+882,Creighton,Colorado St.,1
+883,Creighton,Connecticut,0
+884,Creighton,Dayton,1
+885,Creighton,Drake,1
+886,Creighton,Duke,0
+887,Creighton,Duquesne,1
+888,Creighton,Florida,1
+889,Creighton,Florida Atlantic,1
+890,Creighton,Gonzaga,1
+891,Creighton,Grambling St.,1
+892,Creighton,Grand Canyon,1
+893,Creighton,Houston,0
+894,Creighton,Howard,1
+895,Creighton,Illinois,1
+896,Creighton,Iowa St.,1
+897,Creighton,James Madison,1
+898,Creighton,Kansas,1
+899,Creighton,Kentucky,1
+900,Creighton,Long Beach St.,1
+901,Creighton,Longwood,1
+902,Creighton,Marquette,0
+903,Creighton,McNeese St.,1
+904,Creighton,Michigan St.,1
+905,Creighton,Mississippi St.,1
+906,Creighton,Montana St.,1
+907,Creighton,Morehead St.,1
+908,Creighton,Nebraska,1
+909,Creighton,Nevada,1
+910,Creighton,New Mexico,1
+911,Creighton,North Carolina,0
+912,Creighton,N.C. State,1
+913,Creighton,Northwestern,1
+914,Creighton,Oakland,1
+915,Creighton,Oregon,1
+916,Creighton,Purdue,0
+917,Creighton,Saint Mary's,1
+918,Creighton,Samford,1
+919,Creighton,San Diego St.,1
+920,Creighton,South Carolina,1
+921,Creighton,South Dakota St.,1
+922,Creighton,Saint Peter's,1
+923,Creighton,Stetson,1
+924,Creighton,TCU,1
+925,Creighton,Tennessee,1
+926,Creighton,Texas,1
+927,Creighton,Texas A&M,1
+928,Creighton,Texas Tech,1
+929,Creighton,UAB,1
+930,Creighton,Utah St.,1
+931,Creighton,Vermont,1
+932,Creighton,Virginia,1
+933,Creighton,Wagner,1
+934,Creighton,Washington St.,1
+935,Creighton,Western Kentucky,1
+936,Creighton,Wisconsin,0
+937,Creighton,Yale,1
+938,Dayton,Akron,1
+939,Dayton,Alabama,1
+940,Dayton,Arizona,0
+941,Dayton,Auburn,0
+942,Dayton,Baylor,0
+943,Dayton,Boise St.,1
+944,Dayton,BYU,0
+945,Dayton,Charleston,1
+946,Dayton,Clemson,0
+947,Dayton,Colgate,1
+948,Dayton,Colorado,0
+949,Dayton,Colorado St.,0
+950,Dayton,Connecticut,0
+951,Dayton,Creighton,0
+952,Dayton,Drake,1
+953,Dayton,Duke,0
+954,Dayton,Duquesne,1
+955,Dayton,Florida,0
+956,Dayton,Florida Atlantic,1
+957,Dayton,Gonzaga,1
+958,Dayton,Grambling St.,1
+959,Dayton,Grand Canyon,1
+960,Dayton,Houston,0
+961,Dayton,Howard,1
+962,Dayton,Illinois,0
+963,Dayton,Iowa St.,1
+964,Dayton,James Madison,1
+965,Dayton,Kansas,1
+966,Dayton,Kentucky,0
+967,Dayton,Long Beach St.,1
+968,Dayton,Longwood,1
+969,Dayton,Marquette,0
+970,Dayton,McNeese St.,1
+971,Dayton,Michigan St.,1
+972,Dayton,Mississippi St.,1
+973,Dayton,Montana St.,1
+974,Dayton,Morehead St.,1
+975,Dayton,Nebraska,1
+976,Dayton,Nevada,1
+977,Dayton,New Mexico,1
+978,Dayton,North Carolina,0
+979,Dayton,N.C. State,1
+980,Dayton,Northwestern,0
+981,Dayton,Oakland,1
+982,Dayton,Oregon,1
+983,Dayton,Purdue,0
+984,Dayton,Saint Mary's,1
+985,Dayton,Samford,1
+986,Dayton,San Diego St.,1
+987,Dayton,South Carolina,1
+988,Dayton,South Dakota St.,1
+989,Dayton,Saint Peter's,1
+990,Dayton,Stetson,1
+991,Dayton,TCU,1
+992,Dayton,Tennessee,0
+993,Dayton,Texas,0
+994,Dayton,Texas A&M,0
+995,Dayton,Texas Tech,1
+996,Dayton,UAB,1
+997,Dayton,Utah St.,1
+998,Dayton,Vermont,1
+999,Dayton,Virginia,1
+1000,Dayton,Wagner,1
+1001,Dayton,Washington St.,1
+1002,Dayton,Western Kentucky,1
+1003,Dayton,Wisconsin,0
+1004,Dayton,Yale,1
+1005,Drake,Akron,1
+1006,Drake,Alabama,0
+1007,Drake,Arizona,0
+1008,Drake,Auburn,0
+1009,Drake,Baylor,0
+1010,Drake,Boise St.,0
+1011,Drake,BYU,0
+1012,Drake,Charleston,1
+1013,Drake,Clemson,0
+1014,Drake,Colgate,1
+1015,Drake,Colorado,0
+1016,Drake,Colorado St.,0
+1017,Drake,Connecticut,0
+1018,Drake,Creighton,0
+1019,Drake,Dayton,0
+1020,Drake,Duke,0
+1021,Drake,Duquesne,1
+1022,Drake,Florida,1
+1023,Drake,Florida Atlantic,0
+1024,Drake,Gonzaga,0
+1025,Drake,Grambling St.,1
+1026,Drake,Grand Canyon,1
+1027,Drake,Houston,0
+1028,Drake,Howard,1
+1029,Drake,Illinois,1
+1030,Drake,Iowa St.,0
+1031,Drake,James Madison,1
+1032,Drake,Kansas,0
+1033,Drake,Kentucky,0
+1034,Drake,Long Beach St.,1
+1035,Drake,Longwood,1
+1036,Drake,Marquette,0
+1037,Drake,McNeese St.,1
+1038,Drake,Michigan St.,0
+1039,Drake,Mississippi St.,0
+1040,Drake,Montana St.,1
+1041,Drake,Morehead St.,1
+1042,Drake,Nebraska,0
+1043,Drake,Nevada,0
+1044,Drake,New Mexico,0
+1045,Drake,North Carolina,0
+1046,Drake,N.C. State,1
+1047,Drake,Northwestern,0
+1048,Drake,Oakland,1
+1049,Drake,Oregon,1
+1050,Drake,Purdue,0
+1051,Drake,Saint Mary's,1
+1052,Drake,Samford,0
+1053,Drake,San Diego St.,0
+1054,Drake,South Carolina,0
+1055,Drake,South Dakota St.,1
+1056,Drake,Saint Peter's,1
+1057,Drake,Stetson,1
+1058,Drake,TCU,0
+1059,Drake,Tennessee,0
+1060,Drake,Texas,0
+1061,Drake,Texas A&M,0
+1062,Drake,Texas Tech,0
+1063,Drake,UAB,1
+1064,Drake,Utah St.,1
+1065,Drake,Vermont,1
+1066,Drake,Virginia,1
+1067,Drake,Wagner,1
+1068,Drake,Washington St.,0
+1069,Drake,Western Kentucky,1
+1070,Drake,Wisconsin,0
+1071,Drake,Yale,1
+1072,Duke,Akron,1
+1073,Duke,Alabama,0
+1074,Duke,Arizona,0
+1075,Duke,Auburn,0
+1076,Duke,Baylor,0
+1077,Duke,Boise St.,1
+1078,Duke,BYU,1
+1079,Duke,Charleston,1
+1080,Duke,Clemson,1
+1081,Duke,Colgate,1
+1082,Duke,Colorado,1
+1083,Duke,Colorado St.,1
+1084,Duke,Connecticut,0
+1085,Duke,Creighton,0
+1086,Duke,Dayton,1
+1087,Duke,Drake,1
+1088,Duke,Duquesne,1
+1089,Duke,Florida,1
+1090,Duke,Florida Atlantic,1
+1091,Duke,Gonzaga,1
+1092,Duke,Grambling St.,1
+1093,Duke,Grand Canyon,1
+1094,Duke,Houston,1
+1095,Duke,Howard,1
+1096,Duke,Illinois,0
+1097,Duke,Iowa St.,1
+1098,Duke,James Madison,1
+1099,Duke,Kansas,1
+1100,Duke,Kentucky,0
+1101,Duke,Long Beach St.,1
+1102,Duke,Longwood,1
+1103,Duke,Marquette,0
+1104,Duke,McNeese St.,1
+1105,Duke,Michigan St.,1
+1106,Duke,Mississippi St.,1
+1107,Duke,Montana St.,1
+1108,Duke,Morehead St.,1
+1109,Duke,Nebraska,1
+1110,Duke,Nevada,1
+1111,Duke,New Mexico,1
+1112,Duke,North Carolina,1
+1113,Duke,N.C. State,1
+1114,Duke,Northwestern,1
+1115,Duke,Oakland,1
+1116,Duke,Oregon,1
+1117,Duke,Purdue,0
+1118,Duke,Saint Mary's,1
+1119,Duke,Samford,1
+1120,Duke,San Diego St.,1
+1121,Duke,South Carolina,1
+1122,Duke,South Dakota St.,1
+1123,Duke,Saint Peter's,1
+1124,Duke,Stetson,1
+1125,Duke,TCU,1
+1126,Duke,Tennessee,0
+1127,Duke,Texas,1
+1128,Duke,Texas A&M,1
+1129,Duke,Texas Tech,1
+1130,Duke,UAB,1
+1131,Duke,Utah St.,1
+1132,Duke,Vermont,1
+1133,Duke,Virginia,1
+1134,Duke,Wagner,1
+1135,Duke,Washington St.,1
+1136,Duke,Western Kentucky,1
+1137,Duke,Wisconsin,0
+1138,Duke,Yale,1
+1139,Duquesne,Akron,1
+1140,Duquesne,Alabama,0
+1141,Duquesne,Arizona,0
+1142,Duquesne,Auburn,0
+1143,Duquesne,Baylor,0
+1144,Duquesne,Boise St.,0
+1145,Duquesne,BYU,0
+1146,Duquesne,Charleston,1
+1147,Duquesne,Clemson,0
+1148,Duquesne,Colgate,0
+1149,Duquesne,Colorado,0
+1150,Duquesne,Colorado St.,0
+1151,Duquesne,Connecticut,0
+1152,Duquesne,Creighton,0
+1153,Duquesne,Dayton,0
+1154,Duquesne,Drake,0
+1155,Duquesne,Duke,0
+1156,Duquesne,Florida,1
+1157,Duquesne,Florida Atlantic,0
+1158,Duquesne,Gonzaga,0
+1159,Duquesne,Grambling St.,1
+1160,Duquesne,Grand Canyon,1
+1161,Duquesne,Houston,0
+1162,Duquesne,Howard,1
+1163,Duquesne,Illinois,0
+1164,Duquesne,Iowa St.,0
+1165,Duquesne,James Madison,0
+1166,Duquesne,Kansas,0
+1167,Duquesne,Kentucky,0
+1168,Duquesne,Long Beach St.,1
+1169,Duquesne,Longwood,1
+1170,Duquesne,Marquette,0
+1171,Duquesne,McNeese St.,0
+1172,Duquesne,Michigan St.,0
+1173,Duquesne,Mississippi St.,0
+1174,Duquesne,Montana St.,1
+1175,Duquesne,Morehead St.,1
+1176,Duquesne,Nebraska,0
+1177,Duquesne,Nevada,0
+1178,Duquesne,New Mexico,0
+1179,Duquesne,North Carolina,0
+1180,Duquesne,N.C. State,0
+1181,Duquesne,Northwestern,0
+1182,Duquesne,Oakland,1
+1183,Duquesne,Oregon,0
+1184,Duquesne,Purdue,0
+1185,Duquesne,Saint Mary's,0
+1186,Duquesne,Samford,0
+1187,Duquesne,San Diego St.,0
+1188,Duquesne,South Carolina,1
+1189,Duquesne,South Dakota St.,1
+1190,Duquesne,Saint Peter's,1
+1191,Duquesne,Stetson,1
+1192,Duquesne,TCU,0
+1193,Duquesne,Tennessee,0
+1194,Duquesne,Texas,0
+1195,Duquesne,Texas A&M,1
+1196,Duquesne,Texas Tech,0
+1197,Duquesne,UAB,1
+1198,Duquesne,Utah St.,0
+1199,Duquesne,Vermont,1
+1200,Duquesne,Virginia,0
+1201,Duquesne,Wagner,1
+1202,Duquesne,Washington St.,0
+1203,Duquesne,Western Kentucky,1
+1204,Duquesne,Wisconsin,0
+1205,Duquesne,Yale,1
+1206,Florida,Akron,1
+1207,Florida,Alabama,0
+1208,Florida,Arizona,0
+1209,Florida,Auburn,1
+1210,Florida,Baylor,0
+1211,Florida,Boise St.,1
+1212,Florida,BYU,1
+1213,Florida,Charleston,1
+1214,Florida,Clemson,0
+1215,Florida,Colgate,0
+1216,Florida,Colorado,1
+1217,Florida,Colorado St.,0
+1218,Florida,Connecticut,0
+1219,Florida,Creighton,0
+1220,Florida,Dayton,1
+1221,Florida,Drake,0
+1222,Florida,Duke,0
+1223,Florida,Duquesne,1
+1224,Florida,Florida Atlantic,1
+1225,Florida,Gonzaga,0
+1226,Florida,Grambling St.,1
+1227,Florida,Grand Canyon,1
+1228,Florida,Houston,0
+1229,Florida,Howard,1
+1230,Florida,Illinois,0
+1231,Florida,Iowa St.,1
+1232,Florida,James Madison,0
+1233,Florida,Kansas,0
+1234,Florida,Kentucky,0
+1235,Florida,Long Beach St.,1
+1236,Florida,Longwood,1
+1237,Florida,Marquette,0
+1238,Florida,McNeese St.,1
+1239,Florida,Michigan St.,0
+1240,Florida,Mississippi St.,1
+1241,Florida,Montana St.,1
+1242,Florida,Morehead St.,1
+1243,Florida,Nebraska,0
+1244,Florida,Nevada,1
+1245,Florida,New Mexico,1
+1246,Florida,North Carolina,0
+1247,Florida,N.C. State,1
+1248,Florida,Northwestern,1
+1249,Florida,Oakland,1
+1250,Florida,Oregon,1
+1251,Florida,Purdue,0
+1252,Florida,Saint Mary's,1
+1253,Florida,Samford,1
+1254,Florida,San Diego St.,1
+1255,Florida,South Carolina,1
+1256,Florida,South Dakota St.,1
+1257,Florida,Saint Peter's,1
+1258,Florida,Stetson,1
+1259,Florida,TCU,1
+1260,Florida,Tennessee,0
+1261,Florida,Texas,0
+1262,Florida,Texas A&M,1
+1263,Florida,Texas Tech,0
+1264,Florida,UAB,1
+1265,Florida,Utah St.,1
+1266,Florida,Vermont,1
+1267,Florida,Virginia,1
+1268,Florida,Wagner,1
+1269,Florida,Washington St.,1
+1270,Florida,Western Kentucky,1
+1271,Florida,Wisconsin,0
+1272,Florida,Yale,1
+1273,Florida Atlantic,Akron,1
+1274,Florida Atlantic,Alabama,0
+1275,Florida Atlantic,Arizona,0
+1276,Florida Atlantic,Auburn,0
+1277,Florida Atlantic,Baylor,0
+1278,Florida Atlantic,Boise St.,1
+1279,Florida Atlantic,BYU,0
+1280,Florida Atlantic,Charleston,1
+1281,Florida Atlantic,Clemson,0
+1282,Florida Atlantic,Colgate,1
+1283,Florida Atlantic,Colorado,0
+1284,Florida Atlantic,Colorado St.,0
+1285,Florida Atlantic,Connecticut,0
+1286,Florida Atlantic,Creighton,0
+1287,Florida Atlantic,Dayton,0
+1288,Florida Atlantic,Drake,1
+1289,Florida Atlantic,Duke,0
+1290,Florida Atlantic,Duquesne,1
+1291,Florida Atlantic,Florida,0
+1292,Florida Atlantic,Gonzaga,1
+1293,Florida Atlantic,Grambling St.,1
+1294,Florida Atlantic,Grand Canyon,1
+1295,Florida Atlantic,Houston,0
+1296,Florida Atlantic,Howard,1
+1297,Florida Atlantic,Illinois,0
+1298,Florida Atlantic,Iowa St.,1
+1299,Florida Atlantic,James Madison,1
+1300,Florida Atlantic,Kansas,1
+1301,Florida Atlantic,Kentucky,0
+1302,Florida Atlantic,Long Beach St.,1
+1303,Florida Atlantic,Longwood,1
+1304,Florida Atlantic,Marquette,0
+1305,Florida Atlantic,McNeese St.,1
+1306,Florida Atlantic,Michigan St.,0
+1307,Florida Atlantic,Mississippi St.,1
+1308,Florida Atlantic,Montana St.,1
+1309,Florida Atlantic,Morehead St.,1
+1310,Florida Atlantic,Nebraska,0
+1311,Florida Atlantic,Nevada,0
+1312,Florida Atlantic,New Mexico,1
+1313,Florida Atlantic,North Carolina,0
+1314,Florida Atlantic,N.C. State,1
+1315,Florida Atlantic,Northwestern,0
+1316,Florida Atlantic,Oakland,1
+1317,Florida Atlantic,Oregon,1
+1318,Florida Atlantic,Purdue,0
+1319,Florida Atlantic,Saint Mary's,1
+1320,Florida Atlantic,Samford,0
+1321,Florida Atlantic,San Diego St.,1
+1322,Florida Atlantic,South Carolina,1
+1323,Florida Atlantic,South Dakota St.,1
+1324,Florida Atlantic,Saint Peter's,1
+1325,Florida Atlantic,Stetson,1
+1326,Florida Atlantic,TCU,1
+1327,Florida Atlantic,Tennessee,0
+1328,Florida Atlantic,Texas,0
+1329,Florida Atlantic,Texas A&M,0
+1330,Florida Atlantic,Texas Tech,0
+1331,Florida Atlantic,UAB,1
+1332,Florida Atlantic,Utah St.,0
+1333,Florida Atlantic,Vermont,1
+1334,Florida Atlantic,Virginia,1
+1335,Florida Atlantic,Wagner,1
+1336,Florida Atlantic,Washington St.,1
+1337,Florida Atlantic,Western Kentucky,1
+1338,Florida Atlantic,Wisconsin,0
+1339,Florida Atlantic,Yale,1
+1340,Gonzaga,Akron,1
+1341,Gonzaga,Alabama,0
+1342,Gonzaga,Arizona,0
+1343,Gonzaga,Auburn,0
+1344,Gonzaga,Baylor,0
+1345,Gonzaga,Boise St.,1
+1346,Gonzaga,BYU,0
+1347,Gonzaga,Charleston,1
+1348,Gonzaga,Clemson,1
+1349,Gonzaga,Colgate,1
+1350,Gonzaga,Colorado,0
+1351,Gonzaga,Colorado St.,0
+1352,Gonzaga,Connecticut,0
+1353,Gonzaga,Creighton,0
+1354,Gonzaga,Dayton,0
+1355,Gonzaga,Drake,1
+1356,Gonzaga,Duke,0
+1357,Gonzaga,Duquesne,1
+1358,Gonzaga,Florida,1
+1359,Gonzaga,Florida Atlantic,0
+1360,Gonzaga,Grambling St.,1
+1361,Gonzaga,Grand Canyon,1
+1362,Gonzaga,Houston,0
+1363,Gonzaga,Howard,1
+1364,Gonzaga,Illinois,0
+1365,Gonzaga,Iowa St.,1
+1366,Gonzaga,James Madison,1
+1367,Gonzaga,Kansas,0
+1368,Gonzaga,Kentucky,0
+1369,Gonzaga,Long Beach St.,1
+1370,Gonzaga,Longwood,1
+1371,Gonzaga,Marquette,0
+1372,Gonzaga,McNeese St.,1
+1373,Gonzaga,Michigan St.,1
+1374,Gonzaga,Mississippi St.,1
+1375,Gonzaga,Montana St.,1
+1376,Gonzaga,Morehead St.,1
+1377,Gonzaga,Nebraska,0
+1378,Gonzaga,Nevada,0
+1379,Gonzaga,New Mexico,1
+1380,Gonzaga,North Carolina,0
+1381,Gonzaga,N.C. State,1
+1382,Gonzaga,Northwestern,1
+1383,Gonzaga,Oakland,1
+1384,Gonzaga,Oregon,1
+1385,Gonzaga,Purdue,0
+1386,Gonzaga,Saint Mary's,1
+1387,Gonzaga,Samford,1
+1388,Gonzaga,San Diego St.,0
+1389,Gonzaga,South Carolina,1
+1390,Gonzaga,South Dakota St.,1
+1391,Gonzaga,Saint Peter's,1
+1392,Gonzaga,Stetson,1
+1393,Gonzaga,TCU,1
+1394,Gonzaga,Tennessee,0
+1395,Gonzaga,Texas,1
+1396,Gonzaga,Texas A&M,1
+1397,Gonzaga,Texas Tech,0
+1398,Gonzaga,UAB,1
+1399,Gonzaga,Utah St.,1
+1400,Gonzaga,Vermont,1
+1401,Gonzaga,Virginia,0
+1402,Gonzaga,Wagner,1
+1403,Gonzaga,Washington St.,1
+1404,Gonzaga,Western Kentucky,1
+1405,Gonzaga,Wisconsin,0
+1406,Gonzaga,Yale,1
+1407,Grambling St.,Akron,0
+1408,Grambling St.,Alabama,0
+1409,Grambling St.,Arizona,0
+1410,Grambling St.,Auburn,0
+1411,Grambling St.,Baylor,0
+1412,Grambling St.,Boise St.,0
+1413,Grambling St.,BYU,0
+1414,Grambling St.,Charleston,0
+1415,Grambling St.,Clemson,0
+1416,Grambling St.,Colgate,0
+1417,Grambling St.,Colorado,0
+1418,Grambling St.,Colorado St.,0
+1419,Grambling St.,Connecticut,0
+1420,Grambling St.,Creighton,0
+1421,Grambling St.,Dayton,0
+1422,Grambling St.,Drake,0
+1423,Grambling St.,Duke,0
+1424,Grambling St.,Duquesne,0
+1425,Grambling St.,Florida,0
+1426,Grambling St.,Florida Atlantic,0
+1427,Grambling St.,Gonzaga,0
+1428,Grambling St.,Grand Canyon,0
+1429,Grambling St.,Houston,0
+1430,Grambling St.,Howard,0
+1431,Grambling St.,Illinois,0
+1432,Grambling St.,Iowa St.,0
+1433,Grambling St.,James Madison,0
+1434,Grambling St.,Kansas,0
+1435,Grambling St.,Kentucky,0
+1436,Grambling St.,Long Beach St.,1
+1437,Grambling St.,Longwood,0
+1438,Grambling St.,Marquette,0
+1439,Grambling St.,McNeese St.,0
+1440,Grambling St.,Michigan St.,0
+1441,Grambling St.,Mississippi St.,0
+1442,Grambling St.,Montana St.,0
+1443,Grambling St.,Morehead St.,0
+1444,Grambling St.,Nebraska,0
+1445,Grambling St.,Nevada,0
+1446,Grambling St.,New Mexico,0
+1447,Grambling St.,North Carolina,0
+1448,Grambling St.,N.C. State,0
+1449,Grambling St.,Northwestern,0
+1450,Grambling St.,Oakland,0
+1451,Grambling St.,Oregon,0
+1452,Grambling St.,Purdue,0
+1453,Grambling St.,Saint Mary's,0
+1454,Grambling St.,Samford,0
+1455,Grambling St.,San Diego St.,0
+1456,Grambling St.,South Carolina,0
+1457,Grambling St.,South Dakota St.,0
+1458,Grambling St.,Saint Peter's,0
+1459,Grambling St.,Stetson,0
+1460,Grambling St.,TCU,0
+1461,Grambling St.,Tennessee,0
+1462,Grambling St.,Texas,0
+1463,Grambling St.,Texas A&M,0
+1464,Grambling St.,Texas Tech,0
+1465,Grambling St.,UAB,1
+1466,Grambling St.,Utah St.,0
+1467,Grambling St.,Vermont,0
+1468,Grambling St.,Virginia,0
+1469,Grambling St.,Wagner,1
+1470,Grambling St.,Washington St.,0
+1471,Grambling St.,Western Kentucky,0
+1472,Grambling St.,Wisconsin,0
+1473,Grambling St.,Yale,0
+1474,Grand Canyon,Akron,1
+1475,Grand Canyon,Alabama,0
+1476,Grand Canyon,Arizona,0
+1477,Grand Canyon,Auburn,0
+1478,Grand Canyon,Baylor,0
+1479,Grand Canyon,Boise St.,0
+1480,Grand Canyon,BYU,0
+1481,Grand Canyon,Charleston,1
+1482,Grand Canyon,Clemson,0
+1483,Grand Canyon,Colgate,1
+1484,Grand Canyon,Colorado,0
+1485,Grand Canyon,Colorado St.,0
+1486,Grand Canyon,Connecticut,0
+1487,Grand Canyon,Creighton,0
+1488,Grand Canyon,Dayton,0
+1489,Grand Canyon,Drake,0
+1490,Grand Canyon,Duke,0
+1491,Grand Canyon,Duquesne,1
+1492,Grand Canyon,Florida,0
+1493,Grand Canyon,Florida Atlantic,0
+1494,Grand Canyon,Gonzaga,0
+1495,Grand Canyon,Grambling St.,1
+1496,Grand Canyon,Houston,0
+1497,Grand Canyon,Howard,1
+1498,Grand Canyon,Illinois,0
+1499,Grand Canyon,Iowa St.,0
+1500,Grand Canyon,James Madison,0
+1501,Grand Canyon,Kansas,0
+1502,Grand Canyon,Kentucky,0
+1503,Grand Canyon,Long Beach St.,1
+1504,Grand Canyon,Longwood,1
+1505,Grand Canyon,Marquette,0
+1506,Grand Canyon,McNeese St.,0
+1507,Grand Canyon,Michigan St.,0
+1508,Grand Canyon,Mississippi St.,0
+1509,Grand Canyon,Montana St.,1
+1510,Grand Canyon,Morehead St.,1
+1511,Grand Canyon,Nebraska,0
+1512,Grand Canyon,Nevada,0
+1513,Grand Canyon,New Mexico,0
+1514,Grand Canyon,North Carolina,0
+1515,Grand Canyon,N.C. State,1
+1516,Grand Canyon,Northwestern,0
+1517,Grand Canyon,Oakland,1
+1518,Grand Canyon,Oregon,0
+1519,Grand Canyon,Purdue,0
+1520,Grand Canyon,Saint Mary's,0
+1521,Grand Canyon,Samford,1
+1522,Grand Canyon,San Diego St.,0
+1523,Grand Canyon,South Carolina,0
+1524,Grand Canyon,South Dakota St.,1
+1525,Grand Canyon,Saint Peter's,1
+1526,Grand Canyon,Stetson,1
+1527,Grand Canyon,TCU,0
+1528,Grand Canyon,Tennessee,0
+1529,Grand Canyon,Texas,0
+1530,Grand Canyon,Texas A&M,0
+1531,Grand Canyon,Texas Tech,0
+1532,Grand Canyon,UAB,1
+1533,Grand Canyon,Utah St.,0
+1534,Grand Canyon,Vermont,1
+1535,Grand Canyon,Virginia,1
+1536,Grand Canyon,Wagner,1
+1537,Grand Canyon,Washington St.,0
+1538,Grand Canyon,Western Kentucky,1
+1539,Grand Canyon,Wisconsin,0
+1540,Grand Canyon,Yale,0
+1541,Houston,Akron,1
+1542,Houston,Alabama,0
+1543,Houston,Arizona,0
+1544,Houston,Auburn,1
+1545,Houston,Baylor,0
+1546,Houston,Boise St.,1
+1547,Houston,BYU,1
+1548,Houston,Charleston,1
+1549,Houston,Clemson,1
+1550,Houston,Colgate,1
+1551,Houston,Colorado,1
+1552,Houston,Colorado St.,1
+1553,Houston,Connecticut,0
+1554,Houston,Creighton,0
+1555,Houston,Dayton,1
+1556,Houston,Drake,1
+1557,Houston,Duke,1
+1558,Houston,Duquesne,1
+1559,Houston,Florida,1
+1560,Houston,Florida Atlantic,1
+1561,Houston,Gonzaga,1
+1562,Houston,Grambling St.,1
+1563,Houston,Grand Canyon,1
+1564,Houston,Howard,1
+1565,Houston,Illinois,1
+1566,Houston,Iowa St.,1
+1567,Houston,James Madison,1
+1568,Houston,Kansas,1
+1569,Houston,Kentucky,1
+1570,Houston,Long Beach St.,1
+1571,Houston,Longwood,1
+1572,Houston,Marquette,0
+1573,Houston,McNeese St.,1
+1574,Houston,Michigan St.,1
+1575,Houston,Mississippi St.,1
+1576,Houston,Montana St.,1
+1577,Houston,Morehead St.,1
+1578,Houston,Nebraska,1
+1579,Houston,Nevada,1
+1580,Houston,New Mexico,1
+1581,Houston,North Carolina,1
+1582,Houston,N.C. State,1
+1583,Houston,Northwestern,1
+1584,Houston,Oakland,1
+1585,Houston,Oregon,1
+1586,Houston,Purdue,0
+1587,Houston,Saint Mary's,1
+1588,Houston,Samford,1
+1589,Houston,San Diego St.,1
+1590,Houston,South Carolina,1
+1591,Houston,South Dakota St.,1
+1592,Houston,Saint Peter's,1
+1593,Houston,Stetson,1
+1594,Houston,TCU,1
+1595,Houston,Tennessee,1
+1596,Houston,Texas,1
+1597,Houston,Texas A&M,1
+1598,Houston,Texas Tech,1
+1599,Houston,UAB,1
+1600,Houston,Utah St.,1
+1601,Houston,Vermont,1
+1602,Houston,Virginia,1
+1603,Houston,Wagner,1
+1604,Houston,Washington St.,1
+1605,Houston,Western Kentucky,1
+1606,Houston,Wisconsin,0
+1607,Houston,Yale,1
+1608,Howard,Akron,0
+1609,Howard,Alabama,0
+1610,Howard,Arizona,0
+1611,Howard,Auburn,0
+1612,Howard,Baylor,0
+1613,Howard,Boise St.,0
+1614,Howard,BYU,0
+1615,Howard,Charleston,0
+1616,Howard,Clemson,0
+1617,Howard,Colgate,1
+1618,Howard,Colorado,0
+1619,Howard,Colorado St.,0
+1620,Howard,Connecticut,0
+1621,Howard,Creighton,0
+1622,Howard,Dayton,0
+1623,Howard,Drake,0
+1624,Howard,Duke,0
+1625,Howard,Duquesne,0
+1626,Howard,Florida,0
+1627,Howard,Florida Atlantic,0
+1628,Howard,Gonzaga,0
+1629,Howard,Grambling St.,1
+1630,Howard,Grand Canyon,0
+1631,Howard,Houston,0
+1632,Howard,Illinois,0
+1633,Howard,Iowa St.,0
+1634,Howard,James Madison,0
+1635,Howard,Kansas,0
+1636,Howard,Kentucky,0
+1637,Howard,Long Beach St.,0
+1638,Howard,Longwood,0
+1639,Howard,Marquette,0
+1640,Howard,McNeese St.,0
+1641,Howard,Michigan St.,0
+1642,Howard,Mississippi St.,0
+1643,Howard,Montana St.,0
+1644,Howard,Morehead St.,0
+1645,Howard,Nebraska,0
+1646,Howard,Nevada,0
+1647,Howard,New Mexico,0
+1648,Howard,North Carolina,0
+1649,Howard,N.C. State,0
+1650,Howard,Northwestern,0
+1651,Howard,Oakland,0
+1652,Howard,Oregon,0
+1653,Howard,Purdue,0
+1654,Howard,Saint Mary's,0
+1655,Howard,Samford,0
+1656,Howard,San Diego St.,0
+1657,Howard,South Carolina,0
+1658,Howard,South Dakota St.,0
+1659,Howard,Saint Peter's,1
+1660,Howard,Stetson,0
+1661,Howard,TCU,0
+1662,Howard,Tennessee,0
+1663,Howard,Texas,0
+1664,Howard,Texas A&M,0
+1665,Howard,Texas Tech,0
+1666,Howard,UAB,0
+1667,Howard,Utah St.,0
+1668,Howard,Vermont,0
+1669,Howard,Virginia,0
+1670,Howard,Wagner,1
+1671,Howard,Washington St.,0
+1672,Howard,Western Kentucky,0
+1673,Howard,Wisconsin,0
+1674,Howard,Yale,0
+1675,Illinois,Akron,1
+1676,Illinois,Alabama,0
+1677,Illinois,Arizona,1
+1678,Illinois,Auburn,1
+1679,Illinois,Baylor,0
+1680,Illinois,Boise St.,1
+1681,Illinois,BYU,1
+1682,Illinois,Charleston,1
+1683,Illinois,Clemson,1
+1684,Illinois,Colgate,1
+1685,Illinois,Colorado,1
+1686,Illinois,Colorado St.,1
+1687,Illinois,Connecticut,0
+1688,Illinois,Creighton,1
+1689,Illinois,Dayton,1
+1690,Illinois,Drake,0
+1691,Illinois,Duke,1
+1692,Illinois,Duquesne,1
+1693,Illinois,Florida,1
+1694,Illinois,Florida Atlantic,1
+1695,Illinois,Gonzaga,1
+1696,Illinois,Grambling St.,1
+1697,Illinois,Grand Canyon,1
+1698,Illinois,Houston,1
+1699,Illinois,Howard,1
+1700,Illinois,Iowa St.,1
+1701,Illinois,James Madison,1
+1702,Illinois,Kansas,1
+1703,Illinois,Kentucky,0
+1704,Illinois,Long Beach St.,1
+1705,Illinois,Longwood,1
+1706,Illinois,Marquette,1
+1707,Illinois,McNeese St.,1
+1708,Illinois,Michigan St.,1
+1709,Illinois,Mississippi St.,1
+1710,Illinois,Montana St.,1
+1711,Illinois,Morehead St.,1
+1712,Illinois,Nebraska,1
+1713,Illinois,Nevada,1
+1714,Illinois,New Mexico,1
+1715,Illinois,North Carolina,1
+1716,Illinois,N.C. State,1
+1717,Illinois,Northwestern,1
+1718,Illinois,Oakland,1
+1719,Illinois,Oregon,1
+1720,Illinois,Purdue,0
+1721,Illinois,Saint Mary's,1
+1722,Illinois,Samford,1
+1723,Illinois,San Diego St.,1
+1724,Illinois,South Carolina,1
+1725,Illinois,South Dakota St.,1
+1726,Illinois,Saint Peter's,1
+1727,Illinois,Stetson,1
+1728,Illinois,TCU,1
+1729,Illinois,Tennessee,1
+1730,Illinois,Texas,0
+1731,Illinois,Texas A&M,1
+1732,Illinois,Texas Tech,1
+1733,Illinois,UAB,1
+1734,Illinois,Utah St.,1
+1735,Illinois,Vermont,1
+1736,Illinois,Virginia,1
+1737,Illinois,Wagner,1
+1738,Illinois,Washington St.,1
+1739,Illinois,Western Kentucky,1
+1740,Illinois,Wisconsin,0
+1741,Illinois,Yale,1
+1742,Iowa St.,Akron,1
+1743,Iowa St.,Alabama,0
+1744,Iowa St.,Arizona,0
+1745,Iowa St.,Auburn,1
+1746,Iowa St.,Baylor,0
+1747,Iowa St.,Boise St.,1
+1748,Iowa St.,BYU,0
+1749,Iowa St.,Charleston,1
+1750,Iowa St.,Clemson,0
+1751,Iowa St.,Colgate,1
+1752,Iowa St.,Colorado,1
+1753,Iowa St.,Colorado St.,1
+1754,Iowa St.,Connecticut,0
+1755,Iowa St.,Creighton,0
+1756,Iowa St.,Dayton,1
+1757,Iowa St.,Drake,1
+1758,Iowa St.,Duke,0
+1759,Iowa St.,Duquesne,1
+1760,Iowa St.,Florida,0
+1761,Iowa St.,Florida Atlantic,1
+1762,Iowa St.,Gonzaga,1
+1763,Iowa St.,Grambling St.,1
+1764,Iowa St.,Grand Canyon,1
+1765,Iowa St.,Houston,1
+1766,Iowa St.,Howard,1
+1767,Iowa St.,Illinois,0
+1768,Iowa St.,James Madison,1
+1769,Iowa St.,Kansas,1
+1770,Iowa St.,Kentucky,0
+1771,Iowa St.,Long Beach St.,1
+1772,Iowa St.,Longwood,1
+1773,Iowa St.,Marquette,0
+1774,Iowa St.,McNeese St.,1
+1775,Iowa St.,Michigan St.,0
+1776,Iowa St.,Mississippi St.,1
+1777,Iowa St.,Montana St.,1
+1778,Iowa St.,Morehead St.,1
+1779,Iowa St.,Nebraska,1
+1780,Iowa St.,Nevada,1
+1781,Iowa St.,New Mexico,1
+1782,Iowa St.,North Carolina,0
+1783,Iowa St.,N.C. State,1
+1784,Iowa St.,Northwestern,1
+1785,Iowa St.,Oakland,1
+1786,Iowa St.,Oregon,1
+1787,Iowa St.,Purdue,0
+1788,Iowa St.,Saint Mary's,1
+1789,Iowa St.,Samford,1
+1790,Iowa St.,San Diego St.,0
+1791,Iowa St.,South Carolina,1
+1792,Iowa St.,South Dakota St.,1
+1793,Iowa St.,Saint Peter's,1
+1794,Iowa St.,Stetson,1
+1795,Iowa St.,TCU,1
+1796,Iowa St.,Tennessee,0
+1797,Iowa St.,Texas,0
+1798,Iowa St.,Texas A&M,1
+1799,Iowa St.,Texas Tech,0
+1800,Iowa St.,UAB,1
+1801,Iowa St.,Utah St.,1
+1802,Iowa St.,Vermont,1
+1803,Iowa St.,Virginia,1
+1804,Iowa St.,Wagner,1
+1805,Iowa St.,Washington St.,1
+1806,Iowa St.,Western Kentucky,1
+1807,Iowa St.,Wisconsin,0
+1808,Iowa St.,Yale,1
+1809,James Madison,Akron,1
+1810,James Madison,Alabama,0
+1811,James Madison,Arizona,0
+1812,James Madison,Auburn,0
+1813,James Madison,Baylor,0
+1814,James Madison,Boise St.,0
+1815,James Madison,BYU,0
+1816,James Madison,Charleston,0
+1817,James Madison,Clemson,0
+1818,James Madison,Colgate,1
+1819,James Madison,Colorado,0
+1820,James Madison,Colorado St.,0
+1821,James Madison,Connecticut,0
+1822,James Madison,Creighton,0
+1823,James Madison,Dayton,0
+1824,James Madison,Drake,0
+1825,James Madison,Duke,0
+1826,James Madison,Duquesne,1
+1827,James Madison,Florida,0
+1828,James Madison,Florida Atlantic,0
+1829,James Madison,Gonzaga,0
+1830,James Madison,Grambling St.,1
+1831,James Madison,Grand Canyon,0
+1832,James Madison,Houston,0
+1833,James Madison,Howard,1
+1834,James Madison,Illinois,0
+1835,James Madison,Iowa St.,0
+1836,James Madison,Kansas,0
+1837,James Madison,Kentucky,0
+1838,James Madison,Long Beach St.,1
+1839,James Madison,Longwood,1
+1840,James Madison,Marquette,0
+1841,James Madison,McNeese St.,0
+1842,James Madison,Michigan St.,0
+1843,James Madison,Mississippi St.,0
+1844,James Madison,Montana St.,1
+1845,James Madison,Morehead St.,1
+1846,James Madison,Nebraska,0
+1847,James Madison,Nevada,0
+1848,James Madison,New Mexico,0
+1849,James Madison,North Carolina,0
+1850,James Madison,N.C. State,1
+1851,James Madison,Northwestern,0
+1852,James Madison,Oakland,1
+1853,James Madison,Oregon,1
+1854,James Madison,Purdue,0
+1855,James Madison,Saint Mary's,0
+1856,James Madison,Samford,0
+1857,James Madison,San Diego St.,0
+1858,James Madison,South Carolina,1
+1859,James Madison,South Dakota St.,1
+1860,James Madison,Saint Peter's,1
+1861,James Madison,Stetson,1
+1862,James Madison,TCU,0
+1863,James Madison,Tennessee,0
+1864,James Madison,Texas,0
+1865,James Madison,Texas A&M,0
+1866,James Madison,Texas Tech,0
+1867,James Madison,UAB,1
+1868,James Madison,Utah St.,0
+1869,James Madison,Vermont,1
+1870,James Madison,Virginia,1
+1871,James Madison,Wagner,1
+1872,James Madison,Washington St.,0
+1873,James Madison,Western Kentucky,1
+1874,James Madison,Wisconsin,0
+1875,James Madison,Yale,0
+1876,Kansas,Akron,1
+1877,Kansas,Alabama,0
+1878,Kansas,Arizona,0
+1879,Kansas,Auburn,0
+1880,Kansas,Baylor,0
+1881,Kansas,Boise St.,0
+1882,Kansas,BYU,1
+1883,Kansas,Charleston,1
+1884,Kansas,Clemson,1
+1885,Kansas,Colgate,1
+1886,Kansas,Colorado,1
+1887,Kansas,Colorado St.,1
+1888,Kansas,Connecticut,0
+1889,Kansas,Creighton,0
+1890,Kansas,Dayton,1
+1891,Kansas,Drake,1
+1892,Kansas,Duke,0
+1893,Kansas,Duquesne,1
+1894,Kansas,Florida,1
+1895,Kansas,Florida Atlantic,0
+1896,Kansas,Gonzaga,1
+1897,Kansas,Grambling St.,1
+1898,Kansas,Grand Canyon,1
+1899,Kansas,Houston,0
+1900,Kansas,Howard,1
+1901,Kansas,Illinois,0
+1902,Kansas,Iowa St.,0
+1903,Kansas,James Madison,1
+1904,Kansas,Kentucky,1
+1905,Kansas,Long Beach St.,1
+1906,Kansas,Longwood,1
+1907,Kansas,Marquette,0
+1908,Kansas,McNeese St.,1
+1909,Kansas,Michigan St.,1
+1910,Kansas,Mississippi St.,1
+1911,Kansas,Montana St.,1
+1912,Kansas,Morehead St.,1
+1913,Kansas,Nebraska,1
+1914,Kansas,Nevada,1
+1915,Kansas,New Mexico,1
+1916,Kansas,North Carolina,0
+1917,Kansas,N.C. State,1
+1918,Kansas,Northwestern,1
+1919,Kansas,Oakland,1
+1920,Kansas,Oregon,1
+1921,Kansas,Purdue,0
+1922,Kansas,Saint Mary's,0
+1923,Kansas,Samford,1
+1924,Kansas,San Diego St.,1
+1925,Kansas,South Carolina,1
+1926,Kansas,South Dakota St.,1
+1927,Kansas,Saint Peter's,1
+1928,Kansas,Stetson,1
+1929,Kansas,TCU,1
+1930,Kansas,Tennessee,0
+1931,Kansas,Texas,1
+1932,Kansas,Texas A&M,1
+1933,Kansas,Texas Tech,1
+1934,Kansas,UAB,1
+1935,Kansas,Utah St.,1
+1936,Kansas,Vermont,1
+1937,Kansas,Virginia,1
+1938,Kansas,Wagner,1
+1939,Kansas,Washington St.,1
+1940,Kansas,Western Kentucky,1
+1941,Kansas,Wisconsin,0
+1942,Kansas,Yale,1
+1943,Kentucky,Akron,1
+1944,Kentucky,Alabama,1
+1945,Kentucky,Arizona,0
+1946,Kentucky,Auburn,0
+1947,Kentucky,Baylor,0
+1948,Kentucky,Boise St.,1
+1949,Kentucky,BYU,0
+1950,Kentucky,Charleston,1
+1951,Kentucky,Clemson,1
+1952,Kentucky,Colgate,1
+1953,Kentucky,Colorado,1
+1954,Kentucky,Colorado St.,1
+1955,Kentucky,Connecticut,0
+1956,Kentucky,Creighton,0
+1957,Kentucky,Dayton,1
+1958,Kentucky,Drake,1
+1959,Kentucky,Duke,1
+1960,Kentucky,Duquesne,1
+1961,Kentucky,Florida,1
+1962,Kentucky,Florida Atlantic,1
+1963,Kentucky,Gonzaga,1
+1964,Kentucky,Grambling St.,1
+1965,Kentucky,Grand Canyon,1
+1966,Kentucky,Houston,1
+1967,Kentucky,Howard,1
+1968,Kentucky,Illinois,1
+1969,Kentucky,Iowa St.,1
+1970,Kentucky,James Madison,1
+1971,Kentucky,Kansas,0
+1972,Kentucky,Long Beach St.,1
+1973,Kentucky,Longwood,1
+1974,Kentucky,Marquette,1
+1975,Kentucky,McNeese St.,1
+1976,Kentucky,Michigan St.,1
+1977,Kentucky,Mississippi St.,1
+1978,Kentucky,Montana St.,1
+1979,Kentucky,Morehead St.,1
+1980,Kentucky,Nebraska,1
+1981,Kentucky,Nevada,1
+1982,Kentucky,New Mexico,1
+1983,Kentucky,North Carolina,1
+1984,Kentucky,N.C. State,1
+1985,Kentucky,Northwestern,1
+1986,Kentucky,Oakland,1
+1987,Kentucky,Oregon,1
+1988,Kentucky,Purdue,0
+1989,Kentucky,Saint Mary's,1
+1990,Kentucky,Samford,1
+1991,Kentucky,San Diego St.,1
+1992,Kentucky,South Carolina,1
+1993,Kentucky,South Dakota St.,1
+1994,Kentucky,Saint Peter's,1
+1995,Kentucky,Stetson,1
+1996,Kentucky,TCU,1
+1997,Kentucky,Tennessee,1
+1998,Kentucky,Texas,1
+1999,Kentucky,Texas A&M,1
+2000,Kentucky,Texas Tech,1
+2001,Kentucky,UAB,1
+2002,Kentucky,Utah St.,1
+2003,Kentucky,Vermont,1
+2004,Kentucky,Virginia,1
+2005,Kentucky,Wagner,1
+2006,Kentucky,Washington St.,1
+2007,Kentucky,Western Kentucky,1
+2008,Kentucky,Wisconsin,0
+2009,Kentucky,Yale,1
+2010,Long Beach St.,Akron,0
+2011,Long Beach St.,Alabama,0
+2012,Long Beach St.,Arizona,0
+2013,Long Beach St.,Auburn,0
+2014,Long Beach St.,Baylor,0
+2015,Long Beach St.,Boise St.,0
+2016,Long Beach St.,BYU,0
+2017,Long Beach St.,Charleston,0
+2018,Long Beach St.,Clemson,0
+2019,Long Beach St.,Colgate,0
+2020,Long Beach St.,Colorado,0
+2021,Long Beach St.,Colorado St.,0
+2022,Long Beach St.,Connecticut,0
+2023,Long Beach St.,Creighton,0
+2024,Long Beach St.,Dayton,0
+2025,Long Beach St.,Drake,0
+2026,Long Beach St.,Duke,0
+2027,Long Beach St.,Duquesne,0
+2028,Long Beach St.,Florida,0
+2029,Long Beach St.,Florida Atlantic,0
+2030,Long Beach St.,Gonzaga,0
+2031,Long Beach St.,Grambling St.,0
+2032,Long Beach St.,Grand Canyon,0
+2033,Long Beach St.,Houston,0
+2034,Long Beach St.,Howard,1
+2035,Long Beach St.,Illinois,0
+2036,Long Beach St.,Iowa St.,0
+2037,Long Beach St.,James Madison,0
+2038,Long Beach St.,Kansas,0
+2039,Long Beach St.,Kentucky,0
+2040,Long Beach St.,Longwood,1
+2041,Long Beach St.,Marquette,0
+2042,Long Beach St.,McNeese St.,0
+2043,Long Beach St.,Michigan St.,0
+2044,Long Beach St.,Mississippi St.,0
+2045,Long Beach St.,Montana St.,1
+2046,Long Beach St.,Morehead St.,1
+2047,Long Beach St.,Nebraska,0
+2048,Long Beach St.,Nevada,0
+2049,Long Beach St.,New Mexico,0
+2050,Long Beach St.,North Carolina,0
+2051,Long Beach St.,N.C. State,0
+2052,Long Beach St.,Northwestern,0
+2053,Long Beach St.,Oakland,0
+2054,Long Beach St.,Oregon,0
+2055,Long Beach St.,Purdue,0
+2056,Long Beach St.,Saint Mary's,0
+2057,Long Beach St.,Samford,0
+2058,Long Beach St.,San Diego St.,0
+2059,Long Beach St.,South Carolina,0
+2060,Long Beach St.,South Dakota St.,1
+2061,Long Beach St.,Saint Peter's,1
+2062,Long Beach St.,Stetson,1
+2063,Long Beach St.,TCU,0
+2064,Long Beach St.,Tennessee,0
+2065,Long Beach St.,Texas,0
+2066,Long Beach St.,Texas A&M,0
+2067,Long Beach St.,Texas Tech,0
+2068,Long Beach St.,UAB,0
+2069,Long Beach St.,Utah St.,0
+2070,Long Beach St.,Vermont,1
+2071,Long Beach St.,Virginia,0
+2072,Long Beach St.,Wagner,1
+2073,Long Beach St.,Washington St.,0
+2074,Long Beach St.,Western Kentucky,0
+2075,Long Beach St.,Wisconsin,0
+2076,Long Beach St.,Yale,0
+2077,Longwood,Akron,0
+2078,Longwood,Alabama,0
+2079,Longwood,Arizona,0
+2080,Longwood,Auburn,0
+2081,Longwood,Baylor,0
+2082,Longwood,Boise St.,0
+2083,Longwood,BYU,0
+2084,Longwood,Charleston,0
+2085,Longwood,Clemson,0
+2086,Longwood,Colgate,0
+2087,Longwood,Colorado,0
+2088,Longwood,Colorado St.,0
+2089,Longwood,Connecticut,0
+2090,Longwood,Creighton,0
+2091,Longwood,Dayton,0
+2092,Longwood,Drake,0
+2093,Longwood,Duke,0
+2094,Longwood,Duquesne,0
+2095,Longwood,Florida,0
+2096,Longwood,Florida Atlantic,0
+2097,Longwood,Gonzaga,0
+2098,Longwood,Grambling St.,1
+2099,Longwood,Grand Canyon,0
+2100,Longwood,Houston,0
+2101,Longwood,Howard,1
+2102,Longwood,Illinois,0
+2103,Longwood,Iowa St.,0
+2104,Longwood,James Madison,0
+2105,Longwood,Kansas,0
+2106,Longwood,Kentucky,0
+2107,Longwood,Long Beach St.,0
+2108,Longwood,Marquette,0
+2109,Longwood,McNeese St.,0
+2110,Longwood,Michigan St.,0
+2111,Longwood,Mississippi St.,0
+2112,Longwood,Montana St.,0
+2113,Longwood,Morehead St.,0
+2114,Longwood,Nebraska,0
+2115,Longwood,Nevada,0
+2116,Longwood,New Mexico,0
+2117,Longwood,North Carolina,0
+2118,Longwood,N.C. State,0
+2119,Longwood,Northwestern,0
+2120,Longwood,Oakland,0
+2121,Longwood,Oregon,0
+2122,Longwood,Purdue,0
+2123,Longwood,Saint Mary's,0
+2124,Longwood,Samford,0
+2125,Longwood,San Diego St.,0
+2126,Longwood,South Carolina,0
+2127,Longwood,South Dakota St.,0
+2128,Longwood,Saint Peter's,1
+2129,Longwood,Stetson,0
+2130,Longwood,TCU,0
+2131,Longwood,Tennessee,0
+2132,Longwood,Texas,0
+2133,Longwood,Texas A&M,0
+2134,Longwood,Texas Tech,0
+2135,Longwood,UAB,0
+2136,Longwood,Utah St.,0
+2137,Longwood,Vermont,0
+2138,Longwood,Virginia,0
+2139,Longwood,Wagner,1
+2140,Longwood,Washington St.,0
+2141,Longwood,Western Kentucky,0
+2142,Longwood,Wisconsin,0
+2143,Longwood,Yale,0
+2144,Marquette,Akron,1
+2145,Marquette,Alabama,0
+2146,Marquette,Arizona,0
+2147,Marquette,Auburn,0
+2148,Marquette,Baylor,1
+2149,Marquette,Boise St.,1
+2150,Marquette,BYU,1
+2151,Marquette,Charleston,1
+2152,Marquette,Clemson,1
+2153,Marquette,Colgate,1
+2154,Marquette,Colorado,1
+2155,Marquette,Colorado St.,1
+2156,Marquette,Connecticut,1
+2157,Marquette,Creighton,1
+2158,Marquette,Dayton,1
+2159,Marquette,Drake,1
+2160,Marquette,Duke,0
+2161,Marquette,Duquesne,1
+2162,Marquette,Florida,1
+2163,Marquette,Florida Atlantic,1
+2164,Marquette,Gonzaga,1
+2165,Marquette,Grambling St.,1
+2166,Marquette,Grand Canyon,1
+2167,Marquette,Houston,1
+2168,Marquette,Howard,1
+2169,Marquette,Illinois,1
+2170,Marquette,Iowa St.,1
+2171,Marquette,James Madison,1
+2172,Marquette,Kansas,1
+2173,Marquette,Kentucky,1
+2174,Marquette,Long Beach St.,1
+2175,Marquette,Longwood,1
+2176,Marquette,McNeese St.,1
+2177,Marquette,Michigan St.,1
+2178,Marquette,Mississippi St.,1
+2179,Marquette,Montana St.,1
+2180,Marquette,Morehead St.,1
+2181,Marquette,Nebraska,1
+2182,Marquette,Nevada,1
+2183,Marquette,New Mexico,1
+2184,Marquette,North Carolina,1
+2185,Marquette,N.C. State,1
+2186,Marquette,Northwestern,1
+2187,Marquette,Oakland,1
+2188,Marquette,Oregon,1
+2189,Marquette,Purdue,0
+2190,Marquette,Saint Mary's,1
+2191,Marquette,Samford,1
+2192,Marquette,San Diego St.,1
+2193,Marquette,South Carolina,1
+2194,Marquette,South Dakota St.,1
+2195,Marquette,Saint Peter's,1
+2196,Marquette,Stetson,1
+2197,Marquette,TCU,1
+2198,Marquette,Tennessee,1
+2199,Marquette,Texas,1
+2200,Marquette,Texas A&M,1
+2201,Marquette,Texas Tech,1
+2202,Marquette,UAB,1
+2203,Marquette,Utah St.,1
+2204,Marquette,Vermont,1
+2205,Marquette,Virginia,1
+2206,Marquette,Wagner,1
+2207,Marquette,Washington St.,1
+2208,Marquette,Western Kentucky,1
+2209,Marquette,Wisconsin,1
+2210,Marquette,Yale,1
+2211,McNeese St.,Akron,1
+2212,McNeese St.,Alabama,0
+2213,McNeese St.,Arizona,0
+2214,McNeese St.,Auburn,0
+2215,McNeese St.,Baylor,0
+2216,McNeese St.,Boise St.,0
+2217,McNeese St.,BYU,0
+2218,McNeese St.,Charleston,0
+2219,McNeese St.,Clemson,0
+2220,McNeese St.,Colgate,1
+2221,McNeese St.,Colorado,0
+2222,McNeese St.,Colorado St.,0
+2223,McNeese St.,Connecticut,0
+2224,McNeese St.,Creighton,0
+2225,McNeese St.,Dayton,0
+2226,McNeese St.,Drake,0
+2227,McNeese St.,Duke,0
+2228,McNeese St.,Duquesne,1
+2229,McNeese St.,Florida,0
+2230,McNeese St.,Florida Atlantic,1
+2231,McNeese St.,Gonzaga,0
+2232,McNeese St.,Grambling St.,1
+2233,McNeese St.,Grand Canyon,0
+2234,McNeese St.,Houston,0
+2235,McNeese St.,Howard,1
+2236,McNeese St.,Illinois,0
+2237,McNeese St.,Iowa St.,0
+2238,McNeese St.,James Madison,0
+2239,McNeese St.,Kansas,0
+2240,McNeese St.,Kentucky,0
+2241,McNeese St.,Long Beach St.,1
+2242,McNeese St.,Longwood,1
+2243,McNeese St.,Marquette,0
+2244,McNeese St.,Michigan St.,0
+2245,McNeese St.,Mississippi St.,0
+2246,McNeese St.,Montana St.,1
+2247,McNeese St.,Morehead St.,1
+2248,McNeese St.,Nebraska,0
+2249,McNeese St.,Nevada,0
+2250,McNeese St.,New Mexico,0
+2251,McNeese St.,North Carolina,0
+2252,McNeese St.,N.C. State,0
+2253,McNeese St.,Northwestern,0
+2254,McNeese St.,Oakland,1
+2255,McNeese St.,Oregon,0
+2256,McNeese St.,Purdue,0
+2257,McNeese St.,Saint Mary's,0
+2258,McNeese St.,Samford,0
+2259,McNeese St.,San Diego St.,0
+2260,McNeese St.,South Carolina,0
+2261,McNeese St.,South Dakota St.,1
+2262,McNeese St.,Saint Peter's,1
+2263,McNeese St.,Stetson,1
+2264,McNeese St.,TCU,0
+2265,McNeese St.,Tennessee,0
+2266,McNeese St.,Texas,0
+2267,McNeese St.,Texas A&M,0
+2268,McNeese St.,Texas Tech,0
+2269,McNeese St.,UAB,0
+2270,McNeese St.,Utah St.,0
+2271,McNeese St.,Vermont,1
+2272,McNeese St.,Virginia,1
+2273,McNeese St.,Wagner,1
+2274,McNeese St.,Washington St.,0
+2275,McNeese St.,Western Kentucky,1
+2276,McNeese St.,Wisconsin,0
+2277,McNeese St.,Yale,1
+2278,Michigan St.,Akron,1
+2279,Michigan St.,Alabama,0
+2280,Michigan St.,Arizona,0
+2281,Michigan St.,Auburn,0
+2282,Michigan St.,Baylor,0
+2283,Michigan St.,Boise St.,1
+2284,Michigan St.,BYU,1
+2285,Michigan St.,Charleston,1
+2286,Michigan St.,Clemson,0
+2287,Michigan St.,Colgate,1
+2288,Michigan St.,Colorado,1
+2289,Michigan St.,Colorado St.,1
+2290,Michigan St.,Connecticut,0
+2291,Michigan St.,Creighton,0
+2292,Michigan St.,Dayton,1
+2293,Michigan St.,Drake,1
+2294,Michigan St.,Duke,0
+2295,Michigan St.,Duquesne,1
+2296,Michigan St.,Florida,1
+2297,Michigan St.,Florida Atlantic,1
+2298,Michigan St.,Gonzaga,1
+2299,Michigan St.,Grambling St.,1
+2300,Michigan St.,Grand Canyon,1
+2301,Michigan St.,Houston,0
+2302,Michigan St.,Howard,1
+2303,Michigan St.,Illinois,1
+2304,Michigan St.,Iowa St.,1
+2305,Michigan St.,James Madison,1
+2306,Michigan St.,Kansas,0
+2307,Michigan St.,Kentucky,0
+2308,Michigan St.,Long Beach St.,1
+2309,Michigan St.,Longwood,1
+2310,Michigan St.,Marquette,0
+2311,Michigan St.,McNeese St.,1
+2312,Michigan St.,Mississippi St.,1
+2313,Michigan St.,Montana St.,1
+2314,Michigan St.,Morehead St.,1
+2315,Michigan St.,Nebraska,1
+2316,Michigan St.,Nevada,1
+2317,Michigan St.,New Mexico,1
+2318,Michigan St.,North Carolina,1
+2319,Michigan St.,N.C. State,1
+2320,Michigan St.,Northwestern,1
+2321,Michigan St.,Oakland,1
+2322,Michigan St.,Oregon,1
+2323,Michigan St.,Purdue,0
+2324,Michigan St.,Saint Mary's,1
+2325,Michigan St.,Samford,1
+2326,Michigan St.,San Diego St.,1
+2327,Michigan St.,South Carolina,1
+2328,Michigan St.,South Dakota St.,1
+2329,Michigan St.,Saint Peter's,1
+2330,Michigan St.,Stetson,1
+2331,Michigan St.,TCU,1
+2332,Michigan St.,Tennessee,1
+2333,Michigan St.,Texas,0
+2334,Michigan St.,Texas A&M,1
+2335,Michigan St.,Texas Tech,1
+2336,Michigan St.,UAB,1
+2337,Michigan St.,Utah St.,1
+2338,Michigan St.,Vermont,1
+2339,Michigan St.,Virginia,1
+2340,Michigan St.,Wagner,1
+2341,Michigan St.,Washington St.,1
+2342,Michigan St.,Western Kentucky,1
+2343,Michigan St.,Wisconsin,0
+2344,Michigan St.,Yale,1
+2345,Mississippi St.,Akron,1
+2346,Mississippi St.,Alabama,0
+2347,Mississippi St.,Arizona,0
+2348,Mississippi St.,Auburn,0
+2349,Mississippi St.,Baylor,0
+2350,Mississippi St.,Boise St.,0
+2351,Mississippi St.,BYU,1
+2352,Mississippi St.,Charleston,1
+2353,Mississippi St.,Clemson,0
+2354,Mississippi St.,Colgate,1
+2355,Mississippi St.,Colorado,1
+2356,Mississippi St.,Colorado St.,0
+2357,Mississippi St.,Connecticut,0
+2358,Mississippi St.,Creighton,0
+2359,Mississippi St.,Dayton,1
+2360,Mississippi St.,Drake,1
+2361,Mississippi St.,Duke,0
+2362,Mississippi St.,Duquesne,0
+2363,Mississippi St.,Florida,0
+2364,Mississippi St.,Florida Atlantic,0
+2365,Mississippi St.,Gonzaga,0
+2366,Mississippi St.,Grambling St.,1
+2367,Mississippi St.,Grand Canyon,1
+2368,Mississippi St.,Houston,0
+2369,Mississippi St.,Howard,1
+2370,Mississippi St.,Illinois,0
+2371,Mississippi St.,Iowa St.,0
+2372,Mississippi St.,James Madison,1
+2373,Mississippi St.,Kansas,0
+2374,Mississippi St.,Kentucky,0
+2375,Mississippi St.,Long Beach St.,1
+2376,Mississippi St.,Longwood,1
+2377,Mississippi St.,Marquette,0
+2378,Mississippi St.,McNeese St.,1
+2379,Mississippi St.,Michigan St.,0
+2380,Mississippi St.,Montana St.,1
+2381,Mississippi St.,Morehead St.,1
+2382,Mississippi St.,Nebraska,0
+2383,Mississippi St.,Nevada,1
+2384,Mississippi St.,New Mexico,1
+2385,Mississippi St.,North Carolina,0
+2386,Mississippi St.,N.C. State,1
+2387,Mississippi St.,Northwestern,1
+2388,Mississippi St.,Oakland,1
+2389,Mississippi St.,Oregon,1
+2390,Mississippi St.,Purdue,0
+2391,Mississippi St.,Saint Mary's,1
+2392,Mississippi St.,Samford,1
+2393,Mississippi St.,San Diego St.,0
+2394,Mississippi St.,South Carolina,1
+2395,Mississippi St.,South Dakota St.,1
+2396,Mississippi St.,Saint Peter's,1
+2397,Mississippi St.,Stetson,1
+2398,Mississippi St.,TCU,0
+2399,Mississippi St.,Tennessee,0
+2400,Mississippi St.,Texas,0
+2401,Mississippi St.,Texas A&M,1
+2402,Mississippi St.,Texas Tech,0
+2403,Mississippi St.,UAB,1
+2404,Mississippi St.,Utah St.,1
+2405,Mississippi St.,Vermont,1
+2406,Mississippi St.,Virginia,1
+2407,Mississippi St.,Wagner,1
+2408,Mississippi St.,Washington St.,1
+2409,Mississippi St.,Western Kentucky,1
+2410,Mississippi St.,Wisconsin,0
+2411,Mississippi St.,Yale,1
+2412,Montana St.,Akron,0
+2413,Montana St.,Alabama,0
+2414,Montana St.,Arizona,0
+2415,Montana St.,Auburn,0
+2416,Montana St.,Baylor,0
+2417,Montana St.,Boise St.,0
+2418,Montana St.,BYU,0
+2419,Montana St.,Charleston,1
+2420,Montana St.,Clemson,0
+2421,Montana St.,Colgate,1
+2422,Montana St.,Colorado,0
+2423,Montana St.,Colorado St.,0
+2424,Montana St.,Connecticut,0
+2425,Montana St.,Creighton,0
+2426,Montana St.,Dayton,0
+2427,Montana St.,Drake,0
+2428,Montana St.,Duke,0
+2429,Montana St.,Duquesne,0
+2430,Montana St.,Florida,0
+2431,Montana St.,Florida Atlantic,0
+2432,Montana St.,Gonzaga,0
+2433,Montana St.,Grambling St.,1
+2434,Montana St.,Grand Canyon,0
+2435,Montana St.,Houston,0
+2436,Montana St.,Howard,1
+2437,Montana St.,Illinois,0
+2438,Montana St.,Iowa St.,0
+2439,Montana St.,James Madison,0
+2440,Montana St.,Kansas,0
+2441,Montana St.,Kentucky,0
+2442,Montana St.,Long Beach St.,1
+2443,Montana St.,Longwood,1
+2444,Montana St.,Marquette,0
+2445,Montana St.,McNeese St.,0
+2446,Montana St.,Michigan St.,0
+2447,Montana St.,Mississippi St.,0
+2448,Montana St.,Morehead St.,0
+2449,Montana St.,Nebraska,0
+2450,Montana St.,Nevada,0
+2451,Montana St.,New Mexico,0
+2452,Montana St.,North Carolina,0
+2453,Montana St.,N.C. State,0
+2454,Montana St.,Northwestern,0
+2455,Montana St.,Oakland,0
+2456,Montana St.,Oregon,0
+2457,Montana St.,Purdue,0
+2458,Montana St.,Saint Mary's,0
+2459,Montana St.,Samford,0
+2460,Montana St.,San Diego St.,0
+2461,Montana St.,South Carolina,0
+2462,Montana St.,South Dakota St.,0
+2463,Montana St.,Saint Peter's,1
+2464,Montana St.,Stetson,1
+2465,Montana St.,TCU,0
+2466,Montana St.,Tennessee,0
+2467,Montana St.,Texas,0
+2468,Montana St.,Texas A&M,0
+2469,Montana St.,Texas Tech,0
+2470,Montana St.,UAB,1
+2471,Montana St.,Utah St.,0
+2472,Montana St.,Vermont,1
+2473,Montana St.,Virginia,0
+2474,Montana St.,Wagner,1
+2475,Montana St.,Washington St.,0
+2476,Montana St.,Western Kentucky,1
+2477,Montana St.,Wisconsin,0
+2478,Montana St.,Yale,0
+2479,Morehead St.,Akron,0
+2480,Morehead St.,Alabama,0
+2481,Morehead St.,Arizona,0
+2482,Morehead St.,Auburn,0
+2483,Morehead St.,Baylor,0
+2484,Morehead St.,Boise St.,0
+2485,Morehead St.,BYU,0
+2486,Morehead St.,Charleston,0
+2487,Morehead St.,Clemson,0
+2488,Morehead St.,Colgate,1
+2489,Morehead St.,Colorado,0
+2490,Morehead St.,Colorado St.,0
+2491,Morehead St.,Connecticut,0
+2492,Morehead St.,Creighton,0
+2493,Morehead St.,Dayton,0
+2494,Morehead St.,Drake,0
+2495,Morehead St.,Duke,0
+2496,Morehead St.,Duquesne,0
+2497,Morehead St.,Florida,0
+2498,Morehead St.,Florida Atlantic,0
+2499,Morehead St.,Gonzaga,0
+2500,Morehead St.,Grambling St.,1
+2501,Morehead St.,Grand Canyon,0
+2502,Morehead St.,Houston,0
+2503,Morehead St.,Howard,1
+2504,Morehead St.,Illinois,0
+2505,Morehead St.,Iowa St.,0
+2506,Morehead St.,James Madison,0
+2507,Morehead St.,Kansas,0
+2508,Morehead St.,Kentucky,0
+2509,Morehead St.,Long Beach St.,0
+2510,Morehead St.,Longwood,1
+2511,Morehead St.,Marquette,0
+2512,Morehead St.,McNeese St.,0
+2513,Morehead St.,Michigan St.,0
+2514,Morehead St.,Mississippi St.,0
+2515,Morehead St.,Montana St.,1
+2516,Morehead St.,Nebraska,0
+2517,Morehead St.,Nevada,0
+2518,Morehead St.,New Mexico,0
+2519,Morehead St.,North Carolina,0
+2520,Morehead St.,N.C. State,0
+2521,Morehead St.,Northwestern,0
+2522,Morehead St.,Oakland,0
+2523,Morehead St.,Oregon,0
+2524,Morehead St.,Purdue,0
+2525,Morehead St.,Saint Mary's,0
+2526,Morehead St.,Samford,0
+2527,Morehead St.,San Diego St.,0
+2528,Morehead St.,South Carolina,0
+2529,Morehead St.,South Dakota St.,0
+2530,Morehead St.,Saint Peter's,1
+2531,Morehead St.,Stetson,0
+2532,Morehead St.,TCU,0
+2533,Morehead St.,Tennessee,0
+2534,Morehead St.,Texas,0
+2535,Morehead St.,Texas A&M,0
+2536,Morehead St.,Texas Tech,0
+2537,Morehead St.,UAB,0
+2538,Morehead St.,Utah St.,0
+2539,Morehead St.,Vermont,0
+2540,Morehead St.,Virginia,1
+2541,Morehead St.,Wagner,1
+2542,Morehead St.,Washington St.,0
+2543,Morehead St.,Western Kentucky,0
+2544,Morehead St.,Wisconsin,0
+2545,Morehead St.,Yale,0
+2546,Nebraska,Akron,1
+2547,Nebraska,Alabama,0
+2548,Nebraska,Arizona,0
+2549,Nebraska,Auburn,0
+2550,Nebraska,Baylor,0
+2551,Nebraska,Boise St.,1
+2552,Nebraska,BYU,1
+2553,Nebraska,Charleston,1
+2554,Nebraska,Clemson,0
+2555,Nebraska,Colgate,1
+2556,Nebraska,Colorado,0
+2557,Nebraska,Colorado St.,1
+2558,Nebraska,Connecticut,0
+2559,Nebraska,Creighton,0
+2560,Nebraska,Dayton,1
+2561,Nebraska,Drake,1
+2562,Nebraska,Duke,0
+2563,Nebraska,Duquesne,1
+2564,Nebraska,Florida,1
+2565,Nebraska,Florida Atlantic,1
+2566,Nebraska,Gonzaga,1
+2567,Nebraska,Grambling St.,1
+2568,Nebraska,Grand Canyon,1
+2569,Nebraska,Houston,0
+2570,Nebraska,Howard,1
+2571,Nebraska,Illinois,1
+2572,Nebraska,Iowa St.,0
+2573,Nebraska,James Madison,1
+2574,Nebraska,Kansas,0
+2575,Nebraska,Kentucky,0
+2576,Nebraska,Long Beach St.,1
+2577,Nebraska,Longwood,1
+2578,Nebraska,Marquette,0
+2579,Nebraska,McNeese St.,1
+2580,Nebraska,Michigan St.,0
+2581,Nebraska,Mississippi St.,1
+2582,Nebraska,Montana St.,1
+2583,Nebraska,Morehead St.,1
+2584,Nebraska,Nevada,1
+2585,Nebraska,New Mexico,1
+2586,Nebraska,North Carolina,0
+2587,Nebraska,N.C. State,1
+2588,Nebraska,Northwestern,0
+2589,Nebraska,Oakland,1
+2590,Nebraska,Oregon,1
+2591,Nebraska,Purdue,0
+2592,Nebraska,Saint Mary's,1
+2593,Nebraska,Samford,1
+2594,Nebraska,San Diego St.,0
+2595,Nebraska,South Carolina,1
+2596,Nebraska,South Dakota St.,1
+2597,Nebraska,Saint Peter's,1
+2598,Nebraska,Stetson,1
+2599,Nebraska,TCU,0
+2600,Nebraska,Tennessee,0
+2601,Nebraska,Texas,0
+2602,Nebraska,Texas A&M,0
+2603,Nebraska,Texas Tech,0
+2604,Nebraska,UAB,1
+2605,Nebraska,Utah St.,1
+2606,Nebraska,Vermont,1
+2607,Nebraska,Virginia,1
+2608,Nebraska,Wagner,1
+2609,Nebraska,Washington St.,1
+2610,Nebraska,Western Kentucky,1
+2611,Nebraska,Wisconsin,0
+2612,Nebraska,Yale,1
+2613,Nevada,Akron,1
+2614,Nevada,Alabama,1
+2615,Nevada,Arizona,0
+2616,Nevada,Auburn,0
+2617,Nevada,Baylor,0
+2618,Nevada,Boise St.,1
+2619,Nevada,BYU,1
+2620,Nevada,Charleston,1
+2621,Nevada,Clemson,0
+2622,Nevada,Colgate,1
+2623,Nevada,Colorado,0
+2624,Nevada,Colorado St.,0
+2625,Nevada,Connecticut,0
+2626,Nevada,Creighton,0
+2627,Nevada,Dayton,0
+2628,Nevada,Drake,1
+2629,Nevada,Duke,0
+2630,Nevada,Duquesne,1
+2631,Nevada,Florida,0
+2632,Nevada,Florida Atlantic,1
+2633,Nevada,Gonzaga,1
+2634,Nevada,Grambling St.,1
+2635,Nevada,Grand Canyon,1
+2636,Nevada,Houston,0
+2637,Nevada,Howard,1
+2638,Nevada,Illinois,1
+2639,Nevada,Iowa St.,0
+2640,Nevada,James Madison,1
+2641,Nevada,Kansas,0
+2642,Nevada,Kentucky,0
+2643,Nevada,Long Beach St.,1
+2644,Nevada,Longwood,1
+2645,Nevada,Marquette,0
+2646,Nevada,McNeese St.,0
+2647,Nevada,Michigan St.,0
+2648,Nevada,Mississippi St.,0
+2649,Nevada,Montana St.,1
+2650,Nevada,Morehead St.,1
+2651,Nevada,Nebraska,1
+2652,Nevada,New Mexico,1
+2653,Nevada,North Carolina,0
+2654,Nevada,N.C. State,1
+2655,Nevada,Northwestern,0
+2656,Nevada,Oakland,1
+2657,Nevada,Oregon,0
+2658,Nevada,Purdue,0
+2659,Nevada,Saint Mary's,1
+2660,Nevada,Samford,1
+2661,Nevada,San Diego St.,0
+2662,Nevada,South Carolina,1
+2663,Nevada,South Dakota St.,1
+2664,Nevada,Saint Peter's,1
+2665,Nevada,Stetson,1
+2666,Nevada,TCU,1
+2667,Nevada,Tennessee,0
+2668,Nevada,Texas,0
+2669,Nevada,Texas A&M,0
+2670,Nevada,Texas Tech,0
+2671,Nevada,UAB,1
+2672,Nevada,Utah St.,1
+2673,Nevada,Vermont,1
+2674,Nevada,Virginia,1
+2675,Nevada,Wagner,1
+2676,Nevada,Washington St.,1
+2677,Nevada,Western Kentucky,1
+2678,Nevada,Wisconsin,1
+2679,Nevada,Yale,1
+2680,New Mexico,Akron,1
+2681,New Mexico,Alabama,0
+2682,New Mexico,Arizona,0
+2683,New Mexico,Auburn,0
+2684,New Mexico,Baylor,0
+2685,New Mexico,Boise St.,0
+2686,New Mexico,BYU,0
+2687,New Mexico,Charleston,1
+2688,New Mexico,Clemson,0
+2689,New Mexico,Colgate,1
+2690,New Mexico,Colorado,0
+2691,New Mexico,Colorado St.,0
+2692,New Mexico,Connecticut,0
+2693,New Mexico,Creighton,0
+2694,New Mexico,Dayton,1
+2695,New Mexico,Drake,1
+2696,New Mexico,Duke,0
+2697,New Mexico,Duquesne,1
+2698,New Mexico,Florida,0
+2699,New Mexico,Florida Atlantic,0
+2700,New Mexico,Gonzaga,0
+2701,New Mexico,Grambling St.,1
+2702,New Mexico,Grand Canyon,1
+2703,New Mexico,Houston,0
+2704,New Mexico,Howard,1
+2705,New Mexico,Illinois,0
+2706,New Mexico,Iowa St.,0
+2707,New Mexico,James Madison,1
+2708,New Mexico,Kansas,0
+2709,New Mexico,Kentucky,0
+2710,New Mexico,Long Beach St.,1
+2711,New Mexico,Longwood,1
+2712,New Mexico,Marquette,0
+2713,New Mexico,McNeese St.,1
+2714,New Mexico,Michigan St.,0
+2715,New Mexico,Mississippi St.,0
+2716,New Mexico,Montana St.,1
+2717,New Mexico,Morehead St.,1
+2718,New Mexico,Nebraska,0
+2719,New Mexico,Nevada,0
+2720,New Mexico,North Carolina,0
+2721,New Mexico,N.C. State,0
+2722,New Mexico,Northwestern,0
+2723,New Mexico,Oakland,1
+2724,New Mexico,Oregon,1
+2725,New Mexico,Purdue,0
+2726,New Mexico,Saint Mary's,1
+2727,New Mexico,Samford,1
+2728,New Mexico,San Diego St.,0
+2729,New Mexico,South Carolina,1
+2730,New Mexico,South Dakota St.,1
+2731,New Mexico,Saint Peter's,1
+2732,New Mexico,Stetson,1
+2733,New Mexico,TCU,0
+2734,New Mexico,Tennessee,0
+2735,New Mexico,Texas,0
+2736,New Mexico,Texas A&M,0
+2737,New Mexico,Texas Tech,0
+2738,New Mexico,UAB,1
+2739,New Mexico,Utah St.,1
+2740,New Mexico,Vermont,1
+2741,New Mexico,Virginia,0
+2742,New Mexico,Wagner,1
+2743,New Mexico,Washington St.,1
+2744,New Mexico,Western Kentucky,1
+2745,New Mexico,Wisconsin,0
+2746,New Mexico,Yale,1
+2747,North Carolina,Akron,1
+2748,North Carolina,Alabama,0
+2749,North Carolina,Arizona,0
+2750,North Carolina,Auburn,1
+2751,North Carolina,Baylor,0
+2752,North Carolina,Boise St.,1
+2753,North Carolina,BYU,1
+2754,North Carolina,Charleston,1
+2755,North Carolina,Clemson,1
+2756,North Carolina,Colgate,1
+2757,North Carolina,Colorado,1
+2758,North Carolina,Colorado St.,1
+2759,North Carolina,Connecticut,0
+2760,North Carolina,Creighton,1
+2761,North Carolina,Dayton,1
+2762,North Carolina,Drake,1
+2763,North Carolina,Duke,1
+2764,North Carolina,Duquesne,1
+2765,North Carolina,Florida,1
+2766,North Carolina,Florida Atlantic,1
+2767,North Carolina,Gonzaga,1
+2768,North Carolina,Grambling St.,1
+2769,North Carolina,Grand Canyon,1
+2770,North Carolina,Houston,0
+2771,North Carolina,Howard,1
+2772,North Carolina,Illinois,0
+2773,North Carolina,Iowa St.,1
+2774,North Carolina,James Madison,1
+2775,North Carolina,Kansas,1
+2776,North Carolina,Kentucky,0
+2777,North Carolina,Long Beach St.,1
+2778,North Carolina,Longwood,1
+2779,North Carolina,Marquette,0
+2780,North Carolina,McNeese St.,1
+2781,North Carolina,Michigan St.,1
+2782,North Carolina,Mississippi St.,1
+2783,North Carolina,Montana St.,1
+2784,North Carolina,Morehead St.,1
+2785,North Carolina,Nebraska,1
+2786,North Carolina,Nevada,1
+2787,North Carolina,New Mexico,1
+2788,North Carolina,N.C. State,1
+2789,North Carolina,Northwestern,1
+2790,North Carolina,Oakland,1
+2791,North Carolina,Oregon,1
+2792,North Carolina,Purdue,0
+2793,North Carolina,Saint Mary's,1
+2794,North Carolina,Samford,1
+2795,North Carolina,San Diego St.,1
+2796,North Carolina,South Carolina,1
+2797,North Carolina,South Dakota St.,1
+2798,North Carolina,Saint Peter's,1
+2799,North Carolina,Stetson,1
+2800,North Carolina,TCU,1
+2801,North Carolina,Tennessee,1
+2802,North Carolina,Texas,1
+2803,North Carolina,Texas A&M,1
+2804,North Carolina,Texas Tech,0
+2805,North Carolina,UAB,1
+2806,North Carolina,Utah St.,1
+2807,North Carolina,Vermont,1
+2808,North Carolina,Virginia,1
+2809,North Carolina,Wagner,1
+2810,North Carolina,Washington St.,1
+2811,North Carolina,Western Kentucky,1
+2812,North Carolina,Wisconsin,0
+2813,North Carolina,Yale,1
+2814,N.C. State,Akron,1
+2815,N.C. State,Alabama,0
+2816,N.C. State,Arizona,0
+2817,N.C. State,Auburn,0
+2818,N.C. State,Baylor,0
+2819,N.C. State,Boise St.,0
+2820,N.C. State,BYU,0
+2821,N.C. State,Charleston,1
+2822,N.C. State,Clemson,1
+2823,N.C. State,Colgate,1
+2824,N.C. State,Colorado,0
+2825,N.C. State,Colorado St.,0
+2826,N.C. State,Connecticut,0
+2827,N.C. State,Creighton,0
+2828,N.C. State,Dayton,0
+2829,N.C. State,Drake,0
+2830,N.C. State,Duke,0
+2831,N.C. State,Duquesne,1
+2832,N.C. State,Florida,0
+2833,N.C. State,Florida Atlantic,1
+2834,N.C. State,Gonzaga,0
+2835,N.C. State,Grambling St.,1
+2836,N.C. State,Grand Canyon,1
+2837,N.C. State,Houston,0
+2838,N.C. State,Howard,1
+2839,N.C. State,Illinois,1
+2840,N.C. State,Iowa St.,0
+2841,N.C. State,James Madison,0
+2842,N.C. State,Kansas,0
+2843,N.C. State,Kentucky,0
+2844,N.C. State,Long Beach St.,1
+2845,N.C. State,Longwood,1
+2846,N.C. State,Marquette,0
+2847,N.C. State,McNeese St.,1
+2848,N.C. State,Michigan St.,0
+2849,N.C. State,Mississippi St.,1
+2850,N.C. State,Montana St.,1
+2851,N.C. State,Morehead St.,1
+2852,N.C. State,Nebraska,0
+2853,N.C. State,Nevada,0
+2854,N.C. State,New Mexico,1
+2855,N.C. State,North Carolina,0
+2856,N.C. State,Northwestern,0
+2857,N.C. State,Oakland,1
+2858,N.C. State,Oregon,1
+2859,N.C. State,Purdue,0
+2860,N.C. State,Saint Mary's,0
+2861,N.C. State,Samford,0
+2862,N.C. State,San Diego St.,0
+2863,N.C. State,South Carolina,1
+2864,N.C. State,South Dakota St.,1
+2865,N.C. State,Saint Peter's,1
+2866,N.C. State,Stetson,1
+2867,N.C. State,TCU,0
+2868,N.C. State,Tennessee,0
+2869,N.C. State,Texas,0
+2870,N.C. State,Texas A&M,1
+2871,N.C. State,Texas Tech,0
+2872,N.C. State,UAB,1
+2873,N.C. State,Utah St.,1
+2874,N.C. State,Vermont,1
+2875,N.C. State,Virginia,1
+2876,N.C. State,Wagner,1
+2877,N.C. State,Washington St.,1
+2878,N.C. State,Western Kentucky,1
+2879,N.C. State,Wisconsin,0
+2880,N.C. State,Yale,1
+2881,Northwestern,Akron,1
+2882,Northwestern,Alabama,1
+2883,Northwestern,Arizona,0
+2884,Northwestern,Auburn,0
+2885,Northwestern,Baylor,0
+2886,Northwestern,Boise St.,1
+2887,Northwestern,BYU,1
+2888,Northwestern,Charleston,1
+2889,Northwestern,Clemson,1
+2890,Northwestern,Colgate,1
+2891,Northwestern,Colorado,0
+2892,Northwestern,Colorado St.,0
+2893,Northwestern,Connecticut,0
+2894,Northwestern,Creighton,0
+2895,Northwestern,Dayton,1
+2896,Northwestern,Drake,1
+2897,Northwestern,Duke,1
+2898,Northwestern,Duquesne,1
+2899,Northwestern,Florida,1
+2900,Northwestern,Florida Atlantic,1
+2901,Northwestern,Gonzaga,0
+2902,Northwestern,Grambling St.,1
+2903,Northwestern,Grand Canyon,1
+2904,Northwestern,Houston,0
+2905,Northwestern,Howard,1
+2906,Northwestern,Illinois,1
+2907,Northwestern,Iowa St.,1
+2908,Northwestern,James Madison,1
+2909,Northwestern,Kansas,0
+2910,Northwestern,Kentucky,0
+2911,Northwestern,Long Beach St.,1
+2912,Northwestern,Longwood,1
+2913,Northwestern,Marquette,0
+2914,Northwestern,McNeese St.,1
+2915,Northwestern,Michigan St.,1
+2916,Northwestern,Mississippi St.,1
+2917,Northwestern,Montana St.,1
+2918,Northwestern,Morehead St.,1
+2919,Northwestern,Nebraska,1
+2920,Northwestern,Nevada,1
+2921,Northwestern,New Mexico,1
+2922,Northwestern,North Carolina,0
+2923,Northwestern,N.C. State,0
+2924,Northwestern,Oakland,1
+2925,Northwestern,Oregon,1
+2926,Northwestern,Purdue,0
+2927,Northwestern,Saint Mary's,1
+2928,Northwestern,Samford,1
+2929,Northwestern,San Diego St.,1
+2930,Northwestern,South Carolina,1
+2931,Northwestern,South Dakota St.,1
+2932,Northwestern,Saint Peter's,1
+2933,Northwestern,Stetson,1
+2934,Northwestern,TCU,1
+2935,Northwestern,Tennessee,0
+2936,Northwestern,Texas,1
+2937,Northwestern,Texas A&M,1
+2938,Northwestern,Texas Tech,0
+2939,Northwestern,UAB,1
+2940,Northwestern,Utah St.,1
+2941,Northwestern,Vermont,1
+2942,Northwestern,Virginia,1
+2943,Northwestern,Wagner,1
+2944,Northwestern,Washington St.,1
+2945,Northwestern,Western Kentucky,1
+2946,Northwestern,Wisconsin,1
+2947,Northwestern,Yale,1
+2948,Oakland,Akron,1
+2949,Oakland,Alabama,0
+2950,Oakland,Arizona,0
+2951,Oakland,Auburn,0
+2952,Oakland,Baylor,0
+2953,Oakland,Boise St.,0
+2954,Oakland,BYU,0
+2955,Oakland,Charleston,1
+2956,Oakland,Clemson,0
+2957,Oakland,Colgate,1
+2958,Oakland,Colorado,0
+2959,Oakland,Colorado St.,0
+2960,Oakland,Connecticut,0
+2961,Oakland,Creighton,0
+2962,Oakland,Dayton,0
+2963,Oakland,Drake,0
+2964,Oakland,Duke,0
+2965,Oakland,Duquesne,0
+2966,Oakland,Florida,0
+2967,Oakland,Florida Atlantic,0
+2968,Oakland,Gonzaga,0
+2969,Oakland,Grambling St.,1
+2970,Oakland,Grand Canyon,0
+2971,Oakland,Houston,0
+2972,Oakland,Howard,1
+2973,Oakland,Illinois,0
+2974,Oakland,Iowa St.,0
+2975,Oakland,James Madison,0
+2976,Oakland,Kansas,0
+2977,Oakland,Kentucky,0
+2978,Oakland,Long Beach St.,1
+2979,Oakland,Longwood,1
+2980,Oakland,Marquette,0
+2981,Oakland,McNeese St.,0
+2982,Oakland,Michigan St.,0
+2983,Oakland,Mississippi St.,0
+2984,Oakland,Montana St.,1
+2985,Oakland,Morehead St.,1
+2986,Oakland,Nebraska,0
+2987,Oakland,Nevada,0
+2988,Oakland,New Mexico,0
+2989,Oakland,North Carolina,0
+2990,Oakland,N.C. State,0
+2991,Oakland,Northwestern,0
+2992,Oakland,Oregon,0
+2993,Oakland,Purdue,0
+2994,Oakland,Saint Mary's,0
+2995,Oakland,Samford,0
+2996,Oakland,San Diego St.,0
+2997,Oakland,South Carolina,0
+2998,Oakland,South Dakota St.,0
+2999,Oakland,Saint Peter's,1
+3000,Oakland,Stetson,1
+3001,Oakland,TCU,0
+3002,Oakland,Tennessee,0
+3003,Oakland,Texas,0
+3004,Oakland,Texas A&M,0
+3005,Oakland,Texas Tech,0
+3006,Oakland,UAB,1
+3007,Oakland,Utah St.,0
+3008,Oakland,Vermont,1
+3009,Oakland,Virginia,0
+3010,Oakland,Wagner,1
+3011,Oakland,Washington St.,0
+3012,Oakland,Western Kentucky,1
+3013,Oakland,Wisconsin,0
+3014,Oakland,Yale,0
+3015,Oregon,Akron,1
+3016,Oregon,Alabama,0
+3017,Oregon,Arizona,0
+3018,Oregon,Auburn,0
+3019,Oregon,Baylor,0
+3020,Oregon,Boise St.,0
+3021,Oregon,BYU,0
+3022,Oregon,Charleston,1
+3023,Oregon,Clemson,0
+3024,Oregon,Colgate,0
+3025,Oregon,Colorado,0
+3026,Oregon,Colorado St.,0
+3027,Oregon,Connecticut,0
+3028,Oregon,Creighton,0
+3029,Oregon,Dayton,0
+3030,Oregon,Drake,0
+3031,Oregon,Duke,0
+3032,Oregon,Duquesne,1
+3033,Oregon,Florida,1
+3034,Oregon,Florida Atlantic,0
+3035,Oregon,Gonzaga,0
+3036,Oregon,Grambling St.,1
+3037,Oregon,Grand Canyon,1
+3038,Oregon,Houston,0
+3039,Oregon,Howard,1
+3040,Oregon,Illinois,0
+3041,Oregon,Iowa St.,0
+3042,Oregon,James Madison,0
+3043,Oregon,Kansas,0
+3044,Oregon,Kentucky,0
+3045,Oregon,Long Beach St.,1
+3046,Oregon,Longwood,1
+3047,Oregon,Marquette,0
+3048,Oregon,McNeese St.,1
+3049,Oregon,Michigan St.,0
+3050,Oregon,Mississippi St.,0
+3051,Oregon,Montana St.,1
+3052,Oregon,Morehead St.,1
+3053,Oregon,Nebraska,0
+3054,Oregon,Nevada,0
+3055,Oregon,New Mexico,0
+3056,Oregon,North Carolina,0
+3057,Oregon,N.C. State,0
+3058,Oregon,Northwestern,0
+3059,Oregon,Oakland,1
+3060,Oregon,Purdue,0
+3061,Oregon,Saint Mary's,0
+3062,Oregon,Samford,1
+3063,Oregon,San Diego St.,0
+3064,Oregon,South Carolina,1
+3065,Oregon,South Dakota St.,1
+3066,Oregon,Saint Peter's,1
+3067,Oregon,Stetson,1
+3068,Oregon,TCU,0
+3069,Oregon,Tennessee,0
+3070,Oregon,Texas,0
+3071,Oregon,Texas A&M,1
+3072,Oregon,Texas Tech,0
+3073,Oregon,UAB,1
+3074,Oregon,Utah St.,1
+3075,Oregon,Vermont,1
+3076,Oregon,Virginia,1
+3077,Oregon,Wagner,1
+3078,Oregon,Washington St.,1
+3079,Oregon,Western Kentucky,1
+3080,Oregon,Wisconsin,0
+3081,Oregon,Yale,1
+3082,Purdue,Akron,1
+3083,Purdue,Alabama,1
+3084,Purdue,Arizona,1
+3085,Purdue,Auburn,1
+3086,Purdue,Baylor,1
+3087,Purdue,Boise St.,1
+3088,Purdue,BYU,1
+3089,Purdue,Charleston,1
+3090,Purdue,Clemson,1
+3091,Purdue,Colgate,1
+3092,Purdue,Colorado,1
+3093,Purdue,Colorado St.,1
+3094,Purdue,Connecticut,1
+3095,Purdue,Creighton,1
+3096,Purdue,Dayton,1
+3097,Purdue,Drake,1
+3098,Purdue,Duke,1
+3099,Purdue,Duquesne,1
+3100,Purdue,Florida,1
+3101,Purdue,Florida Atlantic,1
+3102,Purdue,Gonzaga,1
+3103,Purdue,Grambling St.,1
+3104,Purdue,Grand Canyon,1
+3105,Purdue,Houston,1
+3106,Purdue,Howard,1
+3107,Purdue,Illinois,1
+3108,Purdue,Iowa St.,1
+3109,Purdue,James Madison,1
+3110,Purdue,Kansas,1
+3111,Purdue,Kentucky,1
+3112,Purdue,Long Beach St.,1
+3113,Purdue,Longwood,1
+3114,Purdue,Marquette,1
+3115,Purdue,McNeese St.,1
+3116,Purdue,Michigan St.,1
+3117,Purdue,Mississippi St.,1
+3118,Purdue,Montana St.,1
+3119,Purdue,Morehead St.,1
+3120,Purdue,Nebraska,1
+3121,Purdue,Nevada,1
+3122,Purdue,New Mexico,1
+3123,Purdue,North Carolina,1
+3124,Purdue,N.C. State,1
+3125,Purdue,Northwestern,1
+3126,Purdue,Oakland,1
+3127,Purdue,Oregon,1
+3128,Purdue,Saint Mary's,1
+3129,Purdue,Samford,1
+3130,Purdue,San Diego St.,1
+3131,Purdue,South Carolina,1
+3132,Purdue,South Dakota St.,1
+3133,Purdue,Saint Peter's,1
+3134,Purdue,Stetson,1
+3135,Purdue,TCU,1
+3136,Purdue,Tennessee,1
+3137,Purdue,Texas,1
+3138,Purdue,Texas A&M,1
+3139,Purdue,Texas Tech,1
+3140,Purdue,UAB,1
+3141,Purdue,Utah St.,1
+3142,Purdue,Vermont,1
+3143,Purdue,Virginia,1
+3144,Purdue,Wagner,1
+3145,Purdue,Washington St.,1
+3146,Purdue,Western Kentucky,1
+3147,Purdue,Wisconsin,1
+3148,Purdue,Yale,1
+3149,Saint Mary's,Akron,1
+3150,Saint Mary's,Alabama,0
+3151,Saint Mary's,Arizona,0
+3152,Saint Mary's,Auburn,0
+3153,Saint Mary's,Baylor,0
+3154,Saint Mary's,Boise St.,0
+3155,Saint Mary's,BYU,0
+3156,Saint Mary's,Charleston,1
+3157,Saint Mary's,Clemson,1
+3158,Saint Mary's,Colgate,1
+3159,Saint Mary's,Colorado,0
+3160,Saint Mary's,Colorado St.,0
+3161,Saint Mary's,Connecticut,0
+3162,Saint Mary's,Creighton,0
+3163,Saint Mary's,Dayton,0
+3164,Saint Mary's,Drake,1
+3165,Saint Mary's,Duke,0
+3166,Saint Mary's,Duquesne,1
+3167,Saint Mary's,Florida,0
+3168,Saint Mary's,Florida Atlantic,0
+3169,Saint Mary's,Gonzaga,0
+3170,Saint Mary's,Grambling St.,1
+3171,Saint Mary's,Grand Canyon,1
+3172,Saint Mary's,Houston,0
+3173,Saint Mary's,Howard,1
+3174,Saint Mary's,Illinois,0
+3175,Saint Mary's,Iowa St.,0
+3176,Saint Mary's,James Madison,1
+3177,Saint Mary's,Kansas,1
+3178,Saint Mary's,Kentucky,0
+3179,Saint Mary's,Long Beach St.,1
+3180,Saint Mary's,Longwood,1
+3181,Saint Mary's,Marquette,0
+3182,Saint Mary's,McNeese St.,1
+3183,Saint Mary's,Michigan St.,0
+3184,Saint Mary's,Mississippi St.,0
+3185,Saint Mary's,Montana St.,1
+3186,Saint Mary's,Morehead St.,1
+3187,Saint Mary's,Nebraska,0
+3188,Saint Mary's,Nevada,0
+3189,Saint Mary's,New Mexico,0
+3190,Saint Mary's,North Carolina,0
+3191,Saint Mary's,N.C. State,1
+3192,Saint Mary's,Northwestern,0
+3193,Saint Mary's,Oakland,1
+3194,Saint Mary's,Oregon,1
+3195,Saint Mary's,Purdue,0
+3196,Saint Mary's,Samford,1
+3197,Saint Mary's,San Diego St.,0
+3198,Saint Mary's,South Carolina,1
+3199,Saint Mary's,South Dakota St.,1
+3200,Saint Mary's,Saint Peter's,1
+3201,Saint Mary's,Stetson,1
+3202,Saint Mary's,TCU,0
+3203,Saint Mary's,Tennessee,0
+3204,Saint Mary's,Texas,0
+3205,Saint Mary's,Texas A&M,0
+3206,Saint Mary's,Texas Tech,0
+3207,Saint Mary's,UAB,1
+3208,Saint Mary's,Utah St.,0
+3209,Saint Mary's,Vermont,1
+3210,Saint Mary's,Virginia,1
+3211,Saint Mary's,Wagner,1
+3212,Saint Mary's,Washington St.,0
+3213,Saint Mary's,Western Kentucky,1
+3214,Saint Mary's,Wisconsin,0
+3215,Saint Mary's,Yale,1
+3216,Samford,Akron,1
+3217,Samford,Alabama,1
+3218,Samford,Arizona,0
+3219,Samford,Auburn,0
+3220,Samford,Baylor,0
+3221,Samford,Boise St.,0
+3222,Samford,BYU,0
+3223,Samford,Charleston,1
+3224,Samford,Clemson,0
+3225,Samford,Colgate,1
+3226,Samford,Colorado,0
+3227,Samford,Colorado St.,0
+3228,Samford,Connecticut,0
+3229,Samford,Creighton,0
+3230,Samford,Dayton,0
+3231,Samford,Drake,0
+3232,Samford,Duke,0
+3233,Samford,Duquesne,1
+3234,Samford,Florida,0
+3235,Samford,Florida Atlantic,1
+3236,Samford,Gonzaga,0
+3237,Samford,Grambling St.,1
+3238,Samford,Grand Canyon,0
+3239,Samford,Houston,0
+3240,Samford,Howard,1
+3241,Samford,Illinois,0
+3242,Samford,Iowa St.,0
+3243,Samford,James Madison,1
+3244,Samford,Kansas,0
+3245,Samford,Kentucky,0
+3246,Samford,Long Beach St.,1
+3247,Samford,Longwood,1
+3248,Samford,Marquette,0
+3249,Samford,McNeese St.,1
+3250,Samford,Michigan St.,0
+3251,Samford,Mississippi St.,0
+3252,Samford,Montana St.,1
+3253,Samford,Morehead St.,1
+3254,Samford,Nebraska,0
+3255,Samford,Nevada,0
+3256,Samford,New Mexico,0
+3257,Samford,North Carolina,0
+3258,Samford,N.C. State,0
+3259,Samford,Northwestern,0
+3260,Samford,Oakland,1
+3261,Samford,Oregon,0
+3262,Samford,Purdue,0
+3263,Samford,Saint Mary's,0
+3264,Samford,San Diego St.,0
+3265,Samford,South Carolina,0
+3266,Samford,South Dakota St.,1
+3267,Samford,Saint Peter's,1
+3268,Samford,Stetson,1
+3269,Samford,TCU,0
+3270,Samford,Tennessee,0
+3271,Samford,Texas,0
+3272,Samford,Texas A&M,0
+3273,Samford,Texas Tech,0
+3274,Samford,UAB,0
+3275,Samford,Utah St.,0
+3276,Samford,Vermont,1
+3277,Samford,Virginia,1
+3278,Samford,Wagner,1
+3279,Samford,Washington St.,0
+3280,Samford,Western Kentucky,1
+3281,Samford,Wisconsin,0
+3282,Samford,Yale,0
+3283,San Diego St.,Akron,1
+3284,San Diego St.,Alabama,0
+3285,San Diego St.,Arizona,0
+3286,San Diego St.,Auburn,0
+3287,San Diego St.,Baylor,0
+3288,San Diego St.,Boise St.,1
+3289,San Diego St.,BYU,1
+3290,San Diego St.,Charleston,1
+3291,San Diego St.,Clemson,0
+3292,San Diego St.,Colgate,1
+3293,San Diego St.,Colorado,1
+3294,San Diego St.,Colorado St.,1
+3295,San Diego St.,Connecticut,0
+3296,San Diego St.,Creighton,0
+3297,San Diego St.,Dayton,1
+3298,San Diego St.,Drake,1
+3299,San Diego St.,Duke,0
+3300,San Diego St.,Duquesne,1
+3301,San Diego St.,Florida,0
+3302,San Diego St.,Florida Atlantic,1
+3303,San Diego St.,Gonzaga,1
+3304,San Diego St.,Grambling St.,1
+3305,San Diego St.,Grand Canyon,1
+3306,San Diego St.,Houston,0
+3307,San Diego St.,Howard,1
+3308,San Diego St.,Illinois,0
+3309,San Diego St.,Iowa St.,0
+3310,San Diego St.,James Madison,1
+3311,San Diego St.,Kansas,0
+3312,San Diego St.,Kentucky,0
+3313,San Diego St.,Long Beach St.,1
+3314,San Diego St.,Longwood,1
+3315,San Diego St.,Marquette,0
+3316,San Diego St.,McNeese St.,1
+3317,San Diego St.,Michigan St.,0
+3318,San Diego St.,Mississippi St.,0
+3319,San Diego St.,Montana St.,1
+3320,San Diego St.,Morehead St.,1
+3321,San Diego St.,Nebraska,1
+3322,San Diego St.,Nevada,1
+3323,San Diego St.,New Mexico,1
+3324,San Diego St.,North Carolina,0
+3325,San Diego St.,N.C. State,1
+3326,San Diego St.,Northwestern,1
+3327,San Diego St.,Oakland,1
+3328,San Diego St.,Oregon,1
+3329,San Diego St.,Purdue,0
+3330,San Diego St.,Saint Mary's,1
+3331,San Diego St.,Samford,1
+3332,San Diego St.,South Carolina,1
+3333,San Diego St.,South Dakota St.,1
+3334,San Diego St.,Saint Peter's,1
+3335,San Diego St.,Stetson,1
+3336,San Diego St.,TCU,1
+3337,San Diego St.,Tennessee,0
+3338,San Diego St.,Texas,0
+3339,San Diego St.,Texas A&M,1
+3340,San Diego St.,Texas Tech,0
+3341,San Diego St.,UAB,1
+3342,San Diego St.,Utah St.,1
+3343,San Diego St.,Vermont,1
+3344,San Diego St.,Virginia,1
+3345,San Diego St.,Wagner,1
+3346,San Diego St.,Washington St.,0
+3347,San Diego St.,Western Kentucky,1
+3348,San Diego St.,Wisconsin,0
+3349,San Diego St.,Yale,1
+3350,South Carolina,Akron,1
+3351,South Carolina,Alabama,0
+3352,South Carolina,Arizona,0
+3353,South Carolina,Auburn,0
+3354,South Carolina,Baylor,0
+3355,South Carolina,Boise St.,0
+3356,South Carolina,BYU,0
+3357,South Carolina,Charleston,1
+3358,South Carolina,Clemson,0
+3359,South Carolina,Colgate,1
+3360,South Carolina,Colorado,0
+3361,South Carolina,Colorado St.,0
+3362,South Carolina,Connecticut,0
+3363,South Carolina,Creighton,0
+3364,South Carolina,Dayton,0
+3365,South Carolina,Drake,0
+3366,South Carolina,Duke,0
+3367,South Carolina,Duquesne,1
+3368,South Carolina,Florida,1
+3369,South Carolina,Florida Atlantic,0
+3370,South Carolina,Gonzaga,0
+3371,South Carolina,Grambling St.,1
+3372,South Carolina,Grand Canyon,1
+3373,South Carolina,Houston,0
+3374,South Carolina,Howard,1
+3375,South Carolina,Illinois,0
+3376,South Carolina,Iowa St.,0
+3377,South Carolina,James Madison,0
+3378,South Carolina,Kansas,0
+3379,South Carolina,Kentucky,0
+3380,South Carolina,Long Beach St.,1
+3381,South Carolina,Longwood,1
+3382,South Carolina,Marquette,0
+3383,South Carolina,McNeese St.,1
+3384,South Carolina,Michigan St.,0
+3385,South Carolina,Mississippi St.,0
+3386,South Carolina,Montana St.,1
+3387,South Carolina,Morehead St.,1
+3388,South Carolina,Nebraska,0
+3389,South Carolina,Nevada,0
+3390,South Carolina,New Mexico,0
+3391,South Carolina,North Carolina,0
+3392,South Carolina,N.C. State,0
+3393,South Carolina,Northwestern,0
+3394,South Carolina,Oakland,1
+3395,South Carolina,Oregon,0
+3396,South Carolina,Purdue,0
+3397,South Carolina,Saint Mary's,0
+3398,South Carolina,Samford,1
+3399,South Carolina,San Diego St.,0
+3400,South Carolina,South Dakota St.,1
+3401,South Carolina,Saint Peter's,1
+3402,South Carolina,Stetson,1
+3403,South Carolina,TCU,0
+3404,South Carolina,Tennessee,0
+3405,South Carolina,Texas,0
+3406,South Carolina,Texas A&M,1
+3407,South Carolina,Texas Tech,0
+3408,South Carolina,UAB,1
+3409,South Carolina,Utah St.,1
+3410,South Carolina,Vermont,1
+3411,South Carolina,Virginia,1
+3412,South Carolina,Wagner,1
+3413,South Carolina,Washington St.,1
+3414,South Carolina,Western Kentucky,1
+3415,South Carolina,Wisconsin,0
+3416,South Carolina,Yale,1
+3417,South Dakota St.,Akron,1
+3418,South Dakota St.,Alabama,0
+3419,South Dakota St.,Arizona,0
+3420,South Dakota St.,Auburn,0
+3421,South Dakota St.,Baylor,0
+3422,South Dakota St.,Boise St.,0
+3423,South Dakota St.,BYU,0
+3424,South Dakota St.,Charleston,1
+3425,South Dakota St.,Clemson,0
+3426,South Dakota St.,Colgate,1
+3427,South Dakota St.,Colorado,0
+3428,South Dakota St.,Colorado St.,0
+3429,South Dakota St.,Connecticut,0
+3430,South Dakota St.,Creighton,0
+3431,South Dakota St.,Dayton,0
+3432,South Dakota St.,Drake,0
+3433,South Dakota St.,Duke,0
+3434,South Dakota St.,Duquesne,0
+3435,South Dakota St.,Florida,0
+3436,South Dakota St.,Florida Atlantic,0
+3437,South Dakota St.,Gonzaga,0
+3438,South Dakota St.,Grambling St.,1
+3439,South Dakota St.,Grand Canyon,0
+3440,South Dakota St.,Houston,0
+3441,South Dakota St.,Howard,1
+3442,South Dakota St.,Illinois,0
+3443,South Dakota St.,Iowa St.,0
+3444,South Dakota St.,James Madison,0
+3445,South Dakota St.,Kansas,0
+3446,South Dakota St.,Kentucky,0
+3447,South Dakota St.,Long Beach St.,1
+3448,South Dakota St.,Longwood,1
+3449,South Dakota St.,Marquette,0
+3450,South Dakota St.,McNeese St.,0
+3451,South Dakota St.,Michigan St.,0
+3452,South Dakota St.,Mississippi St.,0
+3453,South Dakota St.,Montana St.,1
+3454,South Dakota St.,Morehead St.,1
+3455,South Dakota St.,Nebraska,0
+3456,South Dakota St.,Nevada,0
+3457,South Dakota St.,New Mexico,0
+3458,South Dakota St.,North Carolina,0
+3459,South Dakota St.,N.C. State,0
+3460,South Dakota St.,Northwestern,0
+3461,South Dakota St.,Oakland,0
+3462,South Dakota St.,Oregon,0
+3463,South Dakota St.,Purdue,0
+3464,South Dakota St.,Saint Mary's,0
+3465,South Dakota St.,Samford,0
+3466,South Dakota St.,San Diego St.,0
+3467,South Dakota St.,South Carolina,0
+3468,South Dakota St.,Saint Peter's,1
+3469,South Dakota St.,Stetson,1
+3470,South Dakota St.,TCU,0
+3471,South Dakota St.,Tennessee,0
+3472,South Dakota St.,Texas,0
+3473,South Dakota St.,Texas A&M,0
+3474,South Dakota St.,Texas Tech,0
+3475,South Dakota St.,UAB,0
+3476,South Dakota St.,Utah St.,0
+3477,South Dakota St.,Vermont,0
+3478,South Dakota St.,Virginia,1
+3479,South Dakota St.,Wagner,1
+3480,South Dakota St.,Washington St.,0
+3481,South Dakota St.,Western Kentucky,1
+3482,South Dakota St.,Wisconsin,0
+3483,South Dakota St.,Yale,0
+3484,Saint Peter's,Akron,0
+3485,Saint Peter's,Alabama,0
+3486,Saint Peter's,Arizona,0
+3487,Saint Peter's,Auburn,0
+3488,Saint Peter's,Baylor,0
+3489,Saint Peter's,Boise St.,0
+3490,Saint Peter's,BYU,0
+3491,Saint Peter's,Charleston,0
+3492,Saint Peter's,Clemson,0
+3493,Saint Peter's,Colgate,0
+3494,Saint Peter's,Colorado,0
+3495,Saint Peter's,Colorado St.,0
+3496,Saint Peter's,Connecticut,0
+3497,Saint Peter's,Creighton,0
+3498,Saint Peter's,Dayton,0
+3499,Saint Peter's,Drake,0
+3500,Saint Peter's,Duke,0
+3501,Saint Peter's,Duquesne,0
+3502,Saint Peter's,Florida,0
+3503,Saint Peter's,Florida Atlantic,0
+3504,Saint Peter's,Gonzaga,0
+3505,Saint Peter's,Grambling St.,1
+3506,Saint Peter's,Grand Canyon,0
+3507,Saint Peter's,Houston,0
+3508,Saint Peter's,Howard,0
+3509,Saint Peter's,Illinois,0
+3510,Saint Peter's,Iowa St.,0
+3511,Saint Peter's,James Madison,0
+3512,Saint Peter's,Kansas,0
+3513,Saint Peter's,Kentucky,0
+3514,Saint Peter's,Long Beach St.,0
+3515,Saint Peter's,Longwood,0
+3516,Saint Peter's,Marquette,0
+3517,Saint Peter's,McNeese St.,0
+3518,Saint Peter's,Michigan St.,0
+3519,Saint Peter's,Mississippi St.,0
+3520,Saint Peter's,Montana St.,0
+3521,Saint Peter's,Morehead St.,0
+3522,Saint Peter's,Nebraska,0
+3523,Saint Peter's,Nevada,0
+3524,Saint Peter's,New Mexico,0
+3525,Saint Peter's,North Carolina,0
+3526,Saint Peter's,N.C. State,0
+3527,Saint Peter's,Northwestern,0
+3528,Saint Peter's,Oakland,0
+3529,Saint Peter's,Oregon,0
+3530,Saint Peter's,Purdue,0
+3531,Saint Peter's,Saint Mary's,0
+3532,Saint Peter's,Samford,0
+3533,Saint Peter's,San Diego St.,0
+3534,Saint Peter's,South Carolina,0
+3535,Saint Peter's,South Dakota St.,0
+3536,Saint Peter's,Stetson,0
+3537,Saint Peter's,TCU,0
+3538,Saint Peter's,Tennessee,0
+3539,Saint Peter's,Texas,0
+3540,Saint Peter's,Texas A&M,1
+3541,Saint Peter's,Texas Tech,0
+3542,Saint Peter's,UAB,0
+3543,Saint Peter's,Utah St.,0
+3544,Saint Peter's,Vermont,0
+3545,Saint Peter's,Virginia,0
+3546,Saint Peter's,Wagner,1
+3547,Saint Peter's,Washington St.,0
+3548,Saint Peter's,Western Kentucky,0
+3549,Saint Peter's,Wisconsin,0
+3550,Saint Peter's,Yale,0
+3551,Stetson,Akron,1
+3552,Stetson,Alabama,0
+3553,Stetson,Arizona,0
+3554,Stetson,Auburn,0
+3555,Stetson,Baylor,0
+3556,Stetson,Boise St.,0
+3557,Stetson,BYU,0
+3558,Stetson,Charleston,0
+3559,Stetson,Clemson,0
+3560,Stetson,Colgate,1
+3561,Stetson,Colorado,0
+3562,Stetson,Colorado St.,0
+3563,Stetson,Connecticut,0
+3564,Stetson,Creighton,0
+3565,Stetson,Dayton,0
+3566,Stetson,Drake,0
+3567,Stetson,Duke,0
+3568,Stetson,Duquesne,1
+3569,Stetson,Florida,0
+3570,Stetson,Florida Atlantic,0
+3571,Stetson,Gonzaga,0
+3572,Stetson,Grambling St.,1
+3573,Stetson,Grand Canyon,0
+3574,Stetson,Houston,0
+3575,Stetson,Howard,1
+3576,Stetson,Illinois,0
+3577,Stetson,Iowa St.,0
+3578,Stetson,James Madison,0
+3579,Stetson,Kansas,0
+3580,Stetson,Kentucky,0
+3581,Stetson,Long Beach St.,0
+3582,Stetson,Longwood,1
+3583,Stetson,Marquette,0
+3584,Stetson,McNeese St.,0
+3585,Stetson,Michigan St.,0
+3586,Stetson,Mississippi St.,0
+3587,Stetson,Montana St.,1
+3588,Stetson,Morehead St.,1
+3589,Stetson,Nebraska,0
+3590,Stetson,Nevada,0
+3591,Stetson,New Mexico,0
+3592,Stetson,North Carolina,0
+3593,Stetson,N.C. State,0
+3594,Stetson,Northwestern,0
+3595,Stetson,Oakland,0
+3596,Stetson,Oregon,0
+3597,Stetson,Purdue,0
+3598,Stetson,Saint Mary's,0
+3599,Stetson,Samford,0
+3600,Stetson,San Diego St.,0
+3601,Stetson,South Carolina,0
+3602,Stetson,South Dakota St.,0
+3603,Stetson,Saint Peter's,1
+3604,Stetson,TCU,0
+3605,Stetson,Tennessee,0
+3606,Stetson,Texas,0
+3607,Stetson,Texas A&M,0
+3608,Stetson,Texas Tech,0
+3609,Stetson,UAB,0
+3610,Stetson,Utah St.,0
+3611,Stetson,Vermont,1
+3612,Stetson,Virginia,0
+3613,Stetson,Wagner,1
+3614,Stetson,Washington St.,0
+3615,Stetson,Western Kentucky,1
+3616,Stetson,Wisconsin,0
+3617,Stetson,Yale,0
+3618,TCU,Akron,1
+3619,TCU,Alabama,0
+3620,TCU,Arizona,0
+3621,TCU,Auburn,0
+3622,TCU,Baylor,0
+3623,TCU,Boise St.,1
+3624,TCU,BYU,0
+3625,TCU,Charleston,1
+3626,TCU,Clemson,0
+3627,TCU,Colgate,1
+3628,TCU,Colorado,0
+3629,TCU,Colorado St.,1
+3630,TCU,Connecticut,0
+3631,TCU,Creighton,0
+3632,TCU,Dayton,1
+3633,TCU,Drake,1
+3634,TCU,Duke,0
+3635,TCU,Duquesne,1
+3636,TCU,Florida,0
+3637,TCU,Florida Atlantic,1
+3638,TCU,Gonzaga,0
+3639,TCU,Grambling St.,1
+3640,TCU,Grand Canyon,1
+3641,TCU,Houston,0
+3642,TCU,Howard,1
+3643,TCU,Illinois,0
+3644,TCU,Iowa St.,0
+3645,TCU,James Madison,1
+3646,TCU,Kansas,0
+3647,TCU,Kentucky,0
+3648,TCU,Long Beach St.,1
+3649,TCU,Longwood,1
+3650,TCU,Marquette,0
+3651,TCU,McNeese St.,1
+3652,TCU,Michigan St.,0
+3653,TCU,Mississippi St.,0
+3654,TCU,Montana St.,1
+3655,TCU,Morehead St.,1
+3656,TCU,Nebraska,1
+3657,TCU,Nevada,1
+3658,TCU,New Mexico,1
+3659,TCU,North Carolina,0
+3660,TCU,N.C. State,1
+3661,TCU,Northwestern,0
+3662,TCU,Oakland,1
+3663,TCU,Oregon,1
+3664,TCU,Purdue,0
+3665,TCU,Saint Mary's,1
+3666,TCU,Samford,1
+3667,TCU,San Diego St.,0
+3668,TCU,South Carolina,1
+3669,TCU,South Dakota St.,1
+3670,TCU,Saint Peter's,1
+3671,TCU,Stetson,1
+3672,TCU,Tennessee,0
+3673,TCU,Texas,0
+3674,TCU,Texas A&M,0
+3675,TCU,Texas Tech,0
+3676,TCU,UAB,1
+3677,TCU,Utah St.,1
+3678,TCU,Vermont,1
+3679,TCU,Virginia,1
+3680,TCU,Wagner,1
+3681,TCU,Washington St.,1
+3682,TCU,Western Kentucky,1
+3683,TCU,Wisconsin,0
+3684,TCU,Yale,1
+3685,Tennessee,Akron,1
+3686,Tennessee,Alabama,0
+3687,Tennessee,Arizona,0
+3688,Tennessee,Auburn,0
+3689,Tennessee,Baylor,0
+3690,Tennessee,Boise St.,1
+3691,Tennessee,BYU,1
+3692,Tennessee,Charleston,1
+3693,Tennessee,Clemson,1
+3694,Tennessee,Colgate,1
+3695,Tennessee,Colorado,1
+3696,Tennessee,Colorado St.,1
+3697,Tennessee,Connecticut,0
+3698,Tennessee,Creighton,0
+3699,Tennessee,Dayton,1
+3700,Tennessee,Drake,1
+3701,Tennessee,Duke,1
+3702,Tennessee,Duquesne,1
+3703,Tennessee,Florida,1
+3704,Tennessee,Florida Atlantic,1
+3705,Tennessee,Gonzaga,1
+3706,Tennessee,Grambling St.,1
+3707,Tennessee,Grand Canyon,1
+3708,Tennessee,Houston,0
+3709,Tennessee,Howard,1
+3710,Tennessee,Illinois,0
+3711,Tennessee,Iowa St.,1
+3712,Tennessee,James Madison,1
+3713,Tennessee,Kansas,1
+3714,Tennessee,Kentucky,1
+3715,Tennessee,Long Beach St.,1
+3716,Tennessee,Longwood,1
+3717,Tennessee,Marquette,0
+3718,Tennessee,McNeese St.,1
+3719,Tennessee,Michigan St.,0
+3720,Tennessee,Mississippi St.,1
+3721,Tennessee,Montana St.,1
+3722,Tennessee,Morehead St.,1
+3723,Tennessee,Nebraska,1
+3724,Tennessee,Nevada,1
+3725,Tennessee,New Mexico,1
+3726,Tennessee,North Carolina,0
+3727,Tennessee,N.C. State,1
+3728,Tennessee,Northwestern,1
+3729,Tennessee,Oakland,1
+3730,Tennessee,Oregon,1
+3731,Tennessee,Purdue,0
+3732,Tennessee,Saint Mary's,1
+3733,Tennessee,Samford,1
+3734,Tennessee,San Diego St.,1
+3735,Tennessee,South Carolina,1
+3736,Tennessee,South Dakota St.,1
+3737,Tennessee,Saint Peter's,1
+3738,Tennessee,Stetson,1
+3739,Tennessee,TCU,1
+3740,Tennessee,Texas,1
+3741,Tennessee,Texas A&M,1
+3742,Tennessee,Texas Tech,0
+3743,Tennessee,UAB,1
+3744,Tennessee,Utah St.,1
+3745,Tennessee,Vermont,1
+3746,Tennessee,Virginia,1
+3747,Tennessee,Wagner,1
+3748,Tennessee,Washington St.,1
+3749,Tennessee,Western Kentucky,1
+3750,Tennessee,Wisconsin,0
+3751,Tennessee,Yale,1
+3752,Texas,Akron,1
+3753,Texas,Alabama,0
+3754,Texas,Arizona,0
+3755,Texas,Auburn,1
+3756,Texas,Baylor,0
+3757,Texas,Boise St.,1
+3758,Texas,BYU,1
+3759,Texas,Charleston,1
+3760,Texas,Clemson,0
+3761,Texas,Colgate,1
+3762,Texas,Colorado,1
+3763,Texas,Colorado St.,1
+3764,Texas,Connecticut,0
+3765,Texas,Creighton,0
+3766,Texas,Dayton,1
+3767,Texas,Drake,1
+3768,Texas,Duke,0
+3769,Texas,Duquesne,1
+3770,Texas,Florida,1
+3771,Texas,Florida Atlantic,1
+3772,Texas,Gonzaga,1
+3773,Texas,Grambling St.,1
+3774,Texas,Grand Canyon,1
+3775,Texas,Houston,0
+3776,Texas,Howard,1
+3777,Texas,Illinois,1
+3778,Texas,Iowa St.,1
+3779,Texas,James Madison,1
+3780,Texas,Kansas,0
+3781,Texas,Kentucky,0
+3782,Texas,Long Beach St.,1
+3783,Texas,Longwood,1
+3784,Texas,Marquette,0
+3785,Texas,McNeese St.,1
+3786,Texas,Michigan St.,1
+3787,Texas,Mississippi St.,1
+3788,Texas,Montana St.,1
+3789,Texas,Morehead St.,1
+3790,Texas,Nebraska,0
+3791,Texas,Nevada,1
+3792,Texas,New Mexico,1
+3793,Texas,North Carolina,1
+3794,Texas,N.C. State,1
+3795,Texas,Northwestern,0
+3796,Texas,Oakland,1
+3797,Texas,Oregon,1
+3798,Texas,Purdue,0
+3799,Texas,Saint Mary's,1
+3800,Texas,Samford,1
+3801,Texas,San Diego St.,1
+3802,Texas,South Carolina,1
+3803,Texas,South Dakota St.,1
+3804,Texas,Saint Peter's,1
+3805,Texas,Stetson,1
+3806,Texas,TCU,1
+3807,Texas,Tennessee,0
+3808,Texas,Texas A&M,1
+3809,Texas,Texas Tech,0
+3810,Texas,UAB,1
+3811,Texas,Utah St.,1
+3812,Texas,Vermont,1
+3813,Texas,Virginia,1
+3814,Texas,Wagner,1
+3815,Texas,Washington St.,1
+3816,Texas,Western Kentucky,1
+3817,Texas,Wisconsin,0
+3818,Texas,Yale,1
+3819,Texas A&M,Akron,0
+3820,Texas A&M,Alabama,0
+3821,Texas A&M,Arizona,0
+3822,Texas A&M,Auburn,0
+3823,Texas A&M,Baylor,0
+3824,Texas A&M,Boise St.,1
+3825,Texas A&M,BYU,0
+3826,Texas A&M,Charleston,1
+3827,Texas A&M,Clemson,0
+3828,Texas A&M,Colgate,1
+3829,Texas A&M,Colorado,1
+3830,Texas A&M,Colorado St.,0
+3831,Texas A&M,Connecticut,0
+3832,Texas A&M,Creighton,0
+3833,Texas A&M,Dayton,0
+3834,Texas A&M,Drake,0
+3835,Texas A&M,Duke,0
+3836,Texas A&M,Duquesne,1
+3837,Texas A&M,Florida,0
+3838,Texas A&M,Florida Atlantic,1
+3839,Texas A&M,Gonzaga,0
+3840,Texas A&M,Grambling St.,1
+3841,Texas A&M,Grand Canyon,1
+3842,Texas A&M,Houston,0
+3843,Texas A&M,Howard,1
+3844,Texas A&M,Illinois,0
+3845,Texas A&M,Iowa St.,1
+3846,Texas A&M,James Madison,0
+3847,Texas A&M,Kansas,0
+3848,Texas A&M,Kentucky,0
+3849,Texas A&M,Long Beach St.,1
+3850,Texas A&M,Longwood,1
+3851,Texas A&M,Marquette,0
+3852,Texas A&M,McNeese St.,1
+3853,Texas A&M,Michigan St.,0
+3854,Texas A&M,Mississippi St.,0
+3855,Texas A&M,Montana St.,1
+3856,Texas A&M,Morehead St.,1
+3857,Texas A&M,Nebraska,1
+3858,Texas A&M,Nevada,1
+3859,Texas A&M,New Mexico,0
+3860,Texas A&M,North Carolina,0
+3861,Texas A&M,N.C. State,0
+3862,Texas A&M,Northwestern,0
+3863,Texas A&M,Oakland,1
+3864,Texas A&M,Oregon,0
+3865,Texas A&M,Purdue,0
+3866,Texas A&M,Saint Mary's,1
+3867,Texas A&M,Samford,1
+3868,Texas A&M,San Diego St.,0
+3869,Texas A&M,South Carolina,1
+3870,Texas A&M,South Dakota St.,1
+3871,Texas A&M,Saint Peter's,0
+3872,Texas A&M,Stetson,1
+3873,Texas A&M,TCU,1
+3874,Texas A&M,Tennessee,0
+3875,Texas A&M,Texas,0
+3876,Texas A&M,Texas Tech,0
+3877,Texas A&M,UAB,1
+3878,Texas A&M,Utah St.,0
+3879,Texas A&M,Vermont,0
+3880,Texas A&M,Virginia,1
+3881,Texas A&M,Wagner,1
+3882,Texas A&M,Washington St.,0
+3883,Texas A&M,Western Kentucky,1
+3884,Texas A&M,Wisconsin,0
+3885,Texas A&M,Yale,0
+3886,Texas Tech,Akron,1
+3887,Texas Tech,Alabama,0
+3888,Texas Tech,Arizona,0
+3889,Texas Tech,Auburn,0
+3890,Texas Tech,Baylor,0
+3891,Texas Tech,Boise St.,1
+3892,Texas Tech,BYU,1
+3893,Texas Tech,Charleston,1
+3894,Texas Tech,Clemson,1
+3895,Texas Tech,Colgate,1
+3896,Texas Tech,Colorado,0
+3897,Texas Tech,Colorado St.,1
+3898,Texas Tech,Connecticut,0
+3899,Texas Tech,Creighton,0
+3900,Texas Tech,Dayton,0
+3901,Texas Tech,Drake,1
+3902,Texas Tech,Duke,0
+3903,Texas Tech,Duquesne,1
+3904,Texas Tech,Florida,1
+3905,Texas Tech,Florida Atlantic,1
+3906,Texas Tech,Gonzaga,1
+3907,Texas Tech,Grambling St.,1
+3908,Texas Tech,Grand Canyon,1
+3909,Texas Tech,Houston,0
+3910,Texas Tech,Howard,1
+3911,Texas Tech,Illinois,1
+3912,Texas Tech,Iowa St.,1
+3913,Texas Tech,James Madison,1
+3914,Texas Tech,Kansas,0
+3915,Texas Tech,Kentucky,0
+3916,Texas Tech,Long Beach St.,1
+3917,Texas Tech,Longwood,1
+3918,Texas Tech,Marquette,0
+3919,Texas Tech,McNeese St.,1
+3920,Texas Tech,Michigan St.,1
+3921,Texas Tech,Mississippi St.,1
+3922,Texas Tech,Montana St.,1
+3923,Texas Tech,Morehead St.,1
+3924,Texas Tech,Nebraska,1
+3925,Texas Tech,Nevada,1
+3926,Texas Tech,New Mexico,1
+3927,Texas Tech,North Carolina,0
+3928,Texas Tech,N.C. State,1
+3929,Texas Tech,Northwestern,0
+3930,Texas Tech,Oakland,1
+3931,Texas Tech,Oregon,1
+3932,Texas Tech,Purdue,0
+3933,Texas Tech,Saint Mary's,1
+3934,Texas Tech,Samford,1
+3935,Texas Tech,San Diego St.,1
+3936,Texas Tech,South Carolina,1
+3937,Texas Tech,South Dakota St.,1
+3938,Texas Tech,Saint Peter's,1
+3939,Texas Tech,Stetson,1
+3940,Texas Tech,TCU,1
+3941,Texas Tech,Tennessee,1
+3942,Texas Tech,Texas,1
+3943,Texas Tech,Texas A&M,1
+3944,Texas Tech,UAB,1
+3945,Texas Tech,Utah St.,1
+3946,Texas Tech,Vermont,1
+3947,Texas Tech,Virginia,1
+3948,Texas Tech,Wagner,1
+3949,Texas Tech,Washington St.,1
+3950,Texas Tech,Western Kentucky,1
+3951,Texas Tech,Wisconsin,1
+3952,Texas Tech,Yale,1
+3953,UAB,Akron,1
+3954,UAB,Alabama,0
+3955,UAB,Arizona,0
+3956,UAB,Auburn,0
+3957,UAB,Baylor,0
+3958,UAB,Boise St.,0
+3959,UAB,BYU,0
+3960,UAB,Charleston,0
+3961,UAB,Clemson,0
+3962,UAB,Colgate,0
+3963,UAB,Colorado,0
+3964,UAB,Colorado St.,0
+3965,UAB,Connecticut,0
+3966,UAB,Creighton,0
+3967,UAB,Dayton,0
+3968,UAB,Drake,0
+3969,UAB,Duke,0
+3970,UAB,Duquesne,0
+3971,UAB,Florida,0
+3972,UAB,Florida Atlantic,0
+3973,UAB,Gonzaga,0
+3974,UAB,Grambling St.,1
+3975,UAB,Grand Canyon,0
+3976,UAB,Houston,0
+3977,UAB,Howard,1
+3978,UAB,Illinois,0
+3979,UAB,Iowa St.,0
+3980,UAB,James Madison,0
+3981,UAB,Kansas,0
+3982,UAB,Kentucky,0
+3983,UAB,Long Beach St.,1
+3984,UAB,Longwood,1
+3985,UAB,Marquette,0
+3986,UAB,McNeese St.,1
+3987,UAB,Michigan St.,0
+3988,UAB,Mississippi St.,0
+3989,UAB,Montana St.,1
+3990,UAB,Morehead St.,1
+3991,UAB,Nebraska,0
+3992,UAB,Nevada,0
+3993,UAB,New Mexico,0
+3994,UAB,North Carolina,0
+3995,UAB,N.C. State,0
+3996,UAB,Northwestern,0
+3997,UAB,Oakland,0
+3998,UAB,Oregon,0
+3999,UAB,Purdue,0
+4000,UAB,Saint Mary's,0
+4001,UAB,Samford,1
+4002,UAB,San Diego St.,0
+4003,UAB,South Carolina,0
+4004,UAB,South Dakota St.,0
+4005,UAB,Saint Peter's,1
+4006,UAB,Stetson,1
+4007,UAB,TCU,0
+4008,UAB,Tennessee,0
+4009,UAB,Texas,0
+4010,UAB,Texas A&M,0
+4011,UAB,Texas Tech,0
+4012,UAB,Utah St.,0
+4013,UAB,Vermont,0
+4014,UAB,Virginia,1
+4015,UAB,Wagner,1
+4016,UAB,Washington St.,0
+4017,UAB,Western Kentucky,0
+4018,UAB,Wisconsin,0
+4019,UAB,Yale,1
+4020,Utah St.,Akron,1
+4021,Utah St.,Alabama,0
+4022,Utah St.,Arizona,0
+4023,Utah St.,Auburn,0
+4024,Utah St.,Baylor,0
+4025,Utah St.,Boise St.,0
+4026,Utah St.,BYU,0
+4027,Utah St.,Charleston,1
+4028,Utah St.,Clemson,0
+4029,Utah St.,Colgate,0
+4030,Utah St.,Colorado,0
+4031,Utah St.,Colorado St.,0
+4032,Utah St.,Connecticut,0
+4033,Utah St.,Creighton,0
+4034,Utah St.,Dayton,0
+4035,Utah St.,Drake,0
+4036,Utah St.,Duke,0
+4037,Utah St.,Duquesne,1
+4038,Utah St.,Florida,0
+4039,Utah St.,Florida Atlantic,0
+4040,Utah St.,Gonzaga,0
+4041,Utah St.,Grambling St.,1
+4042,Utah St.,Grand Canyon,1
+4043,Utah St.,Houston,0
+4044,Utah St.,Howard,1
+4045,Utah St.,Illinois,1
+4046,Utah St.,Iowa St.,0
+4047,Utah St.,James Madison,0
+4048,Utah St.,Kansas,0
+4049,Utah St.,Kentucky,0
+4050,Utah St.,Long Beach St.,1
+4051,Utah St.,Longwood,1
+4052,Utah St.,Marquette,0
+4053,Utah St.,McNeese St.,1
+4054,Utah St.,Michigan St.,0
+4055,Utah St.,Mississippi St.,0
+4056,Utah St.,Montana St.,1
+4057,Utah St.,Morehead St.,1
+4058,Utah St.,Nebraska,0
+4059,Utah St.,Nevada,0
+4060,Utah St.,New Mexico,0
+4061,Utah St.,North Carolina,0
+4062,Utah St.,N.C. State,0
+4063,Utah St.,Northwestern,0
+4064,Utah St.,Oakland,1
+4065,Utah St.,Oregon,0
+4066,Utah St.,Purdue,0
+4067,Utah St.,Saint Mary's,0
+4068,Utah St.,Samford,1
+4069,Utah St.,San Diego St.,0
+4070,Utah St.,South Carolina,1
+4071,Utah St.,South Dakota St.,1
+4072,Utah St.,Saint Peter's,1
+4073,Utah St.,Stetson,1
+4074,Utah St.,TCU,0
+4075,Utah St.,Tennessee,0
+4076,Utah St.,Texas,0
+4077,Utah St.,Texas A&M,0
+4078,Utah St.,Texas Tech,0
+4079,Utah St.,UAB,1
+4080,Utah St.,Vermont,0
+4081,Utah St.,Virginia,0
+4082,Utah St.,Wagner,1
+4083,Utah St.,Washington St.,0
+4084,Utah St.,Western Kentucky,1
+4085,Utah St.,Wisconsin,0
+4086,Utah St.,Yale,1
+4087,Vermont,Akron,0
+4088,Vermont,Alabama,0
+4089,Vermont,Arizona,0
+4090,Vermont,Auburn,0
+4091,Vermont,Baylor,0
+4092,Vermont,Boise St.,0
+4093,Vermont,BYU,1
+4094,Vermont,Charleston,0
+4095,Vermont,Clemson,0
+4096,Vermont,Colgate,1
+4097,Vermont,Colorado,0
+4098,Vermont,Colorado St.,0
+4099,Vermont,Connecticut,0
+4100,Vermont,Creighton,0
+4101,Vermont,Dayton,0
+4102,Vermont,Drake,0
+4103,Vermont,Duke,0
+4104,Vermont,Duquesne,0
+4105,Vermont,Florida,0
+4106,Vermont,Florida Atlantic,0
+4107,Vermont,Gonzaga,0
+4108,Vermont,Grambling St.,1
+4109,Vermont,Grand Canyon,0
+4110,Vermont,Houston,0
+4111,Vermont,Howard,1
+4112,Vermont,Illinois,1
+4113,Vermont,Iowa St.,0
+4114,Vermont,James Madison,0
+4115,Vermont,Kansas,0
+4116,Vermont,Kentucky,0
+4117,Vermont,Long Beach St.,0
+4118,Vermont,Longwood,1
+4119,Vermont,Marquette,0
+4120,Vermont,McNeese St.,0
+4121,Vermont,Michigan St.,0
+4122,Vermont,Mississippi St.,0
+4123,Vermont,Montana St.,1
+4124,Vermont,Morehead St.,1
+4125,Vermont,Nebraska,0
+4126,Vermont,Nevada,0
+4127,Vermont,New Mexico,0
+4128,Vermont,North Carolina,0
+4129,Vermont,N.C. State,0
+4130,Vermont,Northwestern,0
+4131,Vermont,Oakland,0
+4132,Vermont,Oregon,0
+4133,Vermont,Purdue,0
+4134,Vermont,Saint Mary's,0
+4135,Vermont,Samford,0
+4136,Vermont,San Diego St.,0
+4137,Vermont,South Carolina,0
+4138,Vermont,South Dakota St.,0
+4139,Vermont,Saint Peter's,1
+4140,Vermont,Stetson,0
+4141,Vermont,TCU,0
+4142,Vermont,Tennessee,0
+4143,Vermont,Texas,0
+4144,Vermont,Texas A&M,0
+4145,Vermont,Texas Tech,0
+4146,Vermont,UAB,0
+4147,Vermont,Utah St.,0
+4148,Vermont,Virginia,0
+4149,Vermont,Wagner,1
+4150,Vermont,Washington St.,0
+4151,Vermont,Western Kentucky,0
+4152,Vermont,Wisconsin,0
+4153,Vermont,Yale,1
+4154,Virginia,Akron,1
+4155,Virginia,Alabama,0
+4156,Virginia,Arizona,0
+4157,Virginia,Auburn,0
+4158,Virginia,Baylor,0
+4159,Virginia,Boise St.,1
+4160,Virginia,BYU,1
+4161,Virginia,Charleston,1
+4162,Virginia,Clemson,0
+4163,Virginia,Colgate,1
+4164,Virginia,Colorado,0
+4165,Virginia,Colorado St.,0
+4166,Virginia,Connecticut,0
+4167,Virginia,Creighton,0
+4168,Virginia,Dayton,0
+4169,Virginia,Drake,1
+4170,Virginia,Duke,0
+4171,Virginia,Duquesne,1
+4172,Virginia,Florida,1
+4173,Virginia,Florida Atlantic,1
+4174,Virginia,Gonzaga,1
+4175,Virginia,Grambling St.,1
+4176,Virginia,Grand Canyon,1
+4177,Virginia,Houston,0
+4178,Virginia,Howard,1
+4179,Virginia,Illinois,0
+4180,Virginia,Iowa St.,0
+4181,Virginia,James Madison,1
+4182,Virginia,Kansas,0
+4183,Virginia,Kentucky,0
+4184,Virginia,Long Beach St.,1
+4185,Virginia,Longwood,1
+4186,Virginia,Marquette,0
+4187,Virginia,McNeese St.,0
+4188,Virginia,Michigan St.,0
+4189,Virginia,Mississippi St.,0
+4190,Virginia,Montana St.,1
+4191,Virginia,Morehead St.,1
+4192,Virginia,Nebraska,0
+4193,Virginia,Nevada,1
+4194,Virginia,New Mexico,1
+4195,Virginia,North Carolina,1
+4196,Virginia,N.C. State,1
+4197,Virginia,Northwestern,0
+4198,Virginia,Oakland,1
+4199,Virginia,Oregon,1
+4200,Virginia,Purdue,0
+4201,Virginia,Saint Mary's,0
+4202,Virginia,Samford,0
+4203,Virginia,San Diego St.,0
+4204,Virginia,South Carolina,1
+4205,Virginia,South Dakota St.,1
+4206,Virginia,Saint Peter's,1
+4207,Virginia,Stetson,1
+4208,Virginia,TCU,0
+4209,Virginia,Tennessee,0
+4210,Virginia,Texas,0
+4211,Virginia,Texas A&M,0
+4212,Virginia,Texas Tech,0
+4213,Virginia,UAB,1
+4214,Virginia,Utah St.,1
+4215,Virginia,Vermont,1
+4216,Virginia,Wagner,1
+4217,Virginia,Washington St.,1
+4218,Virginia,Western Kentucky,1
+4219,Virginia,Wisconsin,0
+4220,Virginia,Yale,1
+4221,Wagner,Akron,0
+4222,Wagner,Alabama,0
+4223,Wagner,Arizona,0
+4224,Wagner,Auburn,0
+4225,Wagner,Baylor,0
+4226,Wagner,Boise St.,0
+4227,Wagner,BYU,0
+4228,Wagner,Charleston,0
+4229,Wagner,Clemson,0
+4230,Wagner,Colgate,0
+4231,Wagner,Colorado,0
+4232,Wagner,Colorado St.,0
+4233,Wagner,Connecticut,0
+4234,Wagner,Creighton,0
+4235,Wagner,Dayton,0
+4236,Wagner,Drake,0
+4237,Wagner,Duke,0
+4238,Wagner,Duquesne,0
+4239,Wagner,Florida,0
+4240,Wagner,Florida Atlantic,0
+4241,Wagner,Gonzaga,0
+4242,Wagner,Grambling St.,0
+4243,Wagner,Grand Canyon,0
+4244,Wagner,Houston,0
+4245,Wagner,Howard,0
+4246,Wagner,Illinois,0
+4247,Wagner,Iowa St.,0
+4248,Wagner,James Madison,0
+4249,Wagner,Kansas,0
+4250,Wagner,Kentucky,0
+4251,Wagner,Long Beach St.,0
+4252,Wagner,Longwood,0
+4253,Wagner,Marquette,0
+4254,Wagner,McNeese St.,0
+4255,Wagner,Michigan St.,0
+4256,Wagner,Mississippi St.,0
+4257,Wagner,Montana St.,0
+4258,Wagner,Morehead St.,0
+4259,Wagner,Nebraska,0
+4260,Wagner,Nevada,0
+4261,Wagner,New Mexico,0
+4262,Wagner,North Carolina,0
+4263,Wagner,N.C. State,0
+4264,Wagner,Northwestern,0
+4265,Wagner,Oakland,0
+4266,Wagner,Oregon,0
+4267,Wagner,Purdue,0
+4268,Wagner,Saint Mary's,0
+4269,Wagner,Samford,0
+4270,Wagner,San Diego St.,0
+4271,Wagner,South Carolina,0
+4272,Wagner,South Dakota St.,0
+4273,Wagner,Saint Peter's,0
+4274,Wagner,Stetson,0
+4275,Wagner,TCU,0
+4276,Wagner,Tennessee,0
+4277,Wagner,Texas,0
+4278,Wagner,Texas A&M,0
+4279,Wagner,Texas Tech,0
+4280,Wagner,UAB,0
+4281,Wagner,Utah St.,0
+4282,Wagner,Vermont,0
+4283,Wagner,Virginia,0
+4284,Wagner,Washington St.,0
+4285,Wagner,Western Kentucky,0
+4286,Wagner,Wisconsin,0
+4287,Wagner,Yale,0
+4288,Washington St.,Akron,1
+4289,Washington St.,Alabama,0
+4290,Washington St.,Arizona,0
+4291,Washington St.,Auburn,0
+4292,Washington St.,Baylor,0
+4293,Washington St.,Boise St.,1
+4294,Washington St.,BYU,0
+4295,Washington St.,Charleston,1
+4296,Washington St.,Clemson,0
+4297,Washington St.,Colgate,1
+4298,Washington St.,Colorado,0
+4299,Washington St.,Colorado St.,0
+4300,Washington St.,Connecticut,0
+4301,Washington St.,Creighton,0
+4302,Washington St.,Dayton,1
+4303,Washington St.,Drake,1
+4304,Washington St.,Duke,0
+4305,Washington St.,Duquesne,1
+4306,Washington St.,Florida,0
+4307,Washington St.,Florida Atlantic,0
+4308,Washington St.,Gonzaga,0
+4309,Washington St.,Grambling St.,1
+4310,Washington St.,Grand Canyon,1
+4311,Washington St.,Houston,0
+4312,Washington St.,Howard,1
+4313,Washington St.,Illinois,0
+4314,Washington St.,Iowa St.,0
+4315,Washington St.,James Madison,1
+4316,Washington St.,Kansas,0
+4317,Washington St.,Kentucky,0
+4318,Washington St.,Long Beach St.,1
+4319,Washington St.,Longwood,1
+4320,Washington St.,Marquette,0
+4321,Washington St.,McNeese St.,1
+4322,Washington St.,Michigan St.,0
+4323,Washington St.,Mississippi St.,0
+4324,Washington St.,Montana St.,1
+4325,Washington St.,Morehead St.,1
+4326,Washington St.,Nebraska,0
+4327,Washington St.,Nevada,0
+4328,Washington St.,New Mexico,0
+4329,Washington St.,North Carolina,0
+4330,Washington St.,N.C. State,0
+4331,Washington St.,Northwestern,0
+4332,Washington St.,Oakland,1
+4333,Washington St.,Oregon,0
+4334,Washington St.,Purdue,0
+4335,Washington St.,Saint Mary's,0
+4336,Washington St.,Samford,1
+4337,Washington St.,San Diego St.,0
+4338,Washington St.,South Carolina,0
+4339,Washington St.,South Dakota St.,1
+4340,Washington St.,Saint Peter's,1
+4341,Washington St.,Stetson,1
+4342,Washington St.,TCU,0
+4343,Washington St.,Tennessee,0
+4344,Washington St.,Texas,0
+4345,Washington St.,Texas A&M,1
+4346,Washington St.,Texas Tech,0
+4347,Washington St.,UAB,1
+4348,Washington St.,Utah St.,1
+4349,Washington St.,Vermont,1
+4350,Washington St.,Virginia,1
+4351,Washington St.,Wagner,1
+4352,Washington St.,Western Kentucky,1
+4353,Washington St.,Wisconsin,0
+4354,Washington St.,Yale,1
+4355,Western Kentucky,Akron,1
+4356,Western Kentucky,Alabama,0
+4357,Western Kentucky,Arizona,0
+4358,Western Kentucky,Auburn,0
+4359,Western Kentucky,Baylor,0
+4360,Western Kentucky,Boise St.,0
+4361,Western Kentucky,BYU,0
+4362,Western Kentucky,Charleston,0
+4363,Western Kentucky,Clemson,0
+4364,Western Kentucky,Colgate,0
+4365,Western Kentucky,Colorado,0
+4366,Western Kentucky,Colorado St.,0
+4367,Western Kentucky,Connecticut,0
+4368,Western Kentucky,Creighton,0
+4369,Western Kentucky,Dayton,0
+4370,Western Kentucky,Drake,0
+4371,Western Kentucky,Duke,0
+4372,Western Kentucky,Duquesne,0
+4373,Western Kentucky,Florida,0
+4374,Western Kentucky,Florida Atlantic,0
+4375,Western Kentucky,Gonzaga,0
+4376,Western Kentucky,Grambling St.,1
+4377,Western Kentucky,Grand Canyon,0
+4378,Western Kentucky,Houston,0
+4379,Western Kentucky,Howard,1
+4380,Western Kentucky,Illinois,0
+4381,Western Kentucky,Iowa St.,0
+4382,Western Kentucky,James Madison,0
+4383,Western Kentucky,Kansas,0
+4384,Western Kentucky,Kentucky,0
+4385,Western Kentucky,Long Beach St.,1
+4386,Western Kentucky,Longwood,1
+4387,Western Kentucky,Marquette,0
+4388,Western Kentucky,McNeese St.,0
+4389,Western Kentucky,Michigan St.,0
+4390,Western Kentucky,Mississippi St.,0
+4391,Western Kentucky,Montana St.,1
+4392,Western Kentucky,Morehead St.,1
+4393,Western Kentucky,Nebraska,0
+4394,Western Kentucky,Nevada,0
+4395,Western Kentucky,New Mexico,0
+4396,Western Kentucky,North Carolina,0
+4397,Western Kentucky,N.C. State,0
+4398,Western Kentucky,Northwestern,0
+4399,Western Kentucky,Oakland,0
+4400,Western Kentucky,Oregon,0
+4401,Western Kentucky,Purdue,0
+4402,Western Kentucky,Saint Mary's,0
+4403,Western Kentucky,Samford,0
+4404,Western Kentucky,San Diego St.,0
+4405,Western Kentucky,South Carolina,0
+4406,Western Kentucky,South Dakota St.,0
+4407,Western Kentucky,Saint Peter's,1
+4408,Western Kentucky,Stetson,0
+4409,Western Kentucky,TCU,0
+4410,Western Kentucky,Tennessee,0
+4411,Western Kentucky,Texas,0
+4412,Western Kentucky,Texas A&M,0
+4413,Western Kentucky,Texas Tech,0
+4414,Western Kentucky,UAB,1
+4415,Western Kentucky,Utah St.,0
+4416,Western Kentucky,Vermont,0
+4417,Western Kentucky,Virginia,0
+4418,Western Kentucky,Wagner,1
+4419,Western Kentucky,Washington St.,0
+4420,Western Kentucky,Wisconsin,0
+4421,Western Kentucky,Yale,0
+4422,Wisconsin,Akron,1
+4423,Wisconsin,Alabama,0
+4424,Wisconsin,Arizona,0
+4425,Wisconsin,Auburn,0
+4426,Wisconsin,Baylor,0
+4427,Wisconsin,Boise St.,1
+4428,Wisconsin,BYU,1
+4429,Wisconsin,Charleston,1
+4430,Wisconsin,Clemson,1
+4431,Wisconsin,Colgate,0
+4432,Wisconsin,Colorado,1
+4433,Wisconsin,Colorado St.,1
+4434,Wisconsin,Connecticut,0
+4435,Wisconsin,Creighton,0
+4436,Wisconsin,Dayton,0
+4437,Wisconsin,Drake,0
+4438,Wisconsin,Duke,0
+4439,Wisconsin,Duquesne,1
+4440,Wisconsin,Florida,1
+4441,Wisconsin,Florida Atlantic,1
+4442,Wisconsin,Gonzaga,1
+4443,Wisconsin,Grambling St.,1
+4444,Wisconsin,Grand Canyon,1
+4445,Wisconsin,Houston,1
+4446,Wisconsin,Howard,1
+4447,Wisconsin,Illinois,1
+4448,Wisconsin,Iowa St.,1
+4449,Wisconsin,James Madison,1
+4450,Wisconsin,Kansas,1
+4451,Wisconsin,Kentucky,1
+4452,Wisconsin,Long Beach St.,1
+4453,Wisconsin,Longwood,1
+4454,Wisconsin,Marquette,0
+4455,Wisconsin,McNeese St.,1
+4456,Wisconsin,Michigan St.,1
+4457,Wisconsin,Mississippi St.,1
+4458,Wisconsin,Montana St.,1
+4459,Wisconsin,Morehead St.,1
+4460,Wisconsin,Nebraska,1
+4461,Wisconsin,Nevada,0
+4462,Wisconsin,New Mexico,1
+4463,Wisconsin,North Carolina,1
+4464,Wisconsin,N.C. State,1
+4465,Wisconsin,Northwestern,1
+4466,Wisconsin,Oakland,1
+4467,Wisconsin,Oregon,1
+4468,Wisconsin,Purdue,0
+4469,Wisconsin,Saint Mary's,1
+4470,Wisconsin,Samford,1
+4471,Wisconsin,San Diego St.,1
+4472,Wisconsin,South Carolina,1
+4473,Wisconsin,South Dakota St.,1
+4474,Wisconsin,Saint Peter's,1
+4475,Wisconsin,Stetson,1
+4476,Wisconsin,TCU,1
+4477,Wisconsin,Tennessee,1
+4478,Wisconsin,Texas,1
+4479,Wisconsin,Texas A&M,1
+4480,Wisconsin,Texas Tech,0
+4481,Wisconsin,UAB,1
+4482,Wisconsin,Utah St.,1
+4483,Wisconsin,Vermont,1
+4484,Wisconsin,Virginia,0
+4485,Wisconsin,Wagner,1
+4486,Wisconsin,Washington St.,1
+4487,Wisconsin,Western Kentucky,1
+4488,Wisconsin,Yale,1
+4489,Yale,Akron,1
+4490,Yale,Alabama,0
+4491,Yale,Arizona,0
+4492,Yale,Auburn,0
+4493,Yale,Baylor,0
+4494,Yale,Boise St.,0
+4495,Yale,BYU,0
+4496,Yale,Charleston,1
+4497,Yale,Clemson,0
+4498,Yale,Colgate,0
+4499,Yale,Colorado,0
+4500,Yale,Colorado St.,0
+4501,Yale,Connecticut,0
+4502,Yale,Creighton,0
+4503,Yale,Dayton,0
+4504,Yale,Drake,0
+4505,Yale,Duke,0
+4506,Yale,Duquesne,1
+4507,Yale,Florida,0
+4508,Yale,Florida Atlantic,0
+4509,Yale,Gonzaga,0
+4510,Yale,Grambling St.,1
+4511,Yale,Grand Canyon,0
+4512,Yale,Houston,0
+4513,Yale,Howard,1
+4514,Yale,Illinois,0
+4515,Yale,Iowa St.,0
+4516,Yale,James Madison,0
+4517,Yale,Kansas,0
+4518,Yale,Kentucky,0
+4519,Yale,Long Beach St.,1
+4520,Yale,Longwood,1
+4521,Yale,Marquette,0
+4522,Yale,McNeese St.,0
+4523,Yale,Michigan St.,0
+4524,Yale,Mississippi St.,0
+4525,Yale,Montana St.,1
+4526,Yale,Morehead St.,1
+4527,Yale,Nebraska,0
+4528,Yale,Nevada,0
+4529,Yale,New Mexico,0
+4530,Yale,North Carolina,0
+4531,Yale,N.C. State,0
+4532,Yale,Northwestern,0
+4533,Yale,Oakland,1
+4534,Yale,Oregon,0
+4535,Yale,Purdue,0
+4536,Yale,Saint Mary's,0
+4537,Yale,Samford,0
+4538,Yale,San Diego St.,0
+4539,Yale,South Carolina,0
+4540,Yale,South Dakota St.,1
+4541,Yale,Saint Peter's,1
+4542,Yale,Stetson,1
+4543,Yale,TCU,0
+4544,Yale,Tennessee,0
+4545,Yale,Texas,0
+4546,Yale,Texas A&M,0
+4547,Yale,Texas Tech,0
+4548,Yale,UAB,0
+4549,Yale,Utah St.,0
+4550,Yale,Vermont,1
+4551,Yale,Virginia,1
+4552,Yale,Wagner,1
+4553,Yale,Washington St.,0
+4554,Yale,Western Kentucky,1
+4555,Yale,Wisconsin,0

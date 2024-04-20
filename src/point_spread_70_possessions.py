@@ -3,7 +3,7 @@ import pandas as pd
 
 def main():
     #Preliminaries
-    df = pd.read_csv("NCAA_School_Stats_Tempo_Free_2023.csv")
+    df = pd.read_csv("NCAA_School_Stats_Tempo_Free_2024.csv")
     df = df.set_index("Team")
     #Get team names
     POSSESSIONS = 70

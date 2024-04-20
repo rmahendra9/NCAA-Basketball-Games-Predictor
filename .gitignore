@@ -1,1 +1,5 @@
 .venv
+*.html
+*.csv
+!predictions.csv
+!predictions_diff.csv

@@ -12,7 +12,7 @@ import time
 def get_soup(url):
     session = requests.Session()
     html = session.get(url)
-    time.sleep(1)
+    time.sleep(0.5)
     return bs(html.content, "html.parser")
 
 def get_all_tables(soup):
@@ -81,6 +81,14 @@ def get_game_table_rows(school, table):
             for td in tds:
                 cells.append(td.text.strip())
             rows.append(cells)
+    i = 0
+    while i < len(rows):
+        if rows[i][1] == 'NCAA Tournament':
+            break
+        i += 1
+    if i == len(rows):
+        return []
+    rows = rows[i+1:]
     rows = [row[:9] for row in rows if len(row) == 31 and row[30] != '']
     # Clean up rows
     for row in rows:
@@ -108,6 +116,8 @@ def get_game_logs (game_log):
     gamesoup = get_soup(game_log_url)
     # extract all the tables from the web page
     tables = get_all_tables(gamesoup)
+    if len(tables) < 2:
+        return [], []
     table = tables[2]
     # get the table headers
     headers = get_table_headers(table)
@@ -128,7 +138,7 @@ def get_table_headers(table):
 
     return headers
 
-def main(url):
+def main(url, year):
     # get the soup
     soup = get_soup(url)
     # extract all the tables from the web page
@@ -152,9 +162,11 @@ def main(url):
         
         print("Added game logs for --> ", game_log[0])
 
-    gl_table_name = 'NCAA_Game_Log'
+    gl_table_name = 'NCAA_Tournament_Game_Log_' + year
     print(f"[+] Saving {gl_table_name}")
     save_as_csv(gl_table_name, gl_header, gl_rows)
 
 if __name__ == "__main__":
-    main("https://barttorvik.com/teamstats.php?year=2024")
+    import sys
+    year = sys.argv[1]
+    main(f"https://barttorvik.com/teamstats.php?year={year}", f"{year}")
