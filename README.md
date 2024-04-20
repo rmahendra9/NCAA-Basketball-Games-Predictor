@@ -4,7 +4,7 @@ This repo contains models aimed at predicting the outcomes of NCAA Men's Divisio
 
 ## Results
 
-The best model and its performance on the ESPN Bracket Challenge can be seen in this repository in the PDF file.
+The best model can be seen in this repository in the PDF file. It placed in the top 5.5% (rank 1,486,668) on the ESPN Bracket Challenge.
 
 ## Acknowledgements
 
